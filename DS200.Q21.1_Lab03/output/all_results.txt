@@ -1,0 +1,134 @@
+========== BÀI 1 ==========
+MovieID|Title|AverageRating|TotalRatings
+1010|Lawrence of Arabia (1962)|3.4444|18
+1012|Psycho (1960)|4.0000|2
+1013|The Godfather: Part II (1974)|4.0000|17
+1015|Sunset Boulevard (1950)|4.3571|7
+1020|E.T. the Extra-Terrestrial (1982)|3.6667|18
+1025|The Terminator (1984)|4.0556|18
+1028|Fight Club (1999)|3.5000|7
+1030|The Silence of the Lambs (1991)|3.1429|7
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|3.8889|18
+1039|The Lord of the Rings: The Return of the King (2003)|3.8182|11
+1040|Gladiator (2000)|3.6111|18
+1043|No Country for Old Men (2007)|3.8889|18
+1047|The Social Network (2010)|3.8571|7
+1050|Mad Max: Fury Road (2015)|3.4722|18
+TOP_MOVIE(minRatings=50)|<none>
+
+========== BÀI 2 ==========
+Genre|AverageRating|TotalRatings
+Film-Noir|4.3571|7
+Horror|4.0000|2
+Mystery|4.0000|2
+Fantasy|3.8621|29
+Crime|3.8095|42
+Drama|3.7578|128
+Sci-Fi|3.7315|54
+Action|3.7130|54
+Thriller|3.7037|27
+Family|3.6667|18
+Adventure|3.6325|83
+Biography|3.5600|25
+
+========== BÀI 3 ==========
+MovieID|Title|Gender|AverageRating|TotalRatings
+1010|Lawrence of Arabia (1962)|F|3.3125|8
+1010|Lawrence of Arabia (1962)|M|3.5500|10
+1012|Psycho (1960)|F|4.0000|2
+1013|The Godfather: Part II (1974)|F|3.9375|8
+1013|The Godfather: Part II (1974)|M|4.0556|9
+1015|Sunset Boulevard (1950)|F|4.5000|1
+1015|Sunset Boulevard (1950)|M|4.3333|6
+1020|E.T. the Extra-Terrestrial (1982)|F|3.5500|10
+1020|E.T. the Extra-Terrestrial (1982)|M|3.8125|8
+1025|The Terminator (1984)|F|4.1364|11
+1025|The Terminator (1984)|M|3.9286|7
+1028|Fight Club (1999)|F|3.5000|3
+1028|Fight Club (1999)|M|3.5000|4
+1030|The Silence of the Lambs (1991)|F|3.0000|4
+1030|The Silence of the Lambs (1991)|M|3.3333|3
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|F|3.8000|10
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|M|4.0000|8
+1039|The Lord of the Rings: The Return of the King (2003)|F|3.9000|5
+1039|The Lord of the Rings: The Return of the King (2003)|M|3.7500|6
+1040|Gladiator (2000)|F|3.6429|7
+1040|Gladiator (2000)|M|3.5909|11
+1043|No Country for Old Men (2007)|F|3.8333|6
+1043|No Country for Old Men (2007)|M|3.9167|12
+1047|The Social Network (2010)|F|3.6667|3
+1047|The Social Network (2010)|M|4.0000|4
+1050|Mad Max: Fury Road (2015)|F|3.3214|14
+1050|Mad Max: Fury Road (2015)|M|4.0000|4
+
+========== BÀI 4 ==========
+MovieID|Title|AgeGroup|AverageRating|TotalRatings
+1010|Lawrence of Arabia (1962)|25-34|3.60|5
+1010|Lawrence of Arabia (1962)|35-44|3.28|9
+1013|The Godfather: Part II (1974)|25-34|3.71|7
+1013|The Godfather: Part II (1974)|35-44|4.25|8
+1020|E.T. the Extra-Terrestrial (1982)|25-34|3.58|6
+1020|E.T. the Extra-Terrestrial (1982)|35-44|3.81|8
+1025|The Terminator (1984)|25-34|4.10|5
+1025|The Terminator (1984)|35-44|4.00|7
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|25-34|4.00|5
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|35-44|3.69|8
+1039|The Lord of the Rings: The Return of the King (2003)|35-44|3.75|6
+1040|Gladiator (2000)|25-34|3.42|6
+1040|Gladiator (2000)|35-44|3.75|6
+1043|No Country for Old Men (2007)|25-34|3.83|6
+1043|No Country for Old Men (2007)|35-44|3.75|6
+1050|Mad Max: Fury Road (2015)|25-34|3.40|10
+1050|Mad Max: Fury Road (2015)|35-44|3.64|7
+
+========== BÀI 5 ==========
+MovieID|Title|RatingValue|Count
+1010|Lawrence of Arabia (1962)|4.5000|2
+1010|Lawrence of Arabia (1962)|4.0000|3
+1010|Lawrence of Arabia (1962)|3.5000|4
+1010|Lawrence of Arabia (1962)|3.0000|9
+1012|Psycho (1960)|4.5000|1
+1012|Psycho (1960)|3.5000|1
+1013|The Godfather: Part II (1974)|4.5000|8
+1013|The Godfather: Part II (1974)|4.0000|3
+1013|The Godfather: Part II (1974)|3.5000|4
+1013|The Godfather: Part II (1974)|3.0000|2
+1015|Sunset Boulevard (1950)|4.5000|6
+1015|Sunset Boulevard (1950)|3.5000|1
+1020|E.T. the Extra-Terrestrial (1982)|4.5000|4
+1020|E.T. the Extra-Terrestrial (1982)|4.0000|2
+1020|E.T. the Extra-Terrestrial (1982)|3.5000|8
+1020|E.T. the Extra-Terrestrial (1982)|3.0000|4
+1025|The Terminator (1984)|4.5000|10
+1025|The Terminator (1984)|4.0000|3
+1025|The Terminator (1984)|3.5000|2
+1025|The Terminator (1984)|3.0000|3
+1028|Fight Club (1999)|3.5000|7
+1030|The Silence of the Lambs (1991)|4.0000|1
+1030|The Silence of the Lambs (1991)|3.0000|6
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|4.5000|3
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|4.0000|10
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|3.5000|3
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|3.0000|2
+1039|The Lord of the Rings: The Return of the King (2003)|4.5000|3
+1039|The Lord of the Rings: The Return of the King (2003)|4.0000|3
+1039|The Lord of the Rings: The Return of the King (2003)|3.5000|3
+1039|The Lord of the Rings: The Return of the King (2003)|3.0000|2
+1040|Gladiator (2000)|4.5000|3
+1040|Gladiator (2000)|4.0000|2
+1040|Gladiator (2000)|3.5000|9
+1040|Gladiator (2000)|3.0000|4
+1043|No Country for Old Men (2007)|4.5000|3
+1043|No Country for Old Men (2007)|4.0000|10
+1043|No Country for Old Men (2007)|3.5000|3
+1043|No Country for Old Men (2007)|3.0000|2
+1047|The Social Network (2010)|4.0000|6
+1047|The Social Network (2010)|3.0000|1
+1050|Mad Max: Fury Road (2015)|4.5000|2
+1050|Mad Max: Fury Road (2015)|4.0000|4
+1050|Mad Max: Fury Road (2015)|3.5000|3
+1050|Mad Max: Fury Road (2015)|3.0000|9
+
+========== BÀI 6 ==========
+Year|AverageRating|TotalRatings
+2020|3.7527|184

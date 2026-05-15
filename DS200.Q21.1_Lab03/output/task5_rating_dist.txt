@@ -1,0 +1,46 @@
+MovieID|Title|RatingValue|Count
+1010|Lawrence of Arabia (1962)|4.5000|2
+1010|Lawrence of Arabia (1962)|4.0000|3
+1010|Lawrence of Arabia (1962)|3.5000|4
+1010|Lawrence of Arabia (1962)|3.0000|9
+1012|Psycho (1960)|4.5000|1
+1012|Psycho (1960)|3.5000|1
+1013|The Godfather: Part II (1974)|4.5000|8
+1013|The Godfather: Part II (1974)|4.0000|3
+1013|The Godfather: Part II (1974)|3.5000|4
+1013|The Godfather: Part II (1974)|3.0000|2
+1015|Sunset Boulevard (1950)|4.5000|6
+1015|Sunset Boulevard (1950)|3.5000|1
+1020|E.T. the Extra-Terrestrial (1982)|4.5000|4
+1020|E.T. the Extra-Terrestrial (1982)|4.0000|2
+1020|E.T. the Extra-Terrestrial (1982)|3.5000|8
+1020|E.T. the Extra-Terrestrial (1982)|3.0000|4
+1025|The Terminator (1984)|4.5000|10
+1025|The Terminator (1984)|4.0000|3
+1025|The Terminator (1984)|3.5000|2
+1025|The Terminator (1984)|3.0000|3
+1028|Fight Club (1999)|3.5000|7
+1030|The Silence of the Lambs (1991)|4.0000|1
+1030|The Silence of the Lambs (1991)|3.0000|6
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|4.5000|3
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|4.0000|10
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|3.5000|3
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|3.0000|2
+1039|The Lord of the Rings: The Return of the King (2003)|4.5000|3
+1039|The Lord of the Rings: The Return of the King (2003)|4.0000|3
+1039|The Lord of the Rings: The Return of the King (2003)|3.5000|3
+1039|The Lord of the Rings: The Return of the King (2003)|3.0000|2
+1040|Gladiator (2000)|4.5000|3
+1040|Gladiator (2000)|4.0000|2
+1040|Gladiator (2000)|3.5000|9
+1040|Gladiator (2000)|3.0000|4
+1043|No Country for Old Men (2007)|4.5000|3
+1043|No Country for Old Men (2007)|4.0000|10
+1043|No Country for Old Men (2007)|3.5000|3
+1043|No Country for Old Men (2007)|3.0000|2
+1047|The Social Network (2010)|4.0000|6
+1047|The Social Network (2010)|3.0000|1
+1050|Mad Max: Fury Road (2015)|4.5000|2
+1050|Mad Max: Fury Road (2015)|4.0000|4
+1050|Mad Max: Fury Road (2015)|3.5000|3
+1050|Mad Max: Fury Road (2015)|3.0000|9

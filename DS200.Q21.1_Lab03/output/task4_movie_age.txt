@@ -1,0 +1,18 @@
+MovieID|Title|AgeGroup|AverageRating|TotalRatings
+1010|Lawrence of Arabia (1962)|25-34|3.60|5
+1010|Lawrence of Arabia (1962)|35-44|3.28|9
+1013|The Godfather: Part II (1974)|25-34|3.71|7
+1013|The Godfather: Part II (1974)|35-44|4.25|8
+1020|E.T. the Extra-Terrestrial (1982)|25-34|3.58|6
+1020|E.T. the Extra-Terrestrial (1982)|35-44|3.81|8
+1025|The Terminator (1984)|25-34|4.10|5
+1025|The Terminator (1984)|35-44|4.00|7
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|25-34|4.00|5
+1037|The Lord of the Rings: The Fellowship of the Ring (2001)|35-44|3.69|8
+1039|The Lord of the Rings: The Return of the King (2003)|35-44|3.75|6
+1040|Gladiator (2000)|25-34|3.42|6
+1040|Gladiator (2000)|35-44|3.75|6
+1043|No Country for Old Men (2007)|25-34|3.83|6
+1043|No Country for Old Men (2007)|35-44|3.75|6
+1050|Mad Max: Fury Road (2015)|25-34|3.40|10
+1050|Mad Max: Fury Road (2015)|35-44|3.64|7
