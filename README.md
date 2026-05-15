@@ -5,7 +5,6 @@ Repository for Big Data Analysis course labs and assignments at UIT - VNUHCM.
 ## Repository Structure
 
 - DS200.Q21.1_Lab03
-- DS200.Q21.1_Lab04
 
 ## Technologies
 
