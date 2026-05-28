@@ -1,0 +1,4 @@
+Metric|Value
+Total_Orders|99441
+Total_Customers|99382
+Total_Sellers|3095
