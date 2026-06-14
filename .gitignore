@@ -5,3 +5,5 @@ DS200.Q21.1_Lab05/data/
 Back up lab/
 P,J/
 .venv/
+.venv/
+**/__pycache__/
