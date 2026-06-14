@@ -1,0 +1,19 @@
+Video Analysis Report: Nguoi1
+==================================================
+Video Info:
+  - Source path: D:\UIT\DS200_PhanTichDuLieuLon\DS200.Q21.1_Lab05\data\video\Nguoi1.mp4
+  - Resolution: 3840x2160
+  - FPS: 29.97002997002997
+  - Total Frames: 292
+  - Duration: 9.74
+
+Detection Results:
+  - Detection Method: YOLO
+  - Total Persons Detected: 2263
+  - Average Persons/Frame: 7.75
+  - Max Persons in Single Frame: 13
+  - Frames with Persons: 292/292
+
+Processing:
+  - Processing Time: 16.17 seconds
+  - Avg Processing Time: 55.39 ms
