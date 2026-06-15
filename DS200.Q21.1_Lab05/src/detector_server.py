@@ -52,7 +52,7 @@ TEXT_FONT_SCALE = 1.2
 TEXT_THICKNESS = 2
 
 # ✅ NMS PARAMETERS
-NMS_THRESHOLD = 0.5             # Loại bỏ BBX chồng > 50%
+NMS_THRESHOLD = 0.3             # Loại bỏ BBX chồng > 30%
 CONFIDENCE_THRESHOLD_MIN = 0.3  # Confidence tối thiểu
 
 def compute_iou(box1, box2):
@@ -347,11 +347,11 @@ class AIInferenceService:
                 slicing_output = get_sliced_prediction(
                     bgr_image,
                     self.slicer_net,
-                    slice_height=256,
-                    slice_width=256,
+                    slice_height=512,  # CHỈNH CÁI NÀY LÊN 512
+                    slice_width=512,   # CHỈNH CÁI NÀY LÊN 512
                     overlap_height_ratio=0.2,
                     overlap_width_ratio=0.2,
-                )
+                    )
 
                 for item in slicing_output.object_prediction_list:
                     category_info = getattr(item, "category", None)

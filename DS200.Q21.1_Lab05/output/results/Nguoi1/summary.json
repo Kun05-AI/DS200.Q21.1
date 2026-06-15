@@ -8,16 +8,16 @@
     "duration_seconds": 9.74
   },
   "detection_summary": {
-    "total_detections": 2263,
+    "total_detections": 2231,
     "frames_processed": 292,
-    "avg_persons_per_frame": 7.75,
+    "avg_persons_per_frame": 7.64,
     "max_persons_in_frame": 13,
     "frames_with_persons": 292,
     "detection_method": "YOLO"
   },
   "processing": {
-    "processing_time_seconds": 16.17,
-    "avg_processing_time_ms": 55.39,
-    "timestamp": "2026-06-14T14:54:03.259784"
+    "processing_time_seconds": 15.34,
+    "avg_processing_time_ms": 52.54,
+    "timestamp": "2026-06-15T00:26:27.430099"
   }
 }

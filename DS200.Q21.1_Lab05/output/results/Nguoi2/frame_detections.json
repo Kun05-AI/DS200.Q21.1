@@ -10,7 +10,7 @@
       "total_frames": 466
     },
     "frame_number": 1,
-    "timestamp": 1781423608.5339804,
+    "timestamp": 1781457957.5779102,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -63,7 +63,7 @@
         "confidence": 0.332
       }
     ],
-    "processing_time_ms": 105.53,
+    "processing_time_ms": 87.3,
     "detection_method": "YOLO"
   },
   {
@@ -77,8 +77,8 @@
       "total_frames": 466
     },
     "frame_number": 2,
-    "timestamp": 1781423608.5788043,
-    "person_count": 8,
+    "timestamp": 1781457957.6179056,
+    "person_count": 7,
     "bounding_boxes": [
       {
         "x": 2110,
@@ -128,16 +128,9 @@
         "width": 110,
         "height": 293,
         "confidence": 0.328
-      },
-      {
-        "x": 2274,
-        "y": 1165,
-        "width": 118,
-        "height": 508,
-        "confidence": 0.311
       }
     ],
-    "processing_time_ms": 63.21,
+    "processing_time_ms": 62.07,
     "detection_method": "YOLO"
   },
   {
@@ -151,7 +144,7 @@
       "total_frames": 466
     },
     "frame_number": 3,
-    "timestamp": 1781423608.6235046,
+    "timestamp": 1781457957.656905,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -211,7 +204,7 @@
         "confidence": 0.317
       }
     ],
-    "processing_time_ms": 69.71,
+    "processing_time_ms": 55.72,
     "detection_method": "YOLO"
   },
   {
@@ -225,7 +218,7 @@
       "total_frames": 466
     },
     "frame_number": 4,
-    "timestamp": 1781423608.6692097,
+    "timestamp": 1781457957.6995857,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -278,7 +271,7 @@
         "confidence": 0.346
       }
     ],
-    "processing_time_ms": 80.2,
+    "processing_time_ms": 57.45,
     "detection_method": "YOLO"
   },
   {
@@ -292,7 +285,7 @@
       "total_frames": 466
     },
     "frame_number": 5,
-    "timestamp": 1781423608.7153037,
+    "timestamp": 1781457957.7403219,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -345,7 +338,7 @@
         "confidence": 0.349
       }
     ],
-    "processing_time_ms": 59.19,
+    "processing_time_ms": 60.61,
     "detection_method": "YOLO"
   },
   {
@@ -359,7 +352,7 @@
       "total_frames": 466
     },
     "frame_number": 6,
-    "timestamp": 1781423608.763249,
+    "timestamp": 1781457957.7799227,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -412,7 +405,7 @@
         "confidence": 0.307
       }
     ],
-    "processing_time_ms": 88.04,
+    "processing_time_ms": 56.59,
     "detection_method": "YOLO"
   },
   {
@@ -426,7 +419,7 @@
       "total_frames": 466
     },
     "frame_number": 7,
-    "timestamp": 1781423608.8059363,
+    "timestamp": 1781457957.837695,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -479,7 +472,7 @@
         "confidence": 0.335
       }
     ],
-    "processing_time_ms": 61.64,
+    "processing_time_ms": 55.09,
     "detection_method": "YOLO"
   },
   {
@@ -493,7 +486,7 @@
       "total_frames": 466
     },
     "frame_number": 8,
-    "timestamp": 1781423608.8801563,
+    "timestamp": 1781457957.9037592,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -546,7 +539,7 @@
         "confidence": 0.357
       }
     ],
-    "processing_time_ms": 61.89,
+    "processing_time_ms": 58.49,
     "detection_method": "YOLO"
   },
   {
@@ -560,7 +553,7 @@
       "total_frames": 466
     },
     "frame_number": 9,
-    "timestamp": 1781423608.9661024,
+    "timestamp": 1781457957.97751,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -620,7 +613,7 @@
         "confidence": 0.308
       }
     ],
-    "processing_time_ms": 71.3,
+    "processing_time_ms": 63.82,
     "detection_method": "YOLO"
   },
   {
@@ -634,7 +627,7 @@
       "total_frames": 466
     },
     "frame_number": 10,
-    "timestamp": 1781423609.0367599,
+    "timestamp": 1781457958.039509,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -701,7 +694,7 @@
         "confidence": 0.301
       }
     ],
-    "processing_time_ms": 62.81,
+    "processing_time_ms": 57.63,
     "detection_method": "YOLO"
   },
   {
@@ -715,7 +708,7 @@
       "total_frames": 466
     },
     "frame_number": 11,
-    "timestamp": 1781423609.1444476,
+    "timestamp": 1781457958.1069615,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -775,7 +768,7 @@
         "confidence": 0.316
       }
     ],
-    "processing_time_ms": 58.25,
+    "processing_time_ms": 55.69,
     "detection_method": "YOLO"
   },
   {
@@ -789,7 +782,7 @@
       "total_frames": 466
     },
     "frame_number": 12,
-    "timestamp": 1781423609.2114546,
+    "timestamp": 1781457958.1729755,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -849,7 +842,7 @@
         "confidence": 0.362
       }
     ],
-    "processing_time_ms": 57.66,
+    "processing_time_ms": 54.65,
     "detection_method": "YOLO"
   },
   {
@@ -863,7 +856,7 @@
       "total_frames": 466
     },
     "frame_number": 13,
-    "timestamp": 1781423609.2913353,
+    "timestamp": 1781457958.2412853,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -916,7 +909,7 @@
         "confidence": 0.319
       }
     ],
-    "processing_time_ms": 58.06,
+    "processing_time_ms": 56.54,
     "detection_method": "YOLO"
   },
   {
@@ -930,7 +923,7 @@
       "total_frames": 466
     },
     "frame_number": 14,
-    "timestamp": 1781423609.3692646,
+    "timestamp": 1781457958.3132854,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -983,7 +976,7 @@
         "confidence": 0.328
       }
     ],
-    "processing_time_ms": 61.06,
+    "processing_time_ms": 53.69,
     "detection_method": "YOLO"
   },
   {
@@ -997,7 +990,7 @@
       "total_frames": 466
     },
     "frame_number": 15,
-    "timestamp": 1781423609.4470208,
+    "timestamp": 1781457958.382648,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -1043,7 +1036,7 @@
         "confidence": 0.364
       }
     ],
-    "processing_time_ms": 60.2,
+    "processing_time_ms": 54.6,
     "detection_method": "YOLO"
   },
   {
@@ -1057,7 +1050,7 @@
       "total_frames": 466
     },
     "frame_number": 16,
-    "timestamp": 1781423609.5133746,
+    "timestamp": 1781457958.4474916,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -1110,7 +1103,7 @@
         "confidence": 0.328
       }
     ],
-    "processing_time_ms": 63.4,
+    "processing_time_ms": 53.06,
     "detection_method": "YOLO"
   },
   {
@@ -1124,7 +1117,7 @@
       "total_frames": 466
     },
     "frame_number": 17,
-    "timestamp": 1781423609.5810313,
+    "timestamp": 1781457958.514628,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -1170,7 +1163,7 @@
         "confidence": 0.511
       }
     ],
-    "processing_time_ms": 58.25,
+    "processing_time_ms": 55.83,
     "detection_method": "YOLO"
   },
   {
@@ -1184,7 +1177,7 @@
       "total_frames": 466
     },
     "frame_number": 18,
-    "timestamp": 1781423609.6479833,
+    "timestamp": 1781457958.578647,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -1230,7 +1223,7 @@
         "confidence": 0.344
       }
     ],
-    "processing_time_ms": 61.22,
+    "processing_time_ms": 55.42,
     "detection_method": "YOLO"
   },
   {
@@ -1244,7 +1237,7 @@
       "total_frames": 466
     },
     "frame_number": 19,
-    "timestamp": 1781423609.71998,
+    "timestamp": 1781457958.6423907,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -1297,7 +1290,7 @@
         "confidence": 0.367
       }
     ],
-    "processing_time_ms": 68.78,
+    "processing_time_ms": 57.09,
     "detection_method": "YOLO"
   },
   {
@@ -1311,7 +1304,7 @@
       "total_frames": 466
     },
     "frame_number": 20,
-    "timestamp": 1781423609.795891,
+    "timestamp": 1781457958.7058873,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -1371,7 +1364,7 @@
         "confidence": 0.303
       }
     ],
-    "processing_time_ms": 80.68,
+    "processing_time_ms": 55.82,
     "detection_method": "YOLO"
   },
   {
@@ -1385,7 +1378,7 @@
       "total_frames": 466
     },
     "frame_number": 21,
-    "timestamp": 1781423609.8619947,
+    "timestamp": 1781457958.7703788,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -1438,7 +1431,7 @@
         "confidence": 0.394
       }
     ],
-    "processing_time_ms": 66.05,
+    "processing_time_ms": 53.46,
     "detection_method": "YOLO"
   },
   {
@@ -1452,7 +1445,7 @@
       "total_frames": 466
     },
     "frame_number": 22,
-    "timestamp": 1781423609.9369981,
+    "timestamp": 1781457958.840137,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -1505,7 +1498,7 @@
         "confidence": 0.323
       }
     ],
-    "processing_time_ms": 72.37,
+    "processing_time_ms": 55.03,
     "detection_method": "YOLO"
   },
   {
@@ -1519,7 +1512,7 @@
       "total_frames": 466
     },
     "frame_number": 23,
-    "timestamp": 1781423610.007097,
+    "timestamp": 1781457958.9045806,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -1572,7 +1565,7 @@
         "confidence": 0.397
       }
     ],
-    "processing_time_ms": 82.77,
+    "processing_time_ms": 54.61,
     "detection_method": "YOLO"
   },
   {
@@ -1586,7 +1579,7 @@
       "total_frames": 466
     },
     "frame_number": 24,
-    "timestamp": 1781423610.107192,
+    "timestamp": 1781457958.9735827,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -1639,7 +1632,7 @@
         "confidence": 0.311
       }
     ],
-    "processing_time_ms": 63.94,
+    "processing_time_ms": 55.23,
     "detection_method": "YOLO"
   },
   {
@@ -1653,7 +1646,7 @@
       "total_frames": 466
     },
     "frame_number": 25,
-    "timestamp": 1781423610.1940074,
+    "timestamp": 1781457959.036556,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -1706,7 +1699,7 @@
         "confidence": 0.374
       }
     ],
-    "processing_time_ms": 61.25,
+    "processing_time_ms": 53.88,
     "detection_method": "YOLO"
   },
   {
@@ -1720,7 +1713,7 @@
       "total_frames": 466
     },
     "frame_number": 26,
-    "timestamp": 1781423610.2730675,
+    "timestamp": 1781457959.1025572,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -1773,7 +1766,7 @@
         "confidence": 0.333
       }
     ],
-    "processing_time_ms": 62.82,
+    "processing_time_ms": 54.37,
     "detection_method": "YOLO"
   },
   {
@@ -1787,7 +1780,7 @@
       "total_frames": 466
     },
     "frame_number": 27,
-    "timestamp": 1781423610.3807955,
+    "timestamp": 1781457959.1677775,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -1840,7 +1833,7 @@
         "confidence": 0.35
       }
     ],
-    "processing_time_ms": 61.48,
+    "processing_time_ms": 53.95,
     "detection_method": "YOLO"
   },
   {
@@ -1854,7 +1847,7 @@
       "total_frames": 466
     },
     "frame_number": 28,
-    "timestamp": 1781423610.4610653,
+    "timestamp": 1781457959.2315693,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -1907,7 +1900,7 @@
         "confidence": 0.318
       }
     ],
-    "processing_time_ms": 56.61,
+    "processing_time_ms": 59.09,
     "detection_method": "YOLO"
   },
   {
@@ -1921,7 +1914,7 @@
       "total_frames": 466
     },
     "frame_number": 29,
-    "timestamp": 1781423610.5380955,
+    "timestamp": 1781457959.2972665,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -1967,7 +1960,7 @@
         "confidence": 0.419
       }
     ],
-    "processing_time_ms": 68.99,
+    "processing_time_ms": 57.49,
     "detection_method": "YOLO"
   },
   {
@@ -1981,7 +1974,7 @@
       "total_frames": 466
     },
     "frame_number": 30,
-    "timestamp": 1781423610.613132,
+    "timestamp": 1781457959.3632665,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -2027,7 +2020,7 @@
         "confidence": 0.473
       }
     ],
-    "processing_time_ms": 64.26,
+    "processing_time_ms": 55.52,
     "detection_method": "YOLO"
   },
   {
@@ -2041,7 +2034,7 @@
       "total_frames": 466
     },
     "frame_number": 31,
-    "timestamp": 1781423610.6861937,
+    "timestamp": 1781457959.4262667,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -2094,7 +2087,7 @@
         "confidence": 0.349
       }
     ],
-    "processing_time_ms": 63.34,
+    "processing_time_ms": 54.33,
     "detection_method": "YOLO"
   },
   {
@@ -2108,7 +2101,7 @@
       "total_frames": 466
     },
     "frame_number": 32,
-    "timestamp": 1781423610.75856,
+    "timestamp": 1781457959.4912822,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -2168,7 +2161,7 @@
         "confidence": 0.335
       }
     ],
-    "processing_time_ms": 65.32,
+    "processing_time_ms": 55.48,
     "detection_method": "YOLO"
   },
   {
@@ -2182,7 +2175,7 @@
       "total_frames": 466
     },
     "frame_number": 33,
-    "timestamp": 1781423610.8303263,
+    "timestamp": 1781457959.5622663,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -2242,7 +2235,7 @@
         "confidence": 0.327
       }
     ],
-    "processing_time_ms": 58.73,
+    "processing_time_ms": 58.34,
     "detection_method": "YOLO"
   },
   {
@@ -2256,7 +2249,7 @@
       "total_frames": 466
     },
     "frame_number": 34,
-    "timestamp": 1781423610.907423,
+    "timestamp": 1781457959.6292667,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -2316,7 +2309,7 @@
         "confidence": 0.305
       }
     ],
-    "processing_time_ms": 60.24,
+    "processing_time_ms": 59.17,
     "detection_method": "YOLO"
   },
   {
@@ -2330,7 +2323,7 @@
       "total_frames": 466
     },
     "frame_number": 35,
-    "timestamp": 1781423610.9861257,
+    "timestamp": 1781457959.6967375,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -2383,7 +2376,7 @@
         "confidence": 0.554
       }
     ],
-    "processing_time_ms": 57.62,
+    "processing_time_ms": 53.64,
     "detection_method": "YOLO"
   },
   {
@@ -2397,7 +2390,7 @@
       "total_frames": 466
     },
     "frame_number": 36,
-    "timestamp": 1781423611.0606008,
+    "timestamp": 1781457959.7612333,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -2471,7 +2464,7 @@
         "confidence": 0.305
       }
     ],
-    "processing_time_ms": 70.32,
+    "processing_time_ms": 60.57,
     "detection_method": "YOLO"
   },
   {
@@ -2485,7 +2478,7 @@
       "total_frames": 466
     },
     "frame_number": 37,
-    "timestamp": 1781423611.1410995,
+    "timestamp": 1781457959.8283072,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -2545,7 +2538,7 @@
         "confidence": 0.37
       }
     ],
-    "processing_time_ms": 73.69,
+    "processing_time_ms": 54.49,
     "detection_method": "YOLO"
   },
   {
@@ -2559,7 +2552,7 @@
       "total_frames": 466
     },
     "frame_number": 38,
-    "timestamp": 1781423611.2095344,
+    "timestamp": 1781457959.8963075,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -2612,7 +2605,7 @@
         "confidence": 0.611
       }
     ],
-    "processing_time_ms": 62.55,
+    "processing_time_ms": 56.4,
     "detection_method": "YOLO"
   },
   {
@@ -2626,7 +2619,7 @@
       "total_frames": 466
     },
     "frame_number": 39,
-    "timestamp": 1781423611.2845604,
+    "timestamp": 1781457959.96921,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -2686,7 +2679,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 59.18,
+    "processing_time_ms": 59.23,
     "detection_method": "YOLO"
   },
   {
@@ -2700,7 +2693,7 @@
       "total_frames": 466
     },
     "frame_number": 40,
-    "timestamp": 1781423611.3535202,
+    "timestamp": 1781457960.031695,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -2753,7 +2746,7 @@
         "confidence": 0.64
       }
     ],
-    "processing_time_ms": 69.73,
+    "processing_time_ms": 51.69,
     "detection_method": "YOLO"
   },
   {
@@ -2767,7 +2760,7 @@
       "total_frames": 466
     },
     "frame_number": 41,
-    "timestamp": 1781423611.446808,
+    "timestamp": 1781457960.1043682,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -2820,7 +2813,7 @@
         "confidence": 0.616
       }
     ],
-    "processing_time_ms": 63.21,
+    "processing_time_ms": 53.87,
     "detection_method": "YOLO"
   },
   {
@@ -2834,7 +2827,7 @@
       "total_frames": 466
     },
     "frame_number": 42,
-    "timestamp": 1781423611.5233269,
+    "timestamp": 1781457960.1743681,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -2887,7 +2880,7 @@
         "confidence": 0.535
       }
     ],
-    "processing_time_ms": 62.02,
+    "processing_time_ms": 56.86,
     "detection_method": "YOLO"
   },
   {
@@ -2901,7 +2894,7 @@
       "total_frames": 466
     },
     "frame_number": 43,
-    "timestamp": 1781423611.5975547,
+    "timestamp": 1781457960.239749,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -2961,7 +2954,7 @@
         "confidence": 0.373
       }
     ],
-    "processing_time_ms": 76.12,
+    "processing_time_ms": 52.67,
     "detection_method": "YOLO"
   },
   {
@@ -2975,7 +2968,7 @@
       "total_frames": 466
     },
     "frame_number": 44,
-    "timestamp": 1781423611.6689732,
+    "timestamp": 1781457960.3061178,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -3028,7 +3021,7 @@
         "confidence": 0.498
       }
     ],
-    "processing_time_ms": 64.0,
+    "processing_time_ms": 54.58,
     "detection_method": "YOLO"
   },
   {
@@ -3042,7 +3035,7 @@
       "total_frames": 466
     },
     "frame_number": 45,
-    "timestamp": 1781423611.7559733,
+    "timestamp": 1781457960.3682249,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -3095,7 +3088,7 @@
         "confidence": 0.509
       }
     ],
-    "processing_time_ms": 62.97,
+    "processing_time_ms": 57.01,
     "detection_method": "YOLO"
   },
   {
@@ -3109,7 +3102,7 @@
       "total_frames": 466
     },
     "frame_number": 46,
-    "timestamp": 1781423611.823183,
+    "timestamp": 1781457960.4332237,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -3169,7 +3162,7 @@
         "confidence": 0.391
       }
     ],
-    "processing_time_ms": 59.54,
+    "processing_time_ms": 52.15,
     "detection_method": "YOLO"
   },
   {
@@ -3183,7 +3176,7 @@
       "total_frames": 466
     },
     "frame_number": 47,
-    "timestamp": 1781423611.906217,
+    "timestamp": 1781457960.5022233,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -3243,7 +3236,7 @@
         "confidence": 0.43
       }
     ],
-    "processing_time_ms": 65.51,
+    "processing_time_ms": 51.89,
     "detection_method": "YOLO"
   },
   {
@@ -3257,7 +3250,7 @@
       "total_frames": 466
     },
     "frame_number": 48,
-    "timestamp": 1781423611.9951787,
+    "timestamp": 1781457960.5652356,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -3331,7 +3324,7 @@
         "confidence": 0.3
       }
     ],
-    "processing_time_ms": 64.22,
+    "processing_time_ms": 57.22,
     "detection_method": "YOLO"
   },
   {
@@ -3345,7 +3338,7 @@
       "total_frames": 466
     },
     "frame_number": 49,
-    "timestamp": 1781423612.0731335,
+    "timestamp": 1781457960.6304343,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -3405,7 +3398,7 @@
         "confidence": 0.393
       }
     ],
-    "processing_time_ms": 62.12,
+    "processing_time_ms": 53.28,
     "detection_method": "YOLO"
   },
   {
@@ -3419,7 +3412,7 @@
       "total_frames": 466
     },
     "frame_number": 50,
-    "timestamp": 1781423612.1426961,
+    "timestamp": 1781457960.6977572,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -3486,7 +3479,7 @@
         "confidence": 0.324
       }
     ],
-    "processing_time_ms": 62.85,
+    "processing_time_ms": 59.69,
     "detection_method": "YOLO"
   },
   {
@@ -3500,7 +3493,7 @@
       "total_frames": 466
     },
     "frame_number": 51,
-    "timestamp": 1781423612.2161639,
+    "timestamp": 1781457960.7603726,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -3560,7 +3553,7 @@
         "confidence": 0.324
       }
     ],
-    "processing_time_ms": 60.8,
+    "processing_time_ms": 53.57,
     "detection_method": "YOLO"
   },
   {
@@ -3574,7 +3567,7 @@
       "total_frames": 466
     },
     "frame_number": 52,
-    "timestamp": 1781423612.291592,
+    "timestamp": 1781457960.820438,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -3627,7 +3620,7 @@
         "confidence": 0.562
       }
     ],
-    "processing_time_ms": 57.72,
+    "processing_time_ms": 53.14,
     "detection_method": "YOLO"
   },
   {
@@ -3641,7 +3634,7 @@
       "total_frames": 466
     },
     "frame_number": 53,
-    "timestamp": 1781423612.3714695,
+    "timestamp": 1781457960.88818,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -3701,7 +3694,7 @@
         "confidence": 0.301
       }
     ],
-    "processing_time_ms": 67.14,
+    "processing_time_ms": 52.54,
     "detection_method": "YOLO"
   },
   {
@@ -3715,7 +3708,7 @@
       "total_frames": 466
     },
     "frame_number": 54,
-    "timestamp": 1781423612.443617,
+    "timestamp": 1781457960.9532301,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -3775,7 +3768,7 @@
         "confidence": 0.32
       }
     ],
-    "processing_time_ms": 61.96,
+    "processing_time_ms": 54.09,
     "detection_method": "YOLO"
   },
   {
@@ -3789,7 +3782,7 @@
       "total_frames": 466
     },
     "frame_number": 55,
-    "timestamp": 1781423612.5503104,
+    "timestamp": 1781457961.0542796,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -3842,7 +3835,7 @@
         "confidence": 0.45
       }
     ],
-    "processing_time_ms": 60.86,
+    "processing_time_ms": 51.95,
     "detection_method": "YOLO"
   },
   {
@@ -3856,7 +3849,7 @@
       "total_frames": 466
     },
     "frame_number": 56,
-    "timestamp": 1781423612.6211042,
+    "timestamp": 1781457961.1148198,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -3909,7 +3902,7 @@
         "confidence": 0.48
       }
     ],
-    "processing_time_ms": 63.98,
+    "processing_time_ms": 52.14,
     "detection_method": "YOLO"
   },
   {
@@ -3923,7 +3916,7 @@
       "total_frames": 466
     },
     "frame_number": 57,
-    "timestamp": 1781423612.6962473,
+    "timestamp": 1781457961.1778176,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -3983,7 +3976,7 @@
         "confidence": 0.353
       }
     ],
-    "processing_time_ms": 65.39,
+    "processing_time_ms": 57.04,
     "detection_method": "YOLO"
   },
   {
@@ -3997,7 +3990,7 @@
       "total_frames": 466
     },
     "frame_number": 58,
-    "timestamp": 1781423612.7683353,
+    "timestamp": 1781457961.2395163,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -4057,7 +4050,7 @@
         "confidence": 0.405
       }
     ],
-    "processing_time_ms": 61.86,
+    "processing_time_ms": 59.62,
     "detection_method": "YOLO"
   },
   {
@@ -4071,7 +4064,7 @@
       "total_frames": 466
     },
     "frame_number": 59,
-    "timestamp": 1781423612.8403845,
+    "timestamp": 1781457961.3029962,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -4131,7 +4124,7 @@
         "confidence": 0.472
       }
     ],
-    "processing_time_ms": 67.43,
+    "processing_time_ms": 54.81,
     "detection_method": "YOLO"
   },
   {
@@ -4145,7 +4138,7 @@
       "total_frames": 466
     },
     "frame_number": 60,
-    "timestamp": 1781423612.9143665,
+    "timestamp": 1781457961.3651106,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -4205,7 +4198,7 @@
         "confidence": 0.5
       }
     ],
-    "processing_time_ms": 69.57,
+    "processing_time_ms": 55.85,
     "detection_method": "YOLO"
   },
   {
@@ -4219,7 +4212,7 @@
       "total_frames": 466
     },
     "frame_number": 61,
-    "timestamp": 1781423612.9861794,
+    "timestamp": 1781457961.425759,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -4279,7 +4272,7 @@
         "confidence": 0.52
       }
     ],
-    "processing_time_ms": 84.57,
+    "processing_time_ms": 52.95,
     "detection_method": "YOLO"
   },
   {
@@ -4293,7 +4286,7 @@
       "total_frames": 466
     },
     "frame_number": 62,
-    "timestamp": 1781423613.0689938,
+    "timestamp": 1781457961.4937716,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -4353,7 +4346,7 @@
         "confidence": 0.576
       }
     ],
-    "processing_time_ms": 66.85,
+    "processing_time_ms": 52.82,
     "detection_method": "YOLO"
   },
   {
@@ -4367,7 +4360,7 @@
       "total_frames": 466
     },
     "frame_number": 63,
-    "timestamp": 1781423613.1404061,
+    "timestamp": 1781457961.5637305,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -4434,7 +4427,7 @@
         "confidence": 0.342
       }
     ],
-    "processing_time_ms": 65.64,
+    "processing_time_ms": 52.78,
     "detection_method": "YOLO"
   },
   {
@@ -4448,7 +4441,7 @@
       "total_frames": 466
     },
     "frame_number": 64,
-    "timestamp": 1781423613.2233937,
+    "timestamp": 1781457961.6287072,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -4508,7 +4501,7 @@
         "confidence": 0.518
       }
     ],
-    "processing_time_ms": 76.32,
+    "processing_time_ms": 52.53,
     "detection_method": "YOLO"
   },
   {
@@ -4522,7 +4515,7 @@
       "total_frames": 466
     },
     "frame_number": 65,
-    "timestamp": 1781423613.3239865,
+    "timestamp": 1781457961.6959524,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -4589,7 +4582,7 @@
         "confidence": 0.306
       }
     ],
-    "processing_time_ms": 75.85,
+    "processing_time_ms": 52.71,
     "detection_method": "YOLO"
   },
   {
@@ -4603,7 +4596,7 @@
       "total_frames": 466
     },
     "frame_number": 66,
-    "timestamp": 1781423613.4044323,
+    "timestamp": 1781457961.757888,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -4677,7 +4670,7 @@
         "confidence": 0.306
       }
     ],
-    "processing_time_ms": 61.74,
+    "processing_time_ms": 55.32,
     "detection_method": "YOLO"
   },
   {
@@ -4691,7 +4684,7 @@
       "total_frames": 466
     },
     "frame_number": 67,
-    "timestamp": 1781423613.4902835,
+    "timestamp": 1781457961.8222542,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -4751,7 +4744,7 @@
         "confidence": 0.478
       }
     ],
-    "processing_time_ms": 69.25,
+    "processing_time_ms": 52.49,
     "detection_method": "YOLO"
   },
   {
@@ -4765,7 +4758,7 @@
       "total_frames": 466
     },
     "frame_number": 68,
-    "timestamp": 1781423613.5731032,
+    "timestamp": 1781457961.8825762,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -4825,7 +4818,7 @@
         "confidence": 0.413
       }
     ],
-    "processing_time_ms": 73.98,
+    "processing_time_ms": 57.1,
     "detection_method": "YOLO"
   },
   {
@@ -4839,7 +4832,7 @@
       "total_frames": 466
     },
     "frame_number": 69,
-    "timestamp": 1781423613.6703086,
+    "timestamp": 1781457961.9460676,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -4906,7 +4899,7 @@
         "confidence": 0.329
       }
     ],
-    "processing_time_ms": 76.9,
+    "processing_time_ms": 60.97,
     "detection_method": "YOLO"
   },
   {
@@ -4920,7 +4913,7 @@
       "total_frames": 466
     },
     "frame_number": 70,
-    "timestamp": 1781423613.7579858,
+    "timestamp": 1781457962.0106542,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -4994,7 +4987,7 @@
         "confidence": 0.312
       }
     ],
-    "processing_time_ms": 60.94,
+    "processing_time_ms": 53.81,
     "detection_method": "YOLO"
   },
   {
@@ -5008,7 +5001,7 @@
       "total_frames": 466
     },
     "frame_number": 71,
-    "timestamp": 1781423613.830027,
+    "timestamp": 1781457962.075111,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -5082,7 +5075,7 @@
         "confidence": 0.321
       }
     ],
-    "processing_time_ms": 60.72,
+    "processing_time_ms": 53.53,
     "detection_method": "YOLO"
   },
   {
@@ -5096,7 +5089,7 @@
       "total_frames": 466
     },
     "frame_number": 72,
-    "timestamp": 1781423613.927698,
+    "timestamp": 1781457962.1366282,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -5170,7 +5163,7 @@
         "confidence": 0.334
       }
     ],
-    "processing_time_ms": 69.69,
+    "processing_time_ms": 55.76,
     "detection_method": "YOLO"
   },
   {
@@ -5184,7 +5177,7 @@
       "total_frames": 466
     },
     "frame_number": 73,
-    "timestamp": 1781423614.0039864,
+    "timestamp": 1781457962.2031896,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -5258,7 +5251,7 @@
         "confidence": 0.332
       }
     ],
-    "processing_time_ms": 74.97,
+    "processing_time_ms": 56.37,
     "detection_method": "YOLO"
   },
   {
@@ -5272,7 +5265,7 @@
       "total_frames": 466
     },
     "frame_number": 74,
-    "timestamp": 1781423614.0933847,
+    "timestamp": 1781457962.274109,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -5339,7 +5332,7 @@
         "confidence": 0.369
       }
     ],
-    "processing_time_ms": 57.08,
+    "processing_time_ms": 52.59,
     "detection_method": "YOLO"
   },
   {
@@ -5353,7 +5346,7 @@
       "total_frames": 466
     },
     "frame_number": 75,
-    "timestamp": 1781423614.169306,
+    "timestamp": 1781457962.339626,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -5427,7 +5420,7 @@
         "confidence": 0.322
       }
     ],
-    "processing_time_ms": 57.89,
+    "processing_time_ms": 58.33,
     "detection_method": "YOLO"
   },
   {
@@ -5441,7 +5434,7 @@
       "total_frames": 466
     },
     "frame_number": 76,
-    "timestamp": 1781423614.2494354,
+    "timestamp": 1781457962.4033666,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -5508,7 +5501,7 @@
         "confidence": 0.338
       }
     ],
-    "processing_time_ms": 62.38,
+    "processing_time_ms": 57.88,
     "detection_method": "YOLO"
   },
   {
@@ -5522,7 +5515,7 @@
       "total_frames": 466
     },
     "frame_number": 77,
-    "timestamp": 1781423614.3309581,
+    "timestamp": 1781457962.4693325,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -5596,7 +5589,7 @@
         "confidence": 0.312
       }
     ],
-    "processing_time_ms": 78.54,
+    "processing_time_ms": 54.21,
     "detection_method": "YOLO"
   },
   {
@@ -5610,7 +5603,7 @@
       "total_frames": 466
     },
     "frame_number": 78,
-    "timestamp": 1781423614.4101279,
+    "timestamp": 1781457962.5343328,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -5677,7 +5670,7 @@
         "confidence": 0.375
       }
     ],
-    "processing_time_ms": 59.02,
+    "processing_time_ms": 55.81,
     "detection_method": "YOLO"
   },
   {
@@ -5691,7 +5684,7 @@
       "total_frames": 466
     },
     "frame_number": 79,
-    "timestamp": 1781423614.475321,
+    "timestamp": 1781457962.5994625,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -5758,7 +5751,7 @@
         "confidence": 0.362
       }
     ],
-    "processing_time_ms": 63.14,
+    "processing_time_ms": 58.04,
     "detection_method": "YOLO"
   },
   {
@@ -5772,7 +5765,7 @@
       "total_frames": 466
     },
     "frame_number": 80,
-    "timestamp": 1781423614.5452514,
+    "timestamp": 1781457962.6674628,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -5839,7 +5832,7 @@
         "confidence": 0.324
       }
     ],
-    "processing_time_ms": 73.84,
+    "processing_time_ms": 53.2,
     "detection_method": "YOLO"
   },
   {
@@ -5853,7 +5846,7 @@
       "total_frames": 466
     },
     "frame_number": 81,
-    "timestamp": 1781423614.6193674,
+    "timestamp": 1781457962.7384622,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -5913,7 +5906,7 @@
         "confidence": 0.384
       }
     ],
-    "processing_time_ms": 59.96,
+    "processing_time_ms": 54.05,
     "detection_method": "YOLO"
   },
   {
@@ -5927,7 +5920,7 @@
       "total_frames": 466
     },
     "frame_number": 82,
-    "timestamp": 1781423614.7053518,
+    "timestamp": 1781457962.7992358,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -5987,7 +5980,7 @@
         "confidence": 0.361
       }
     ],
-    "processing_time_ms": 67.04,
+    "processing_time_ms": 54.2,
     "detection_method": "YOLO"
   },
   {
@@ -6001,7 +5994,7 @@
       "total_frames": 466
     },
     "frame_number": 83,
-    "timestamp": 1781423614.7791314,
+    "timestamp": 1781457962.865823,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6061,7 +6054,7 @@
         "confidence": 0.428
       }
     ],
-    "processing_time_ms": 71.59,
+    "processing_time_ms": 56.58,
     "detection_method": "YOLO"
   },
   {
@@ -6075,7 +6068,7 @@
       "total_frames": 466
     },
     "frame_number": 84,
-    "timestamp": 1781423614.8600366,
+    "timestamp": 1781457962.9324148,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6135,7 +6128,7 @@
         "confidence": 0.487
       }
     ],
-    "processing_time_ms": 85.89,
+    "processing_time_ms": 59.79,
     "detection_method": "YOLO"
   },
   {
@@ -6149,7 +6142,7 @@
       "total_frames": 466
     },
     "frame_number": 85,
-    "timestamp": 1781423614.9435987,
+    "timestamp": 1781457962.9987717,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6209,7 +6202,7 @@
         "confidence": 0.501
       }
     ],
-    "processing_time_ms": 76.93,
+    "processing_time_ms": 52.82,
     "detection_method": "YOLO"
   },
   {
@@ -6223,7 +6216,7 @@
       "total_frames": 466
     },
     "frame_number": 86,
-    "timestamp": 1781423615.0164688,
+    "timestamp": 1781457963.0652697,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6283,7 +6276,7 @@
         "confidence": 0.391
       }
     ],
-    "processing_time_ms": 80.14,
+    "processing_time_ms": 57.57,
     "detection_method": "YOLO"
   },
   {
@@ -6297,7 +6290,7 @@
       "total_frames": 466
     },
     "frame_number": 87,
-    "timestamp": 1781423615.0945234,
+    "timestamp": 1781457963.12927,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6357,7 +6350,7 @@
         "confidence": 0.491
       }
     ],
-    "processing_time_ms": 74.7,
+    "processing_time_ms": 52.21,
     "detection_method": "YOLO"
   },
   {
@@ -6371,7 +6364,7 @@
       "total_frames": 466
     },
     "frame_number": 88,
-    "timestamp": 1781423615.1918294,
+    "timestamp": 1781457963.1942694,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6431,7 +6424,7 @@
         "confidence": 0.479
       }
     ],
-    "processing_time_ms": 72.48,
+    "processing_time_ms": 54.43,
     "detection_method": "YOLO"
   },
   {
@@ -6445,7 +6438,7 @@
       "total_frames": 466
     },
     "frame_number": 89,
-    "timestamp": 1781423615.296128,
+    "timestamp": 1781457963.2646914,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6505,7 +6498,7 @@
         "confidence": 0.441
       }
     ],
-    "processing_time_ms": 72.03,
+    "processing_time_ms": 60.18,
     "detection_method": "YOLO"
   },
   {
@@ -6519,7 +6512,7 @@
       "total_frames": 466
     },
     "frame_number": 90,
-    "timestamp": 1781423615.3720677,
+    "timestamp": 1781457963.3261917,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6579,7 +6572,7 @@
         "confidence": 0.448
       }
     ],
-    "processing_time_ms": 60.69,
+    "processing_time_ms": 64.96,
     "detection_method": "YOLO"
   },
   {
@@ -6593,7 +6586,7 @@
       "total_frames": 466
     },
     "frame_number": 91,
-    "timestamp": 1781423615.4717069,
+    "timestamp": 1781457963.3960552,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6653,7 +6646,7 @@
         "confidence": 0.487
       }
     ],
-    "processing_time_ms": 70.82,
+    "processing_time_ms": 59.39,
     "detection_method": "YOLO"
   },
   {
@@ -6667,7 +6660,7 @@
       "total_frames": 466
     },
     "frame_number": 92,
-    "timestamp": 1781423615.5640361,
+    "timestamp": 1781457963.4572759,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6727,7 +6720,7 @@
         "confidence": 0.475
       }
     ],
-    "processing_time_ms": 63.37,
+    "processing_time_ms": 51.88,
     "detection_method": "YOLO"
   },
   {
@@ -6741,7 +6734,7 @@
       "total_frames": 466
     },
     "frame_number": 93,
-    "timestamp": 1781423615.6491828,
+    "timestamp": 1781457963.5251367,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6801,7 +6794,7 @@
         "confidence": 0.469
       }
     ],
-    "processing_time_ms": 60.47,
+    "processing_time_ms": 54.21,
     "detection_method": "YOLO"
   },
   {
@@ -6815,7 +6808,7 @@
       "total_frames": 466
     },
     "frame_number": 94,
-    "timestamp": 1781423615.7307463,
+    "timestamp": 1781457963.5931342,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6875,7 +6868,7 @@
         "confidence": 0.368
       }
     ],
-    "processing_time_ms": 61.65,
+    "processing_time_ms": 52.89,
     "detection_method": "YOLO"
   },
   {
@@ -6889,7 +6882,7 @@
       "total_frames": 466
     },
     "frame_number": 95,
-    "timestamp": 1781423615.8071811,
+    "timestamp": 1781457963.6681836,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -6949,7 +6942,7 @@
         "confidence": 0.417
       }
     ],
-    "processing_time_ms": 62.39,
+    "processing_time_ms": 52.17,
     "detection_method": "YOLO"
   },
   {
@@ -6963,7 +6956,7 @@
       "total_frames": 466
     },
     "frame_number": 96,
-    "timestamp": 1781423615.8872652,
+    "timestamp": 1781457963.7368703,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -7023,7 +7016,7 @@
         "confidence": 0.419
       }
     ],
-    "processing_time_ms": 65.68,
+    "processing_time_ms": 53.06,
     "detection_method": "YOLO"
   },
   {
@@ -7037,7 +7030,7 @@
       "total_frames": 466
     },
     "frame_number": 97,
-    "timestamp": 1781423615.9676392,
+    "timestamp": 1781457963.8004596,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -7097,7 +7090,7 @@
         "confidence": 0.43
       }
     ],
-    "processing_time_ms": 68.68,
+    "processing_time_ms": 52.07,
     "detection_method": "YOLO"
   },
   {
@@ -7111,7 +7104,7 @@
       "total_frames": 466
     },
     "frame_number": 98,
-    "timestamp": 1781423616.0334442,
+    "timestamp": 1781457963.8644595,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -7171,7 +7164,7 @@
         "confidence": 0.381
       }
     ],
-    "processing_time_ms": 66.63,
+    "processing_time_ms": 57.3,
     "detection_method": "YOLO"
   },
   {
@@ -7185,7 +7178,7 @@
       "total_frames": 466
     },
     "frame_number": 99,
-    "timestamp": 1781423616.1124468,
+    "timestamp": 1781457963.9299624,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -7245,7 +7238,7 @@
         "confidence": 0.422
       }
     ],
-    "processing_time_ms": 74.56,
+    "processing_time_ms": 64.29,
     "detection_method": "YOLO"
   },
   {
@@ -7259,7 +7252,7 @@
       "total_frames": 466
     },
     "frame_number": 100,
-    "timestamp": 1781423616.187133,
+    "timestamp": 1781457963.991009,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -7326,7 +7319,7 @@
         "confidence": 0.309
       }
     ],
-    "processing_time_ms": 78.1,
+    "processing_time_ms": 54.42,
     "detection_method": "YOLO"
   },
   {
@@ -7340,7 +7333,7 @@
       "total_frames": 466
     },
     "frame_number": 101,
-    "timestamp": 1781423616.2663856,
+    "timestamp": 1781457964.0567873,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -7400,7 +7393,7 @@
         "confidence": 0.337
       }
     ],
-    "processing_time_ms": 69.19,
+    "processing_time_ms": 52.25,
     "detection_method": "YOLO"
   },
   {
@@ -7414,7 +7407,7 @@
       "total_frames": 466
     },
     "frame_number": 102,
-    "timestamp": 1781423616.3501744,
+    "timestamp": 1781457964.1225767,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -7474,7 +7467,7 @@
         "confidence": 0.359
       }
     ],
-    "processing_time_ms": 60.44,
+    "processing_time_ms": 54.74,
     "detection_method": "YOLO"
   },
   {
@@ -7488,7 +7481,7 @@
       "total_frames": 466
     },
     "frame_number": 103,
-    "timestamp": 1781423616.4353979,
+    "timestamp": 1781457964.1901338,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -7548,7 +7541,7 @@
         "confidence": 0.359
       }
     ],
-    "processing_time_ms": 71.36,
+    "processing_time_ms": 55.73,
     "detection_method": "YOLO"
   },
   {
@@ -7562,7 +7555,7 @@
       "total_frames": 466
     },
     "frame_number": 104,
-    "timestamp": 1781423616.5161612,
+    "timestamp": 1781457964.2660785,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -7629,7 +7622,7 @@
         "confidence": 0.312
       }
     ],
-    "processing_time_ms": 61.67,
+    "processing_time_ms": 52.98,
     "detection_method": "YOLO"
   },
   {
@@ -7643,7 +7636,7 @@
       "total_frames": 466
     },
     "frame_number": 105,
-    "timestamp": 1781423616.669256,
+    "timestamp": 1781457964.3590736,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -7710,7 +7703,7 @@
         "confidence": 0.315
       }
     ],
-    "processing_time_ms": 62.27,
+    "processing_time_ms": 56.74,
     "detection_method": "YOLO"
   },
   {
@@ -7724,7 +7717,7 @@
       "total_frames": 466
     },
     "frame_number": 106,
-    "timestamp": 1781423616.7537606,
+    "timestamp": 1781457964.4260106,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -7784,7 +7777,7 @@
         "confidence": 0.351
       }
     ],
-    "processing_time_ms": 62.77,
+    "processing_time_ms": 54.47,
     "detection_method": "YOLO"
   },
   {
@@ -7798,7 +7791,7 @@
       "total_frames": 466
     },
     "frame_number": 107,
-    "timestamp": 1781423616.8240595,
+    "timestamp": 1781457964.4884224,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -7858,7 +7851,7 @@
         "confidence": 0.356
       }
     ],
-    "processing_time_ms": 64.58,
+    "processing_time_ms": 58.68,
     "detection_method": "YOLO"
   },
   {
@@ -7872,7 +7865,7 @@
       "total_frames": 466
     },
     "frame_number": 108,
-    "timestamp": 1781423616.9061038,
+    "timestamp": 1781457964.5575063,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -7939,7 +7932,7 @@
         "confidence": 0.33
       }
     ],
-    "processing_time_ms": 76.11,
+    "processing_time_ms": 58.0,
     "detection_method": "YOLO"
   },
   {
@@ -7953,7 +7946,7 @@
       "total_frames": 466
     },
     "frame_number": 109,
-    "timestamp": 1781423616.9820797,
+    "timestamp": 1781457964.623506,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -8020,7 +8013,7 @@
         "confidence": 0.317
       }
     ],
-    "processing_time_ms": 63.86,
+    "processing_time_ms": 65.74,
     "detection_method": "YOLO"
   },
   {
@@ -8034,7 +8027,7 @@
       "total_frames": 466
     },
     "frame_number": 110,
-    "timestamp": 1781423617.053651,
+    "timestamp": 1781457964.6865067,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -8101,7 +8094,7 @@
         "confidence": 0.346
       }
     ],
-    "processing_time_ms": 64.75,
+    "processing_time_ms": 66.7,
     "detection_method": "YOLO"
   },
   {
@@ -8115,7 +8108,7 @@
       "total_frames": 466
     },
     "frame_number": 111,
-    "timestamp": 1781423617.1305754,
+    "timestamp": 1781457964.7521963,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -8175,7 +8168,7 @@
         "confidence": 0.44
       }
     ],
-    "processing_time_ms": 62.98,
+    "processing_time_ms": 57.52,
     "detection_method": "YOLO"
   },
   {
@@ -8189,7 +8182,7 @@
       "total_frames": 466
     },
     "frame_number": 112,
-    "timestamp": 1781423617.2062285,
+    "timestamp": 1781457964.8261514,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -8256,7 +8249,7 @@
         "confidence": 0.361
       }
     ],
-    "processing_time_ms": 62.31,
+    "processing_time_ms": 51.87,
     "detection_method": "YOLO"
   },
   {
@@ -8270,7 +8263,7 @@
       "total_frames": 466
     },
     "frame_number": 113,
-    "timestamp": 1781423617.2981415,
+    "timestamp": 1781457964.89696,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -8337,7 +8330,7 @@
         "confidence": 0.361
       }
     ],
-    "processing_time_ms": 66.18,
+    "processing_time_ms": 52.45,
     "detection_method": "YOLO"
   },
   {
@@ -8351,7 +8344,7 @@
       "total_frames": 466
     },
     "frame_number": 114,
-    "timestamp": 1781423617.370034,
+    "timestamp": 1781457964.9709601,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -8425,7 +8418,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 65.47,
+    "processing_time_ms": 61.52,
     "detection_method": "YOLO"
   },
   {
@@ -8439,7 +8432,7 @@
       "total_frames": 466
     },
     "frame_number": 115,
-    "timestamp": 1781423617.4511316,
+    "timestamp": 1781457965.0483315,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -8513,7 +8506,7 @@
         "confidence": 0.344
       }
     ],
-    "processing_time_ms": 66.76,
+    "processing_time_ms": 59.31,
     "detection_method": "YOLO"
   },
   {
@@ -8527,7 +8520,7 @@
       "total_frames": 466
     },
     "frame_number": 116,
-    "timestamp": 1781423617.5322719,
+    "timestamp": 1781457965.1171203,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -8601,7 +8594,7 @@
         "confidence": 0.371
       }
     ],
-    "processing_time_ms": 62.72,
+    "processing_time_ms": 52.03,
     "detection_method": "YOLO"
   },
   {
@@ -8615,7 +8608,7 @@
       "total_frames": 466
     },
     "frame_number": 117,
-    "timestamp": 1781423617.6084118,
+    "timestamp": 1781457965.1801202,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -8682,7 +8675,7 @@
         "confidence": 0.356
       }
     ],
-    "processing_time_ms": 64.71,
+    "processing_time_ms": 52.2,
     "detection_method": "YOLO"
   },
   {
@@ -8696,7 +8689,7 @@
       "total_frames": 466
     },
     "frame_number": 118,
-    "timestamp": 1781423617.686154,
+    "timestamp": 1781457965.244119,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -8763,7 +8756,7 @@
         "confidence": 0.36
       }
     ],
-    "processing_time_ms": 63.13,
+    "processing_time_ms": 52.15,
     "detection_method": "YOLO"
   },
   {
@@ -8777,7 +8770,7 @@
       "total_frames": 466
     },
     "frame_number": 119,
-    "timestamp": 1781423617.76966,
+    "timestamp": 1781457965.3211188,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -8844,7 +8837,7 @@
         "confidence": 0.339
       }
     ],
-    "processing_time_ms": 69.29,
+    "processing_time_ms": 55.45,
     "detection_method": "YOLO"
   },
   {
@@ -8858,7 +8851,7 @@
       "total_frames": 466
     },
     "frame_number": 120,
-    "timestamp": 1781423617.8412497,
+    "timestamp": 1781457965.3834147,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -8925,7 +8918,7 @@
         "confidence": 0.388
       }
     ],
-    "processing_time_ms": 70.89,
+    "processing_time_ms": 52.08,
     "detection_method": "YOLO"
   },
   {
@@ -8939,7 +8932,7 @@
       "total_frames": 466
     },
     "frame_number": 121,
-    "timestamp": 1781423617.923613,
+    "timestamp": 1781457965.4498982,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -9006,7 +8999,7 @@
         "confidence": 0.349
       }
     ],
-    "processing_time_ms": 73.19,
+    "processing_time_ms": 52.66,
     "detection_method": "YOLO"
   },
   {
@@ -9020,7 +9013,7 @@
       "total_frames": 466
     },
     "frame_number": 122,
-    "timestamp": 1781423617.9940474,
+    "timestamp": 1781457965.5128982,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -9080,7 +9073,7 @@
         "confidence": 0.493
       }
     ],
-    "processing_time_ms": 64.02,
+    "processing_time_ms": 52.84,
     "detection_method": "YOLO"
   },
   {
@@ -9094,7 +9087,7 @@
       "total_frames": 466
     },
     "frame_number": 123,
-    "timestamp": 1781423618.077828,
+    "timestamp": 1781457965.5799003,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -9154,7 +9147,7 @@
         "confidence": 0.408
       }
     ],
-    "processing_time_ms": 65.93,
+    "processing_time_ms": 57.65,
     "detection_method": "YOLO"
   },
   {
@@ -9168,7 +9161,7 @@
       "total_frames": 466
     },
     "frame_number": 124,
-    "timestamp": 1781423618.157778,
+    "timestamp": 1781457965.642403,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -9235,7 +9228,7 @@
         "confidence": 0.34
       }
     ],
-    "processing_time_ms": 67.56,
+    "processing_time_ms": 55.91,
     "detection_method": "YOLO"
   },
   {
@@ -9249,7 +9242,7 @@
       "total_frames": 466
     },
     "frame_number": 125,
-    "timestamp": 1781423618.2503808,
+    "timestamp": 1781457965.706572,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -9323,7 +9316,7 @@
         "confidence": 0.303
       }
     ],
-    "processing_time_ms": 68.32,
+    "processing_time_ms": 57.76,
     "detection_method": "YOLO"
   },
   {
@@ -9337,7 +9330,7 @@
       "total_frames": 466
     },
     "frame_number": 126,
-    "timestamp": 1781423618.3233953,
+    "timestamp": 1781457965.7768245,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -9411,7 +9404,7 @@
         "confidence": 0.309
       }
     ],
-    "processing_time_ms": 61.51,
+    "processing_time_ms": 52.4,
     "detection_method": "YOLO"
   },
   {
@@ -9425,7 +9418,7 @@
       "total_frames": 466
     },
     "frame_number": 127,
-    "timestamp": 1781423618.4029138,
+    "timestamp": 1781457965.8368423,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -9492,7 +9485,7 @@
         "confidence": 0.373
       }
     ],
-    "processing_time_ms": 70.88,
+    "processing_time_ms": 55.24,
     "detection_method": "YOLO"
   },
   {
@@ -9506,7 +9499,7 @@
       "total_frames": 466
     },
     "frame_number": 128,
-    "timestamp": 1781423618.4815028,
+    "timestamp": 1781457965.899827,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -9573,7 +9566,7 @@
         "confidence": 0.423
       }
     ],
-    "processing_time_ms": 71.23,
+    "processing_time_ms": 69.39,
     "detection_method": "YOLO"
   },
   {
@@ -9587,7 +9580,7 @@
       "total_frames": 466
     },
     "frame_number": 129,
-    "timestamp": 1781423618.5632725,
+    "timestamp": 1781457965.9668243,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -9661,7 +9654,7 @@
         "confidence": 0.31
       }
     ],
-    "processing_time_ms": 69.94,
+    "processing_time_ms": 57.99,
     "detection_method": "YOLO"
   },
   {
@@ -9675,7 +9668,7 @@
       "total_frames": 466
     },
     "frame_number": 130,
-    "timestamp": 1781423618.6373515,
+    "timestamp": 1781457966.036824,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -9749,7 +9742,7 @@
         "confidence": 0.338
       }
     ],
-    "processing_time_ms": 72.32,
+    "processing_time_ms": 52.46,
     "detection_method": "YOLO"
   },
   {
@@ -9763,7 +9756,7 @@
       "total_frames": 466
     },
     "frame_number": 131,
-    "timestamp": 1781423618.7124782,
+    "timestamp": 1781457966.1008673,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -9837,7 +9830,7 @@
         "confidence": 0.34
       }
     ],
-    "processing_time_ms": 63.42,
+    "processing_time_ms": 55.44,
     "detection_method": "YOLO"
   },
   {
@@ -9851,7 +9844,7 @@
       "total_frames": 466
     },
     "frame_number": 132,
-    "timestamp": 1781423618.800453,
+    "timestamp": 1781457966.1658242,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -9932,7 +9925,7 @@
         "confidence": 0.338
       }
     ],
-    "processing_time_ms": 60.57,
+    "processing_time_ms": 53.15,
     "detection_method": "YOLO"
   },
   {
@@ -9946,7 +9939,7 @@
       "total_frames": 466
     },
     "frame_number": 133,
-    "timestamp": 1781423618.8885102,
+    "timestamp": 1781457966.247824,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -10013,7 +10006,7 @@
         "confidence": 0.44
       }
     ],
-    "processing_time_ms": 59.82,
+    "processing_time_ms": 53.18,
     "detection_method": "YOLO"
   },
   {
@@ -10027,7 +10020,7 @@
       "total_frames": 466
     },
     "frame_number": 134,
-    "timestamp": 1781423618.975452,
+    "timestamp": 1781457966.316749,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -10094,7 +10087,7 @@
         "confidence": 0.42
       }
     ],
-    "processing_time_ms": 64.39,
+    "processing_time_ms": 52.16,
     "detection_method": "YOLO"
   },
   {
@@ -10108,7 +10101,7 @@
       "total_frames": 466
     },
     "frame_number": 135,
-    "timestamp": 1781423619.061014,
+    "timestamp": 1781457966.3792386,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -10175,7 +10168,7 @@
         "confidence": 0.366
       }
     ],
-    "processing_time_ms": 59.54,
+    "processing_time_ms": 52.73,
     "detection_method": "YOLO"
   },
   {
@@ -10189,8 +10182,8 @@
       "total_frames": 466
     },
     "frame_number": 136,
-    "timestamp": 1781423619.1369371,
-    "person_count": 11,
+    "timestamp": 1781457966.4437668,
+    "person_count": 10,
     "bounding_boxes": [
       {
         "x": 1286,
@@ -10261,16 +10254,9 @@
         "width": 107,
         "height": 294,
         "confidence": 0.332
-      },
-      {
-        "x": 2642,
-        "y": 1190,
-        "width": 69,
-        "height": 281,
-        "confidence": 0.324
       }
     ],
-    "processing_time_ms": 58.06,
+    "processing_time_ms": 52.34,
     "detection_method": "YOLO"
   },
   {
@@ -10284,7 +10270,7 @@
       "total_frames": 466
     },
     "frame_number": 137,
-    "timestamp": 1781423619.2103467,
+    "timestamp": 1781457966.507812,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -10351,7 +10337,7 @@
         "confidence": 0.368
       }
     ],
-    "processing_time_ms": 63.15,
+    "processing_time_ms": 52.87,
     "detection_method": "YOLO"
   },
   {
@@ -10365,7 +10351,7 @@
       "total_frames": 466
     },
     "frame_number": 138,
-    "timestamp": 1781423619.2828429,
+    "timestamp": 1781457966.5718129,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -10439,7 +10425,7 @@
         "confidence": 0.347
       }
     ],
-    "processing_time_ms": 63.94,
+    "processing_time_ms": 56.19,
     "detection_method": "YOLO"
   },
   {
@@ -10453,7 +10439,7 @@
       "total_frames": 466
     },
     "frame_number": 139,
-    "timestamp": 1781423619.3590355,
+    "timestamp": 1781457966.63327,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -10520,7 +10506,7 @@
         "confidence": 0.339
       }
     ],
-    "processing_time_ms": 61.99,
+    "processing_time_ms": 58.89,
     "detection_method": "YOLO"
   },
   {
@@ -10534,7 +10520,7 @@
       "total_frames": 466
     },
     "frame_number": 140,
-    "timestamp": 1781423619.4305227,
+    "timestamp": 1781457966.6982706,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -10608,7 +10594,7 @@
         "confidence": 0.316
       }
     ],
-    "processing_time_ms": 80.67,
+    "processing_time_ms": 53.87,
     "detection_method": "YOLO"
   },
   {
@@ -10622,7 +10608,7 @@
       "total_frames": 466
     },
     "frame_number": 141,
-    "timestamp": 1781423619.503105,
+    "timestamp": 1781457966.7642946,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -10696,7 +10682,7 @@
         "confidence": 0.308
       }
     ],
-    "processing_time_ms": 63.33,
+    "processing_time_ms": 56.04,
     "detection_method": "YOLO"
   },
   {
@@ -10710,7 +10696,7 @@
       "total_frames": 466
     },
     "frame_number": 142,
-    "timestamp": 1781423619.5753257,
+    "timestamp": 1781457966.823599,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -10791,7 +10777,7 @@
         "confidence": 0.318
       }
     ],
-    "processing_time_ms": 77.3,
+    "processing_time_ms": 52.98,
     "detection_method": "YOLO"
   },
   {
@@ -10805,7 +10791,7 @@
       "total_frames": 466
     },
     "frame_number": 143,
-    "timestamp": 1781423619.651105,
+    "timestamp": 1781457966.8911011,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -10893,7 +10879,7 @@
         "confidence": 0.31
       }
     ],
-    "processing_time_ms": 63.54,
+    "processing_time_ms": 58.46,
     "detection_method": "YOLO"
   },
   {
@@ -10907,7 +10893,7 @@
       "total_frames": 466
     },
     "frame_number": 144,
-    "timestamp": 1781423619.7263768,
+    "timestamp": 1781457966.9574008,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -10995,7 +10981,7 @@
         "confidence": 0.31
       }
     ],
-    "processing_time_ms": 64.04,
+    "processing_time_ms": 53.42,
     "detection_method": "YOLO"
   },
   {
@@ -11009,7 +10995,7 @@
       "total_frames": 466
     },
     "frame_number": 145,
-    "timestamp": 1781423619.826368,
+    "timestamp": 1781457967.0243552,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -11090,7 +11076,7 @@
         "confidence": 0.308
       }
     ],
-    "processing_time_ms": 60.18,
+    "processing_time_ms": 56.5,
     "detection_method": "YOLO"
   },
   {
@@ -11104,7 +11090,7 @@
       "total_frames": 466
     },
     "frame_number": 146,
-    "timestamp": 1781423619.897115,
+    "timestamp": 1781457967.0913463,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -11178,7 +11164,7 @@
         "confidence": 0.326
       }
     ],
-    "processing_time_ms": 60.97,
+    "processing_time_ms": 57.91,
     "detection_method": "YOLO"
   },
   {
@@ -11192,7 +11178,7 @@
       "total_frames": 466
     },
     "frame_number": 147,
-    "timestamp": 1781423619.9903593,
+    "timestamp": 1781457967.154346,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -11259,7 +11245,7 @@
         "confidence": 0.313
       }
     ],
-    "processing_time_ms": 62.1,
+    "processing_time_ms": 52.96,
     "detection_method": "YOLO"
   },
   {
@@ -11273,7 +11259,7 @@
       "total_frames": 466
     },
     "frame_number": 148,
-    "timestamp": 1781423620.0719767,
+    "timestamp": 1781457967.2244515,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -11326,7 +11312,7 @@
         "confidence": 0.542
       }
     ],
-    "processing_time_ms": 67.1,
+    "processing_time_ms": 60.23,
     "detection_method": "YOLO"
   },
   {
@@ -11340,7 +11326,7 @@
       "total_frames": 466
     },
     "frame_number": 149,
-    "timestamp": 1781423620.1451795,
+    "timestamp": 1781457967.2874527,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -11407,7 +11393,7 @@
         "confidence": 0.321
       }
     ],
-    "processing_time_ms": 70.49,
+    "processing_time_ms": 59.02,
     "detection_method": "YOLO"
   },
   {
@@ -11421,7 +11407,7 @@
       "total_frames": 466
     },
     "frame_number": 150,
-    "timestamp": 1781423620.2180922,
+    "timestamp": 1781457967.3607938,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -11481,7 +11467,7 @@
         "confidence": 0.374
       }
     ],
-    "processing_time_ms": 60.21,
+    "processing_time_ms": 52.47,
     "detection_method": "YOLO"
   },
   {
@@ -11495,7 +11481,7 @@
       "total_frames": 466
     },
     "frame_number": 151,
-    "timestamp": 1781423620.2944055,
+    "timestamp": 1781457967.4237947,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -11562,7 +11548,7 @@
         "confidence": 0.315
       }
     ],
-    "processing_time_ms": 62.18,
+    "processing_time_ms": 68.41,
     "detection_method": "YOLO"
   },
   {
@@ -11576,7 +11562,7 @@
       "total_frames": 466
     },
     "frame_number": 152,
-    "timestamp": 1781423620.3760931,
+    "timestamp": 1781457967.4857936,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -11650,7 +11636,7 @@
         "confidence": 0.359
       }
     ],
-    "processing_time_ms": 61.95,
+    "processing_time_ms": 52.74,
     "detection_method": "YOLO"
   },
   {
@@ -11664,7 +11650,7 @@
       "total_frames": 466
     },
     "frame_number": 153,
-    "timestamp": 1781423620.4580736,
+    "timestamp": 1781457967.5577612,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -11731,7 +11717,7 @@
         "confidence": 0.32
       }
     ],
-    "processing_time_ms": 60.74,
+    "processing_time_ms": 58.58,
     "detection_method": "YOLO"
   },
   {
@@ -11745,7 +11731,7 @@
       "total_frames": 466
     },
     "frame_number": 154,
-    "timestamp": 1781423620.5352244,
+    "timestamp": 1781457967.626528,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -11812,7 +11798,7 @@
         "confidence": 0.33
       }
     ],
-    "processing_time_ms": 73.28,
+    "processing_time_ms": 50.61,
     "detection_method": "YOLO"
   },
   {
@@ -11826,7 +11812,7 @@
       "total_frames": 466
     },
     "frame_number": 155,
-    "timestamp": 1781423620.6370392,
+    "timestamp": 1781457967.7159848,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -11879,7 +11865,7 @@
         "confidence": 0.467
       }
     ],
-    "processing_time_ms": 67.93,
+    "processing_time_ms": 66.39,
     "detection_method": "YOLO"
   },
   {
@@ -11893,7 +11879,7 @@
       "total_frames": 466
     },
     "frame_number": 156,
-    "timestamp": 1781423620.7123158,
+    "timestamp": 1781457967.793792,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -11960,7 +11946,7 @@
         "confidence": 0.328
       }
     ],
-    "processing_time_ms": 65.56,
+    "processing_time_ms": 51.71,
     "detection_method": "YOLO"
   },
   {
@@ -11974,7 +11960,7 @@
       "total_frames": 466
     },
     "frame_number": 157,
-    "timestamp": 1781423620.7841806,
+    "timestamp": 1781457967.859265,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -12048,7 +12034,7 @@
         "confidence": 0.303
       }
     ],
-    "processing_time_ms": 70.8,
+    "processing_time_ms": 58.77,
     "detection_method": "YOLO"
   },
   {
@@ -12062,7 +12048,7 @@
       "total_frames": 466
     },
     "frame_number": 158,
-    "timestamp": 1781423620.8572261,
+    "timestamp": 1781457967.9302666,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -12129,7 +12115,7 @@
         "confidence": 0.319
       }
     ],
-    "processing_time_ms": 61.07,
+    "processing_time_ms": 58.45,
     "detection_method": "YOLO"
   },
   {
@@ -12143,7 +12129,7 @@
       "total_frames": 466
     },
     "frame_number": 159,
-    "timestamp": 1781423620.945994,
+    "timestamp": 1781457967.9866652,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -12224,7 +12210,7 @@
         "confidence": 0.331
       }
     ],
-    "processing_time_ms": 72.68,
+    "processing_time_ms": 59.39,
     "detection_method": "YOLO"
   },
   {
@@ -12238,7 +12224,7 @@
       "total_frames": 466
     },
     "frame_number": 160,
-    "timestamp": 1781423621.0223978,
+    "timestamp": 1781457968.0641544,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -12312,7 +12298,7 @@
         "confidence": 0.333
       }
     ],
-    "processing_time_ms": 72.82,
+    "processing_time_ms": 52.67,
     "detection_method": "YOLO"
   },
   {
@@ -12326,7 +12312,7 @@
       "total_frames": 466
     },
     "frame_number": 161,
-    "timestamp": 1781423621.1038005,
+    "timestamp": 1781457968.1254532,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -12386,7 +12372,7 @@
         "confidence": 0.414
       }
     ],
-    "processing_time_ms": 63.06,
+    "processing_time_ms": 55.16,
     "detection_method": "YOLO"
   },
   {
@@ -12400,8 +12386,8 @@
       "total_frames": 466
     },
     "frame_number": 162,
-    "timestamp": 1781423621.1855512,
-    "person_count": 10,
+    "timestamp": 1781457968.2010224,
+    "person_count": 9,
     "bounding_boxes": [
       {
         "x": 1861,
@@ -12465,16 +12451,9 @@
         "width": 102,
         "height": 209,
         "confidence": 0.364
-      },
-      {
-        "x": 3156,
-        "y": 1185,
-        "width": 85,
-        "height": 214,
-        "confidence": 0.318
       }
     ],
-    "processing_time_ms": 66.84,
+    "processing_time_ms": 54.7,
     "detection_method": "YOLO"
   },
   {
@@ -12488,7 +12467,7 @@
       "total_frames": 466
     },
     "frame_number": 163,
-    "timestamp": 1781423621.2569566,
+    "timestamp": 1781457968.2657866,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -12562,7 +12541,7 @@
         "confidence": 0.321
       }
     ],
-    "processing_time_ms": 65.07,
+    "processing_time_ms": 63.27,
     "detection_method": "YOLO"
   },
   {
@@ -12576,7 +12555,7 @@
       "total_frames": 466
     },
     "frame_number": 164,
-    "timestamp": 1781423621.3402948,
+    "timestamp": 1781457968.3344593,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -12643,7 +12622,7 @@
         "confidence": 0.409
       }
     ],
-    "processing_time_ms": 66.55,
+    "processing_time_ms": 52.94,
     "detection_method": "YOLO"
   },
   {
@@ -12657,7 +12636,7 @@
       "total_frames": 466
     },
     "frame_number": 165,
-    "timestamp": 1781423621.4274743,
+    "timestamp": 1781457968.3994591,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -12724,7 +12703,7 @@
         "confidence": 0.449
       }
     ],
-    "processing_time_ms": 65.55,
+    "processing_time_ms": 56.08,
     "detection_method": "YOLO"
   },
   {
@@ -12738,7 +12717,7 @@
       "total_frames": 466
     },
     "frame_number": 166,
-    "timestamp": 1781423621.500201,
+    "timestamp": 1781457968.4624593,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -12805,7 +12784,7 @@
         "confidence": 0.341
       }
     ],
-    "processing_time_ms": 64.81,
+    "processing_time_ms": 63.07,
     "detection_method": "YOLO"
   },
   {
@@ -12819,7 +12798,7 @@
       "total_frames": 466
     },
     "frame_number": 167,
-    "timestamp": 1781423621.579384,
+    "timestamp": 1781457968.526442,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -12886,7 +12865,7 @@
         "confidence": 0.316
       }
     ],
-    "processing_time_ms": 60.19,
+    "processing_time_ms": 50.54,
     "detection_method": "YOLO"
   },
   {
@@ -12900,7 +12879,7 @@
       "total_frames": 466
     },
     "frame_number": 168,
-    "timestamp": 1781423621.6590993,
+    "timestamp": 1781457968.6009104,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -12953,7 +12932,7 @@
         "confidence": 0.582
       }
     ],
-    "processing_time_ms": 67.66,
+    "processing_time_ms": 50.89,
     "detection_method": "YOLO"
   },
   {
@@ -12967,7 +12946,7 @@
       "total_frames": 466
     },
     "frame_number": 169,
-    "timestamp": 1781423621.7341554,
+    "timestamp": 1781457968.6641555,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -13020,7 +12999,7 @@
         "confidence": 0.547
       }
     ],
-    "processing_time_ms": 67.06,
+    "processing_time_ms": 63.56,
     "detection_method": "YOLO"
   },
   {
@@ -13034,7 +13013,7 @@
       "total_frames": 466
     },
     "frame_number": 170,
-    "timestamp": 1781423621.8139718,
+    "timestamp": 1781457968.7304912,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -13087,7 +13066,7 @@
         "confidence": 0.556
       }
     ],
-    "processing_time_ms": 72.73,
+    "processing_time_ms": 52.37,
     "detection_method": "YOLO"
   },
   {
@@ -13101,7 +13080,7 @@
       "total_frames": 466
     },
     "frame_number": 171,
-    "timestamp": 1781423621.8922062,
+    "timestamp": 1781457968.803491,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -13154,7 +13133,7 @@
         "confidence": 0.472
       }
     ],
-    "processing_time_ms": 68.85,
+    "processing_time_ms": 52.37,
     "detection_method": "YOLO"
   },
   {
@@ -13168,7 +13147,7 @@
       "total_frames": 466
     },
     "frame_number": 172,
-    "timestamp": 1781423621.9652886,
+    "timestamp": 1781457968.863493,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -13228,7 +13207,7 @@
         "confidence": 0.342
       }
     ],
-    "processing_time_ms": 69.65,
+    "processing_time_ms": 59.82,
     "detection_method": "YOLO"
   },
   {
@@ -13242,7 +13221,7 @@
       "total_frames": 466
     },
     "frame_number": 173,
-    "timestamp": 1781423622.0489285,
+    "timestamp": 1781457968.9264908,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -13302,7 +13281,7 @@
         "confidence": 0.347
       }
     ],
-    "processing_time_ms": 64.35,
+    "processing_time_ms": 56.21,
     "detection_method": "YOLO"
   },
   {
@@ -13316,7 +13295,7 @@
       "total_frames": 466
     },
     "frame_number": 174,
-    "timestamp": 1781423622.1332648,
+    "timestamp": 1781457969.0004926,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -13369,7 +13348,7 @@
         "confidence": 0.598
       }
     ],
-    "processing_time_ms": 65.42,
+    "processing_time_ms": 52.65,
     "detection_method": "YOLO"
   },
   {
@@ -13383,7 +13362,7 @@
       "total_frames": 466
     },
     "frame_number": 175,
-    "timestamp": 1781423622.2153063,
+    "timestamp": 1781457969.0618875,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -13436,7 +13415,7 @@
         "confidence": 0.612
       }
     ],
-    "processing_time_ms": 70.92,
+    "processing_time_ms": 53.97,
     "detection_method": "YOLO"
   },
   {
@@ -13450,7 +13429,7 @@
       "total_frames": 466
     },
     "frame_number": 176,
-    "timestamp": 1781423622.3000937,
+    "timestamp": 1781457969.1276724,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -13503,7 +13482,7 @@
         "confidence": 0.611
       }
     ],
-    "processing_time_ms": 60.21,
+    "processing_time_ms": 54.98,
     "detection_method": "YOLO"
   },
   {
@@ -13517,7 +13496,7 @@
       "total_frames": 466
     },
     "frame_number": 177,
-    "timestamp": 1781423622.3834212,
+    "timestamp": 1781457969.200338,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -13577,7 +13556,7 @@
         "confidence": 0.421
       }
     ],
-    "processing_time_ms": 58.76,
+    "processing_time_ms": 52.68,
     "detection_method": "YOLO"
   },
   {
@@ -13591,7 +13570,7 @@
       "total_frames": 466
     },
     "frame_number": 178,
-    "timestamp": 1781423622.4594333,
+    "timestamp": 1781457969.265335,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -13651,7 +13630,7 @@
         "confidence": 0.609
       }
     ],
-    "processing_time_ms": 66.95,
+    "processing_time_ms": 53.02,
     "detection_method": "YOLO"
   },
   {
@@ -13665,7 +13644,7 @@
       "total_frames": 466
     },
     "frame_number": 179,
-    "timestamp": 1781423622.5382211,
+    "timestamp": 1781457969.3289354,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -13725,7 +13704,7 @@
         "confidence": 0.581
       }
     ],
-    "processing_time_ms": 68.32,
+    "processing_time_ms": 60.91,
     "detection_method": "YOLO"
   },
   {
@@ -13739,7 +13718,7 @@
       "total_frames": 466
     },
     "frame_number": 180,
-    "timestamp": 1781423622.6241245,
+    "timestamp": 1781457969.3954372,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -13799,7 +13778,7 @@
         "confidence": 0.445
       }
     ],
-    "processing_time_ms": 79.29,
+    "processing_time_ms": 54.35,
     "detection_method": "YOLO"
   },
   {
@@ -13813,7 +13792,7 @@
       "total_frames": 466
     },
     "frame_number": 181,
-    "timestamp": 1781423622.6976953,
+    "timestamp": 1781457969.4593892,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -13873,7 +13852,7 @@
         "confidence": 0.542
       }
     ],
-    "processing_time_ms": 75.49,
+    "processing_time_ms": 52.97,
     "detection_method": "YOLO"
   },
   {
@@ -13887,7 +13866,7 @@
       "total_frames": 466
     },
     "frame_number": 182,
-    "timestamp": 1781423622.766905,
+    "timestamp": 1781457969.5202882,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -13947,7 +13926,7 @@
         "confidence": 0.57
       }
     ],
-    "processing_time_ms": 71.57,
+    "processing_time_ms": 57.7,
     "detection_method": "YOLO"
   },
   {
@@ -13961,7 +13940,7 @@
       "total_frames": 466
     },
     "frame_number": 183,
-    "timestamp": 1781423622.8490493,
+    "timestamp": 1781457969.5825815,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -14021,7 +14000,7 @@
         "confidence": 0.534
       }
     ],
-    "processing_time_ms": 87.46,
+    "processing_time_ms": 56.7,
     "detection_method": "YOLO"
   },
   {
@@ -14035,7 +14014,7 @@
       "total_frames": 466
     },
     "frame_number": 184,
-    "timestamp": 1781423622.9270558,
+    "timestamp": 1781457969.6539013,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -14095,7 +14074,7 @@
         "confidence": 0.418
       }
     ],
-    "processing_time_ms": 75.18,
+    "processing_time_ms": 51.34,
     "detection_method": "YOLO"
   },
   {
@@ -14109,7 +14088,7 @@
       "total_frames": 466
     },
     "frame_number": 185,
-    "timestamp": 1781423623.0241206,
+    "timestamp": 1781457969.7209,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -14169,7 +14148,7 @@
         "confidence": 0.49
       }
     ],
-    "processing_time_ms": 81.35,
+    "processing_time_ms": 51.76,
     "detection_method": "YOLO"
   },
   {
@@ -14183,7 +14162,7 @@
       "total_frames": 466
     },
     "frame_number": 186,
-    "timestamp": 1781423623.1152365,
+    "timestamp": 1781457969.7830284,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -14243,7 +14222,7 @@
         "confidence": 0.466
       }
     ],
-    "processing_time_ms": 71.35,
+    "processing_time_ms": 52.03,
     "detection_method": "YOLO"
   },
   {
@@ -14257,7 +14236,7 @@
       "total_frames": 466
     },
     "frame_number": 187,
-    "timestamp": 1781423623.2021039,
+    "timestamp": 1781457969.8510733,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -14324,7 +14303,7 @@
         "confidence": 0.336
       }
     ],
-    "processing_time_ms": 64.31,
+    "processing_time_ms": 50.74,
     "detection_method": "YOLO"
   },
   {
@@ -14338,7 +14317,7 @@
       "total_frames": 466
     },
     "frame_number": 188,
-    "timestamp": 1781423623.305304,
+    "timestamp": 1781457969.9170291,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -14405,7 +14384,7 @@
         "confidence": 0.346
       }
     ],
-    "processing_time_ms": 61.47,
+    "processing_time_ms": 59.11,
     "detection_method": "YOLO"
   },
   {
@@ -14419,8 +14398,8 @@
       "total_frames": 466
     },
     "frame_number": 189,
-    "timestamp": 1781423623.390169,
-    "person_count": 10,
+    "timestamp": 1781457969.977029,
+    "person_count": 9,
     "bounding_boxes": [
       {
         "x": 215,
@@ -14465,13 +14444,6 @@
         "confidence": 0.57
       },
       {
-        "x": 1674,
-        "y": 1157,
-        "width": 136,
-        "height": 501,
-        "confidence": 0.527
-      },
-      {
         "x": 2930,
         "y": 1152,
         "width": 84,
@@ -14493,7 +14465,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 65.48,
+    "processing_time_ms": 62.12,
     "detection_method": "YOLO"
   },
   {
@@ -14507,8 +14479,8 @@
       "total_frames": 466
     },
     "frame_number": 190,
-    "timestamp": 1781423623.4810822,
-    "person_count": 9,
+    "timestamp": 1781457970.037914,
+    "person_count": 8,
     "bounding_boxes": [
       {
         "x": 269,
@@ -14553,13 +14525,6 @@
         "confidence": 0.612
       },
       {
-        "x": 1679,
-        "y": 1148,
-        "width": 135,
-        "height": 500,
-        "confidence": 0.529
-      },
-      {
         "x": 2937,
         "y": 1148,
         "width": 82,
@@ -14574,7 +14539,7 @@
         "confidence": 0.323
       }
     ],
-    "processing_time_ms": 60.59,
+    "processing_time_ms": 53.46,
     "detection_method": "YOLO"
   },
   {
@@ -14588,8 +14553,8 @@
       "total_frames": 466
     },
     "frame_number": 191,
-    "timestamp": 1781423623.566023,
-    "person_count": 9,
+    "timestamp": 1781457970.0999148,
+    "person_count": 8,
     "bounding_boxes": [
       {
         "x": 350,
@@ -14641,13 +14606,6 @@
         "confidence": 0.496
       },
       {
-        "x": 1689,
-        "y": 1156,
-        "width": 132,
-        "height": 453,
-        "confidence": 0.492
-      },
-      {
         "x": 178,
         "y": 1110,
         "width": 84,
@@ -14655,7 +14613,7 @@
         "confidence": 0.327
       }
     ],
-    "processing_time_ms": 64.79,
+    "processing_time_ms": 50.99,
     "detection_method": "YOLO"
   },
   {
@@ -14669,8 +14627,8 @@
       "total_frames": 466
     },
     "frame_number": 192,
-    "timestamp": 1781423623.6400795,
-    "person_count": 8,
+    "timestamp": 1781457970.159834,
+    "person_count": 7,
     "bounding_boxes": [
       {
         "x": 444,
@@ -14720,16 +14678,9 @@
         "width": 92,
         "height": 269,
         "confidence": 0.494
-      },
-      {
-        "x": 1691,
-        "y": 1164,
-        "width": 140,
-        "height": 473,
-        "confidence": 0.428
       }
     ],
-    "processing_time_ms": 66.3,
+    "processing_time_ms": 51.53,
     "detection_method": "YOLO"
   },
   {
@@ -14743,7 +14694,7 @@
       "total_frames": 466
     },
     "frame_number": 193,
-    "timestamp": 1781423623.717952,
+    "timestamp": 1781457970.2298346,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -14803,7 +14754,7 @@
         "confidence": 0.345
       }
     ],
-    "processing_time_ms": 67.2,
+    "processing_time_ms": 57.07,
     "detection_method": "YOLO"
   },
   {
@@ -14817,7 +14768,7 @@
       "total_frames": 466
     },
     "frame_number": 194,
-    "timestamp": 1781423623.787094,
+    "timestamp": 1781457970.2981536,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -14877,7 +14828,7 @@
         "confidence": 0.422
       }
     ],
-    "processing_time_ms": 72.3,
+    "processing_time_ms": 51.02,
     "detection_method": "YOLO"
   },
   {
@@ -14891,7 +14842,7 @@
       "total_frames": 466
     },
     "frame_number": 195,
-    "timestamp": 1781423623.8619838,
+    "timestamp": 1781457970.359682,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -14951,7 +14902,7 @@
         "confidence": 0.358
       }
     ],
-    "processing_time_ms": 58.6,
+    "processing_time_ms": 51.11,
     "detection_method": "YOLO"
   },
   {
@@ -14965,7 +14916,7 @@
       "total_frames": 466
     },
     "frame_number": 196,
-    "timestamp": 1781423623.9410522,
+    "timestamp": 1781457970.422376,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -15018,7 +14969,7 @@
         "confidence": 0.495
       }
     ],
-    "processing_time_ms": 68.94,
+    "processing_time_ms": 51.06,
     "detection_method": "YOLO"
   },
   {
@@ -15032,7 +14983,7 @@
       "total_frames": 466
     },
     "frame_number": 197,
-    "timestamp": 1781423624.023758,
+    "timestamp": 1781457970.483655,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -15092,7 +15043,7 @@
         "confidence": 0.43
       }
     ],
-    "processing_time_ms": 75.02,
+    "processing_time_ms": 57.78,
     "detection_method": "YOLO"
   },
   {
@@ -15106,7 +15057,7 @@
       "total_frames": 466
     },
     "frame_number": 198,
-    "timestamp": 1781423624.0954244,
+    "timestamp": 1781457970.5456543,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -15166,7 +15117,7 @@
         "confidence": 0.531
       }
     ],
-    "processing_time_ms": 60.87,
+    "processing_time_ms": 50.39,
     "detection_method": "YOLO"
   },
   {
@@ -15180,7 +15131,7 @@
       "total_frames": 466
     },
     "frame_number": 199,
-    "timestamp": 1781423624.1760542,
+    "timestamp": 1781457970.6086545,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -15240,7 +15191,7 @@
         "confidence": 0.492
       }
     ],
-    "processing_time_ms": 62.86,
+    "processing_time_ms": 59.22,
     "detection_method": "YOLO"
   },
   {
@@ -15254,7 +15205,7 @@
       "total_frames": 466
     },
     "frame_number": 200,
-    "timestamp": 1781423624.2433827,
+    "timestamp": 1781457970.669511,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -15314,7 +15265,7 @@
         "confidence": 0.494
       }
     ],
-    "processing_time_ms": 55.59,
+    "processing_time_ms": 50.98,
     "detection_method": "YOLO"
   },
   {
@@ -15328,7 +15279,7 @@
       "total_frames": 466
     },
     "frame_number": 201,
-    "timestamp": 1781423624.3260784,
+    "timestamp": 1781457970.729577,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -15395,7 +15346,7 @@
         "confidence": 0.431
       }
     ],
-    "processing_time_ms": 54.2,
+    "processing_time_ms": 52.61,
     "detection_method": "YOLO"
   },
   {
@@ -15409,7 +15360,7 @@
       "total_frames": 466
     },
     "frame_number": 202,
-    "timestamp": 1781423624.4096394,
+    "timestamp": 1781457970.7975764,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -15476,7 +15427,7 @@
         "confidence": 0.364
       }
     ],
-    "processing_time_ms": 57.64,
+    "processing_time_ms": 54.01,
     "detection_method": "YOLO"
   },
   {
@@ -15490,7 +15441,7 @@
       "total_frames": 466
     },
     "frame_number": 203,
-    "timestamp": 1781423624.481521,
+    "timestamp": 1781457970.8565764,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -15557,7 +15508,7 @@
         "confidence": 0.329
       }
     ],
-    "processing_time_ms": 54.97,
+    "processing_time_ms": 51.45,
     "detection_method": "YOLO"
   },
   {
@@ -15571,7 +15522,7 @@
       "total_frames": 466
     },
     "frame_number": 204,
-    "timestamp": 1781423624.553213,
+    "timestamp": 1781457970.9252043,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -15638,7 +15589,7 @@
         "confidence": 0.376
       }
     ],
-    "processing_time_ms": 58.47,
+    "processing_time_ms": 51.63,
     "detection_method": "YOLO"
   },
   {
@@ -15652,7 +15603,7 @@
       "total_frames": 466
     },
     "frame_number": 205,
-    "timestamp": 1781423624.6424239,
+    "timestamp": 1781457971.01032,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -15712,7 +15663,7 @@
         "confidence": 0.388
       }
     ],
-    "processing_time_ms": 55.53,
+    "processing_time_ms": 53.21,
     "detection_method": "YOLO"
   },
   {
@@ -15726,7 +15677,7 @@
       "total_frames": 466
     },
     "frame_number": 206,
-    "timestamp": 1781423624.710182,
+    "timestamp": 1781457971.07232,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -15779,7 +15730,7 @@
         "confidence": 0.414
       }
     ],
-    "processing_time_ms": 53.95,
+    "processing_time_ms": 53.65,
     "detection_method": "YOLO"
   },
   {
@@ -15793,7 +15744,7 @@
       "total_frames": 466
     },
     "frame_number": 207,
-    "timestamp": 1781423624.7751946,
+    "timestamp": 1781457971.1353216,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -15853,7 +15804,7 @@
         "confidence": 0.305
       }
     ],
-    "processing_time_ms": 54.14,
+    "processing_time_ms": 50.73,
     "detection_method": "YOLO"
   },
   {
@@ -15867,7 +15818,7 @@
       "total_frames": 466
     },
     "frame_number": 208,
-    "timestamp": 1781423624.8416584,
+    "timestamp": 1781457971.1957834,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -15920,7 +15871,7 @@
         "confidence": 0.31
       }
     ],
-    "processing_time_ms": 54.05,
+    "processing_time_ms": 52.04,
     "detection_method": "YOLO"
   },
   {
@@ -15934,7 +15885,7 @@
       "total_frames": 466
     },
     "frame_number": 209,
-    "timestamp": 1781423624.9090564,
+    "timestamp": 1781457971.257785,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -15987,7 +15938,7 @@
         "confidence": 0.378
       }
     ],
-    "processing_time_ms": 63.93,
+    "processing_time_ms": 56.59,
     "detection_method": "YOLO"
   },
   {
@@ -16001,7 +15952,7 @@
       "total_frames": 466
     },
     "frame_number": 210,
-    "timestamp": 1781423624.973252,
+    "timestamp": 1781457971.3202815,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -16068,7 +16019,7 @@
         "confidence": 0.337
       }
     ],
-    "processing_time_ms": 54.64,
+    "processing_time_ms": 50.29,
     "detection_method": "YOLO"
   },
   {
@@ -16082,7 +16033,7 @@
       "total_frames": 466
     },
     "frame_number": 211,
-    "timestamp": 1781423625.0380352,
+    "timestamp": 1781457971.382147,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -16142,7 +16093,7 @@
         "confidence": 0.342
       }
     ],
-    "processing_time_ms": 55.68,
+    "processing_time_ms": 50.28,
     "detection_method": "YOLO"
   },
   {
@@ -16156,7 +16107,7 @@
       "total_frames": 466
     },
     "frame_number": 212,
-    "timestamp": 1781423625.10297,
+    "timestamp": 1781457971.4432898,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -16209,7 +16160,7 @@
         "confidence": 0.326
       }
     ],
-    "processing_time_ms": 57.13,
+    "processing_time_ms": 50.96,
     "detection_method": "YOLO"
   },
   {
@@ -16223,7 +16174,7 @@
       "total_frames": 466
     },
     "frame_number": 213,
-    "timestamp": 1781423625.1697428,
+    "timestamp": 1781457971.5072873,
     "person_count": 5,
     "bounding_boxes": [
       {
@@ -16262,7 +16213,7 @@
         "confidence": 0.328
       }
     ],
-    "processing_time_ms": 60.39,
+    "processing_time_ms": 51.69,
     "detection_method": "YOLO"
   },
   {
@@ -16276,7 +16227,7 @@
       "total_frames": 466
     },
     "frame_number": 214,
-    "timestamp": 1781423625.246259,
+    "timestamp": 1781457971.5712874,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -16322,7 +16273,7 @@
         "confidence": 0.373
       }
     ],
-    "processing_time_ms": 56.62,
+    "processing_time_ms": 54.67,
     "detection_method": "YOLO"
   },
   {
@@ -16336,7 +16287,7 @@
       "total_frames": 466
     },
     "frame_number": 215,
-    "timestamp": 1781423625.3054433,
+    "timestamp": 1781457971.6292875,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -16382,7 +16333,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 55.09,
+    "processing_time_ms": 51.47,
     "detection_method": "YOLO"
   },
   {
@@ -16396,7 +16347,7 @@
       "total_frames": 466
     },
     "frame_number": 216,
-    "timestamp": 1781423625.3734474,
+    "timestamp": 1781457971.6894279,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -16442,7 +16393,7 @@
         "confidence": 0.342
       }
     ],
-    "processing_time_ms": 58.67,
+    "processing_time_ms": 53.54,
     "detection_method": "YOLO"
   },
   {
@@ -16456,7 +16407,7 @@
       "total_frames": 466
     },
     "frame_number": 217,
-    "timestamp": 1781423625.44177,
+    "timestamp": 1781457971.7514262,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -16509,7 +16460,7 @@
         "confidence": 0.368
       }
     ],
-    "processing_time_ms": 56.38,
+    "processing_time_ms": 52.26,
     "detection_method": "YOLO"
   },
   {
@@ -16523,7 +16474,7 @@
       "total_frames": 466
     },
     "frame_number": 218,
-    "timestamp": 1781423625.5119588,
+    "timestamp": 1781457971.8114786,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -16583,7 +16534,7 @@
         "confidence": 0.332
       }
     ],
-    "processing_time_ms": 54.83,
+    "processing_time_ms": 51.02,
     "detection_method": "YOLO"
   },
   {
@@ -16597,7 +16548,7 @@
       "total_frames": 466
     },
     "frame_number": 219,
-    "timestamp": 1781423625.5745652,
+    "timestamp": 1781457971.876476,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -16664,7 +16615,7 @@
         "confidence": 0.303
       }
     ],
-    "processing_time_ms": 61.56,
+    "processing_time_ms": 63.43,
     "detection_method": "YOLO"
   },
   {
@@ -16678,7 +16629,7 @@
       "total_frames": 466
     },
     "frame_number": 220,
-    "timestamp": 1781423625.6403825,
+    "timestamp": 1781457971.9367504,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -16745,7 +16696,7 @@
         "confidence": 0.344
       }
     ],
-    "processing_time_ms": 53.93,
+    "processing_time_ms": 50.8,
     "detection_method": "YOLO"
   },
   {
@@ -16759,7 +16710,7 @@
       "total_frames": 466
     },
     "frame_number": 221,
-    "timestamp": 1781423625.7114463,
+    "timestamp": 1781457972.004085,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -16805,7 +16756,7 @@
         "confidence": 0.361
       }
     ],
-    "processing_time_ms": 55.9,
+    "processing_time_ms": 51.55,
     "detection_method": "YOLO"
   },
   {
@@ -16819,7 +16770,7 @@
       "total_frames": 466
     },
     "frame_number": 222,
-    "timestamp": 1781423625.7773106,
+    "timestamp": 1781457972.0670855,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -16872,7 +16823,7 @@
         "confidence": 0.315
       }
     ],
-    "processing_time_ms": 55.71,
+    "processing_time_ms": 57.64,
     "detection_method": "YOLO"
   },
   {
@@ -16886,7 +16837,7 @@
       "total_frames": 466
     },
     "frame_number": 223,
-    "timestamp": 1781423625.8431342,
+    "timestamp": 1781457972.1280859,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -16932,7 +16883,7 @@
         "confidence": 0.306
       }
     ],
-    "processing_time_ms": 57.7,
+    "processing_time_ms": 52.56,
     "detection_method": "YOLO"
   },
   {
@@ -16946,7 +16897,7 @@
       "total_frames": 466
     },
     "frame_number": 224,
-    "timestamp": 1781423625.9099438,
+    "timestamp": 1781457972.196085,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -16992,7 +16943,7 @@
         "confidence": 0.343
       }
     ],
-    "processing_time_ms": 54.85,
+    "processing_time_ms": 51.37,
     "detection_method": "YOLO"
   },
   {
@@ -17006,7 +16957,7 @@
       "total_frames": 466
     },
     "frame_number": 225,
-    "timestamp": 1781423625.978894,
+    "timestamp": 1781457972.260142,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -17052,7 +17003,7 @@
         "confidence": 0.418
       }
     ],
-    "processing_time_ms": 55.13,
+    "processing_time_ms": 51.24,
     "detection_method": "YOLO"
   },
   {
@@ -17066,7 +17017,7 @@
       "total_frames": 466
     },
     "frame_number": 226,
-    "timestamp": 1781423626.0423489,
+    "timestamp": 1781457972.3201406,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -17119,7 +17070,7 @@
         "confidence": 0.33
       }
     ],
-    "processing_time_ms": 57.38,
+    "processing_time_ms": 49.89,
     "detection_method": "YOLO"
   },
   {
@@ -17133,7 +17084,7 @@
       "total_frames": 466
     },
     "frame_number": 227,
-    "timestamp": 1781423626.1066966,
+    "timestamp": 1781457972.38614,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -17186,7 +17137,7 @@
         "confidence": 0.384
       }
     ],
-    "processing_time_ms": 54.82,
+    "processing_time_ms": 51.78,
     "detection_method": "YOLO"
   },
   {
@@ -17200,7 +17151,7 @@
       "total_frames": 466
     },
     "frame_number": 228,
-    "timestamp": 1781423626.1767647,
+    "timestamp": 1781457972.4481409,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -17253,7 +17204,7 @@
         "confidence": 0.315
       }
     ],
-    "processing_time_ms": 56.34,
+    "processing_time_ms": 51.15,
     "detection_method": "YOLO"
   },
   {
@@ -17267,7 +17218,7 @@
       "total_frames": 466
     },
     "frame_number": 229,
-    "timestamp": 1781423626.2411087,
+    "timestamp": 1781457972.5101423,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -17334,7 +17285,7 @@
         "confidence": 0.309
       }
     ],
-    "processing_time_ms": 62.64,
+    "processing_time_ms": 56.11,
     "detection_method": "YOLO"
   },
   {
@@ -17348,7 +17299,7 @@
       "total_frames": 466
     },
     "frame_number": 230,
-    "timestamp": 1781423626.3063605,
+    "timestamp": 1781457972.572451,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -17394,7 +17345,7 @@
         "confidence": 0.321
       }
     ],
-    "processing_time_ms": 60.14,
+    "processing_time_ms": 53.01,
     "detection_method": "YOLO"
   },
   {
@@ -17408,7 +17359,7 @@
       "total_frames": 466
     },
     "frame_number": 231,
-    "timestamp": 1781423626.3737123,
+    "timestamp": 1781457972.6296222,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -17454,7 +17405,7 @@
         "confidence": 0.328
       }
     ],
-    "processing_time_ms": 55.74,
+    "processing_time_ms": 63.44,
     "detection_method": "YOLO"
   },
   {
@@ -17468,7 +17419,7 @@
       "total_frames": 466
     },
     "frame_number": 232,
-    "timestamp": 1781423626.4393628,
+    "timestamp": 1781457972.692607,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -17521,7 +17472,7 @@
         "confidence": 0.317
       }
     ],
-    "processing_time_ms": 56.61,
+    "processing_time_ms": 62.55,
     "detection_method": "YOLO"
   },
   {
@@ -17535,7 +17486,7 @@
       "total_frames": 466
     },
     "frame_number": 233,
-    "timestamp": 1781423626.5083635,
+    "timestamp": 1781457972.7540958,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -17588,7 +17539,7 @@
         "confidence": 0.374
       }
     ],
-    "processing_time_ms": 56.65,
+    "processing_time_ms": 64.68,
     "detection_method": "YOLO"
   },
   {
@@ -17602,7 +17553,7 @@
       "total_frames": 466
     },
     "frame_number": 234,
-    "timestamp": 1781423626.5804799,
+    "timestamp": 1781457972.8200939,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -17655,7 +17606,7 @@
         "confidence": 0.346
       }
     ],
-    "processing_time_ms": 56.22,
+    "processing_time_ms": 53.72,
     "detection_method": "YOLO"
   },
   {
@@ -17669,7 +17620,7 @@
       "total_frames": 466
     },
     "frame_number": 235,
-    "timestamp": 1781423626.6493168,
+    "timestamp": 1781457972.884094,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -17722,7 +17673,7 @@
         "confidence": 0.322
       }
     ],
-    "processing_time_ms": 58.88,
+    "processing_time_ms": 69.7,
     "detection_method": "YOLO"
   },
   {
@@ -17736,7 +17687,7 @@
       "total_frames": 466
     },
     "frame_number": 236,
-    "timestamp": 1781423626.71607,
+    "timestamp": 1781457972.9630952,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -17789,7 +17740,7 @@
         "confidence": 0.313
       }
     ],
-    "processing_time_ms": 59.66,
+    "processing_time_ms": 51.36,
     "detection_method": "YOLO"
   },
   {
@@ -17803,7 +17754,7 @@
       "total_frames": 466
     },
     "frame_number": 237,
-    "timestamp": 1781423626.7837427,
+    "timestamp": 1781457973.0290997,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -17849,7 +17800,7 @@
         "confidence": 0.345
       }
     ],
-    "processing_time_ms": 60.65,
+    "processing_time_ms": 52.87,
     "detection_method": "YOLO"
   },
   {
@@ -17863,7 +17814,7 @@
       "total_frames": 466
     },
     "frame_number": 238,
-    "timestamp": 1781423626.84956,
+    "timestamp": 1781457973.1081007,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -17909,7 +17860,7 @@
         "confidence": 0.39
       }
     ],
-    "processing_time_ms": 59.61,
+    "processing_time_ms": 55.52,
     "detection_method": "YOLO"
   },
   {
@@ -17923,7 +17874,7 @@
       "total_frames": 466
     },
     "frame_number": 239,
-    "timestamp": 1781423626.9180043,
+    "timestamp": 1781457973.1650944,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -17969,7 +17920,7 @@
         "confidence": 0.424
       }
     ],
-    "processing_time_ms": 60.68,
+    "processing_time_ms": 65.63,
     "detection_method": "YOLO"
   },
   {
@@ -17983,7 +17934,7 @@
       "total_frames": 466
     },
     "frame_number": 240,
-    "timestamp": 1781423626.9869518,
+    "timestamp": 1781457973.2440991,
     "person_count": 6,
     "bounding_boxes": [
       {
@@ -18029,7 +17980,7 @@
         "confidence": 0.463
       }
     ],
-    "processing_time_ms": 59.75,
+    "processing_time_ms": 50.74,
     "detection_method": "YOLO"
   },
   {
@@ -18043,7 +17994,7 @@
       "total_frames": 466
     },
     "frame_number": 241,
-    "timestamp": 1781423627.0591521,
+    "timestamp": 1781457973.3081017,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -18096,7 +18047,7 @@
         "confidence": 0.339
       }
     ],
-    "processing_time_ms": 58.26,
+    "processing_time_ms": 50.34,
     "detection_method": "YOLO"
   },
   {
@@ -18110,7 +18061,7 @@
       "total_frames": 466
     },
     "frame_number": 242,
-    "timestamp": 1781423627.129292,
+    "timestamp": 1781457973.370102,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -18163,7 +18114,7 @@
         "confidence": 0.317
       }
     ],
-    "processing_time_ms": 58.37,
+    "processing_time_ms": 51.21,
     "detection_method": "YOLO"
   },
   {
@@ -18177,7 +18128,7 @@
       "total_frames": 466
     },
     "frame_number": 243,
-    "timestamp": 1781423627.1990933,
+    "timestamp": 1781457973.4371014,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -18237,7 +18188,7 @@
         "confidence": 0.306
       }
     ],
-    "processing_time_ms": 59.33,
+    "processing_time_ms": 51.81,
     "detection_method": "YOLO"
   },
   {
@@ -18251,7 +18202,7 @@
       "total_frames": 466
     },
     "frame_number": 244,
-    "timestamp": 1781423627.2698514,
+    "timestamp": 1781457973.5101004,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -18325,7 +18276,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 57.85,
+    "processing_time_ms": 52.77,
     "detection_method": "YOLO"
   },
   {
@@ -18339,7 +18290,7 @@
       "total_frames": 466
     },
     "frame_number": 245,
-    "timestamp": 1781423627.342204,
+    "timestamp": 1781457973.5730999,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -18399,7 +18350,7 @@
         "confidence": 0.361
       }
     ],
-    "processing_time_ms": 60.37,
+    "processing_time_ms": 51.58,
     "detection_method": "YOLO"
   },
   {
@@ -18413,7 +18364,7 @@
       "total_frames": 466
     },
     "frame_number": 246,
-    "timestamp": 1781423627.412047,
+    "timestamp": 1781457973.6331005,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -18487,7 +18438,7 @@
         "confidence": 0.313
       }
     ],
-    "processing_time_ms": 59.21,
+    "processing_time_ms": 52.21,
     "detection_method": "YOLO"
   },
   {
@@ -18501,7 +18452,7 @@
       "total_frames": 466
     },
     "frame_number": 247,
-    "timestamp": 1781423627.4831693,
+    "timestamp": 1781457973.694105,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -18568,7 +18519,7 @@
         "confidence": 0.349
       }
     ],
-    "processing_time_ms": 61.99,
+    "processing_time_ms": 53.56,
     "detection_method": "YOLO"
   },
   {
@@ -18582,7 +18533,7 @@
       "total_frames": 466
     },
     "frame_number": 248,
-    "timestamp": 1781423627.5544267,
+    "timestamp": 1781457973.7570996,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -18656,7 +18607,7 @@
         "confidence": 0.308
       }
     ],
-    "processing_time_ms": 58.82,
+    "processing_time_ms": 54.76,
     "detection_method": "YOLO"
   },
   {
@@ -18670,7 +18621,7 @@
       "total_frames": 466
     },
     "frame_number": 249,
-    "timestamp": 1781423627.6227872,
+    "timestamp": 1781457973.8211002,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -18737,7 +18688,7 @@
         "confidence": 0.325
       }
     ],
-    "processing_time_ms": 62.99,
+    "processing_time_ms": 58.13,
     "detection_method": "YOLO"
   },
   {
@@ -18751,7 +18702,7 @@
       "total_frames": 466
     },
     "frame_number": 250,
-    "timestamp": 1781423627.6961484,
+    "timestamp": 1781457973.8820999,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -18818,7 +18769,7 @@
         "confidence": 0.377
       }
     ],
-    "processing_time_ms": 58.37,
+    "processing_time_ms": 53.42,
     "detection_method": "YOLO"
   },
   {
@@ -18832,7 +18783,7 @@
       "total_frames": 466
     },
     "frame_number": 251,
-    "timestamp": 1781423627.7688444,
+    "timestamp": 1781457973.945099,
     "person_count": 7,
     "bounding_boxes": [
       {
@@ -18885,7 +18836,7 @@
         "confidence": 0.331
       }
     ],
-    "processing_time_ms": 60.98,
+    "processing_time_ms": 52.31,
     "detection_method": "YOLO"
   },
   {
@@ -18899,7 +18850,7 @@
       "total_frames": 466
     },
     "frame_number": 252,
-    "timestamp": 1781423627.8422616,
+    "timestamp": 1781457974.008095,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -18973,7 +18924,7 @@
         "confidence": 0.333
       }
     ],
-    "processing_time_ms": 59.83,
+    "processing_time_ms": 52.29,
     "detection_method": "YOLO"
   },
   {
@@ -18987,7 +18938,7 @@
       "total_frames": 466
     },
     "frame_number": 253,
-    "timestamp": 1781423627.91731,
+    "timestamp": 1781457974.0751014,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -19061,7 +19012,7 @@
         "confidence": 0.326
       }
     ],
-    "processing_time_ms": 59.23,
+    "processing_time_ms": 66.32,
     "detection_method": "YOLO"
   },
   {
@@ -19075,7 +19026,7 @@
       "total_frames": 466
     },
     "frame_number": 254,
-    "timestamp": 1781423627.9940617,
+    "timestamp": 1781457974.1440995,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -19142,7 +19093,7 @@
         "confidence": 0.354
       }
     ],
-    "processing_time_ms": 58.61,
+    "processing_time_ms": 61.18,
     "detection_method": "YOLO"
   },
   {
@@ -19156,7 +19107,7 @@
       "total_frames": 466
     },
     "frame_number": 255,
-    "timestamp": 1781423628.0958219,
+    "timestamp": 1781457974.2351022,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -19237,7 +19188,7 @@
         "confidence": 0.332
       }
     ],
-    "processing_time_ms": 65.25,
+    "processing_time_ms": 58.33,
     "detection_method": "YOLO"
   },
   {
@@ -19251,7 +19202,7 @@
       "total_frames": 466
     },
     "frame_number": 256,
-    "timestamp": 1781423628.1670332,
+    "timestamp": 1781457974.2981012,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -19332,7 +19283,7 @@
         "confidence": 0.336
       }
     ],
-    "processing_time_ms": 59.82,
+    "processing_time_ms": 52.3,
     "detection_method": "YOLO"
   },
   {
@@ -19346,7 +19297,7 @@
       "total_frames": 466
     },
     "frame_number": 257,
-    "timestamp": 1781423628.2367218,
+    "timestamp": 1781457974.3631015,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -19420,7 +19371,7 @@
         "confidence": 0.314
       }
     ],
-    "processing_time_ms": 59.47,
+    "processing_time_ms": 52.21,
     "detection_method": "YOLO"
   },
   {
@@ -19434,7 +19385,7 @@
       "total_frames": 466
     },
     "frame_number": 258,
-    "timestamp": 1781423628.3064492,
+    "timestamp": 1781457974.4430952,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -19494,7 +19445,7 @@
         "confidence": 0.363
       }
     ],
-    "processing_time_ms": 60.19,
+    "processing_time_ms": 53.99,
     "detection_method": "YOLO"
   },
   {
@@ -19508,7 +19459,7 @@
       "total_frames": 466
     },
     "frame_number": 259,
-    "timestamp": 1781423628.3822658,
+    "timestamp": 1781457974.5131001,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -19575,7 +19526,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 67.27,
+    "processing_time_ms": 61.84,
     "detection_method": "YOLO"
   },
   {
@@ -19589,7 +19540,7 @@
       "total_frames": 466
     },
     "frame_number": 260,
-    "timestamp": 1781423628.4690716,
+    "timestamp": 1781457974.5830998,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -19649,7 +19600,7 @@
         "confidence": 0.33
       }
     ],
-    "processing_time_ms": 58.59,
+    "processing_time_ms": 51.62,
     "detection_method": "YOLO"
   },
   {
@@ -19663,7 +19614,7 @@
       "total_frames": 466
     },
     "frame_number": 261,
-    "timestamp": 1781423628.5321512,
+    "timestamp": 1781457974.6451,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -19744,7 +19695,7 @@
         "confidence": 0.313
       }
     ],
-    "processing_time_ms": 59.43,
+    "processing_time_ms": 54.27,
     "detection_method": "YOLO"
   },
   {
@@ -19758,7 +19709,7 @@
       "total_frames": 466
     },
     "frame_number": 262,
-    "timestamp": 1781423628.6032138,
+    "timestamp": 1781457974.7061012,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -19839,7 +19790,7 @@
         "confidence": 0.314
       }
     ],
-    "processing_time_ms": 57.39,
+    "processing_time_ms": 56.68,
     "detection_method": "YOLO"
   },
   {
@@ -19853,7 +19804,7 @@
       "total_frames": 466
     },
     "frame_number": 263,
-    "timestamp": 1781423628.6730304,
+    "timestamp": 1781457974.7700994,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -19934,7 +19885,7 @@
         "confidence": 0.324
       }
     ],
-    "processing_time_ms": 58.23,
+    "processing_time_ms": 52.66,
     "detection_method": "YOLO"
   },
   {
@@ -19948,7 +19899,7 @@
       "total_frames": 466
     },
     "frame_number": 264,
-    "timestamp": 1781423628.7541568,
+    "timestamp": 1781457974.844102,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -20029,7 +19980,7 @@
         "confidence": 0.318
       }
     ],
-    "processing_time_ms": 56.66,
+    "processing_time_ms": 53.89,
     "detection_method": "YOLO"
   },
   {
@@ -20043,7 +19994,7 @@
       "total_frames": 466
     },
     "frame_number": 265,
-    "timestamp": 1781423628.8240085,
+    "timestamp": 1781457974.9040992,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -20131,7 +20082,7 @@
         "confidence": 0.345
       }
     ],
-    "processing_time_ms": 60.39,
+    "processing_time_ms": 52.17,
     "detection_method": "YOLO"
   },
   {
@@ -20145,7 +20096,7 @@
       "total_frames": 466
     },
     "frame_number": 266,
-    "timestamp": 1781423628.8952155,
+    "timestamp": 1781457974.9701016,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -20226,7 +20177,7 @@
         "confidence": 0.315
       }
     ],
-    "processing_time_ms": 57.27,
+    "processing_time_ms": 50.42,
     "detection_method": "YOLO"
   },
   {
@@ -20240,7 +20191,7 @@
       "total_frames": 466
     },
     "frame_number": 267,
-    "timestamp": 1781423628.962248,
+    "timestamp": 1781457975.0351,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -20321,7 +20272,7 @@
         "confidence": 0.32
       }
     ],
-    "processing_time_ms": 60.83,
+    "processing_time_ms": 51.38,
     "detection_method": "YOLO"
   },
   {
@@ -20335,7 +20286,7 @@
       "total_frames": 466
     },
     "frame_number": 268,
-    "timestamp": 1781423629.033053,
+    "timestamp": 1781457975.0981004,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -20409,7 +20360,7 @@
         "confidence": 0.384
       }
     ],
-    "processing_time_ms": 58.16,
+    "processing_time_ms": 50.46,
     "detection_method": "YOLO"
   },
   {
@@ -20423,7 +20374,7 @@
       "total_frames": 466
     },
     "frame_number": 269,
-    "timestamp": 1781423629.1007738,
+    "timestamp": 1781457975.1601,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -20497,7 +20448,7 @@
         "confidence": 0.363
       }
     ],
-    "processing_time_ms": 66.13,
+    "processing_time_ms": 63.83,
     "detection_method": "YOLO"
   },
   {
@@ -20511,7 +20462,7 @@
       "total_frames": 466
     },
     "frame_number": 270,
-    "timestamp": 1781423629.1701982,
+    "timestamp": 1781457975.2221,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -20592,7 +20543,7 @@
         "confidence": 0.407
       }
     ],
-    "processing_time_ms": 57.48,
+    "processing_time_ms": 49.77,
     "detection_method": "YOLO"
   },
   {
@@ -20606,7 +20557,7 @@
       "total_frames": 466
     },
     "frame_number": 271,
-    "timestamp": 1781423629.2423317,
+    "timestamp": 1781457975.280111,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -20694,7 +20645,7 @@
         "confidence": 0.336
       }
     ],
-    "processing_time_ms": 57.34,
+    "processing_time_ms": 51.9,
     "detection_method": "YOLO"
   },
   {
@@ -20708,7 +20659,7 @@
       "total_frames": 466
     },
     "frame_number": 272,
-    "timestamp": 1781423629.3123336,
+    "timestamp": 1781457975.3451004,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -20796,7 +20747,7 @@
         "confidence": 0.331
       }
     ],
-    "processing_time_ms": 62.27,
+    "processing_time_ms": 59.35,
     "detection_method": "YOLO"
   },
   {
@@ -20810,7 +20761,7 @@
       "total_frames": 466
     },
     "frame_number": 273,
-    "timestamp": 1781423629.3802795,
+    "timestamp": 1781457975.4011004,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -20884,7 +20835,7 @@
         "confidence": 0.435
       }
     ],
-    "processing_time_ms": 61.07,
+    "processing_time_ms": 51.69,
     "detection_method": "YOLO"
   },
   {
@@ -20898,7 +20849,7 @@
       "total_frames": 466
     },
     "frame_number": 274,
-    "timestamp": 1781423629.4589715,
+    "timestamp": 1781457975.4741046,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -20986,7 +20937,7 @@
         "confidence": 0.37
       }
     ],
-    "processing_time_ms": 63.57,
+    "processing_time_ms": 51.77,
     "detection_method": "YOLO"
   },
   {
@@ -21000,7 +20951,7 @@
       "total_frames": 466
     },
     "frame_number": 275,
-    "timestamp": 1781423629.5256302,
+    "timestamp": 1781457975.5320997,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -21088,7 +21039,7 @@
         "confidence": 0.384
       }
     ],
-    "processing_time_ms": 58.41,
+    "processing_time_ms": 54.78,
     "detection_method": "YOLO"
   },
   {
@@ -21102,7 +21053,7 @@
       "total_frames": 466
     },
     "frame_number": 276,
-    "timestamp": 1781423629.5912838,
+    "timestamp": 1781457975.593101,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -21190,7 +21141,7 @@
         "confidence": 0.402
       }
     ],
-    "processing_time_ms": 59.68,
+    "processing_time_ms": 53.04,
     "detection_method": "YOLO"
   },
   {
@@ -21204,7 +21155,7 @@
       "total_frames": 466
     },
     "frame_number": 277,
-    "timestamp": 1781423629.6656778,
+    "timestamp": 1781457975.6621013,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -21285,7 +21236,7 @@
         "confidence": 0.324
       }
     ],
-    "processing_time_ms": 56.84,
+    "processing_time_ms": 52.38,
     "detection_method": "YOLO"
   },
   {
@@ -21299,7 +21250,7 @@
       "total_frames": 466
     },
     "frame_number": 278,
-    "timestamp": 1781423629.736032,
+    "timestamp": 1781457975.7231035,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -21380,7 +21331,7 @@
         "confidence": 0.426
       }
     ],
-    "processing_time_ms": 58.32,
+    "processing_time_ms": 50.09,
     "detection_method": "YOLO"
   },
   {
@@ -21394,7 +21345,7 @@
       "total_frames": 466
     },
     "frame_number": 279,
-    "timestamp": 1781423629.812152,
+    "timestamp": 1781457975.7851,
     "person_count": 13,
     "bounding_boxes": [
       {
@@ -21489,7 +21440,7 @@
         "confidence": 0.306
       }
     ],
-    "processing_time_ms": 68.1,
+    "processing_time_ms": 61.08,
     "detection_method": "YOLO"
   },
   {
@@ -21503,7 +21454,7 @@
       "total_frames": 466
     },
     "frame_number": 280,
-    "timestamp": 1781423629.8797183,
+    "timestamp": 1781457975.8500998,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -21591,7 +21542,7 @@
         "confidence": 0.35
       }
     ],
-    "processing_time_ms": 63.88,
+    "processing_time_ms": 56.83,
     "detection_method": "YOLO"
   },
   {
@@ -21605,7 +21556,7 @@
       "total_frames": 466
     },
     "frame_number": 281,
-    "timestamp": 1781423629.950962,
+    "timestamp": 1781457975.9120998,
     "person_count": 13,
     "bounding_boxes": [
       {
@@ -21700,7 +21651,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 61.66,
+    "processing_time_ms": 51.03,
     "detection_method": "YOLO"
   },
   {
@@ -21714,7 +21665,7 @@
       "total_frames": 466
     },
     "frame_number": 282,
-    "timestamp": 1781423630.01833,
+    "timestamp": 1781457975.9731002,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -21802,7 +21753,7 @@
         "confidence": 0.323
       }
     ],
-    "processing_time_ms": 58.75,
+    "processing_time_ms": 55.45,
     "detection_method": "YOLO"
   },
   {
@@ -21816,7 +21767,7 @@
       "total_frames": 466
     },
     "frame_number": 283,
-    "timestamp": 1781423630.088342,
+    "timestamp": 1781457976.0331001,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -21897,7 +21848,7 @@
         "confidence": 0.321
       }
     ],
-    "processing_time_ms": 58.41,
+    "processing_time_ms": 53.71,
     "detection_method": "YOLO"
   },
   {
@@ -21911,7 +21862,7 @@
       "total_frames": 466
     },
     "frame_number": 284,
-    "timestamp": 1781423630.1686628,
+    "timestamp": 1781457976.1040998,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -21992,7 +21943,7 @@
         "confidence": 0.323
       }
     ],
-    "processing_time_ms": 61.0,
+    "processing_time_ms": 51.25,
     "detection_method": "YOLO"
   },
   {
@@ -22006,7 +21957,7 @@
       "total_frames": 466
     },
     "frame_number": 285,
-    "timestamp": 1781423630.2460887,
+    "timestamp": 1781457976.1731036,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -22080,7 +22031,7 @@
         "confidence": 0.361
       }
     ],
-    "processing_time_ms": 62.64,
+    "processing_time_ms": 52.39,
     "detection_method": "YOLO"
   },
   {
@@ -22094,7 +22045,7 @@
       "total_frames": 466
     },
     "frame_number": 286,
-    "timestamp": 1781423630.3185966,
+    "timestamp": 1781457976.2321024,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -22182,7 +22133,7 @@
         "confidence": 0.353
       }
     ],
-    "processing_time_ms": 63.81,
+    "processing_time_ms": 57.76,
     "detection_method": "YOLO"
   },
   {
@@ -22196,7 +22147,7 @@
       "total_frames": 466
     },
     "frame_number": 287,
-    "timestamp": 1781423630.3883724,
+    "timestamp": 1781457976.3011036,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -22284,7 +22235,7 @@
         "confidence": 0.318
       }
     ],
-    "processing_time_ms": 59.69,
+    "processing_time_ms": 53.5,
     "detection_method": "YOLO"
   },
   {
@@ -22298,7 +22249,7 @@
       "total_frames": 466
     },
     "frame_number": 288,
-    "timestamp": 1781423630.4571376,
+    "timestamp": 1781457976.3621013,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -22386,7 +22337,7 @@
         "confidence": 0.303
       }
     ],
-    "processing_time_ms": 59.36,
+    "processing_time_ms": 55.04,
     "detection_method": "YOLO"
   },
   {
@@ -22400,7 +22351,7 @@
       "total_frames": 466
     },
     "frame_number": 289,
-    "timestamp": 1781423630.534006,
+    "timestamp": 1781457976.4240997,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -22481,7 +22432,7 @@
         "confidence": 0.364
       }
     ],
-    "processing_time_ms": 66.97,
+    "processing_time_ms": 69.56,
     "detection_method": "YOLO"
   },
   {
@@ -22495,7 +22446,7 @@
       "total_frames": 466
     },
     "frame_number": 290,
-    "timestamp": 1781423630.6030562,
+    "timestamp": 1781457976.4841006,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -22576,7 +22527,7 @@
         "confidence": 0.334
       }
     ],
-    "processing_time_ms": 60.18,
+    "processing_time_ms": 63.95,
     "detection_method": "YOLO"
   },
   {
@@ -22590,7 +22541,7 @@
       "total_frames": 466
     },
     "frame_number": 291,
-    "timestamp": 1781423630.681496,
+    "timestamp": 1781457976.5571,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -22678,7 +22629,7 @@
         "confidence": 0.391
       }
     ],
-    "processing_time_ms": 64.54,
+    "processing_time_ms": 51.64,
     "detection_method": "YOLO"
   },
   {
@@ -22692,7 +22643,7 @@
       "total_frames": 466
     },
     "frame_number": 292,
-    "timestamp": 1781423630.7523444,
+    "timestamp": 1781457976.6170945,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -22780,7 +22731,7 @@
         "confidence": 0.362
       }
     ],
-    "processing_time_ms": 64.14,
+    "processing_time_ms": 53.88,
     "detection_method": "YOLO"
   },
   {
@@ -22794,7 +22745,7 @@
       "total_frames": 466
     },
     "frame_number": 293,
-    "timestamp": 1781423630.8218272,
+    "timestamp": 1781457976.6850986,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -22875,7 +22826,7 @@
         "confidence": 0.372
       }
     ],
-    "processing_time_ms": 59.8,
+    "processing_time_ms": 51.89,
     "detection_method": "YOLO"
   },
   {
@@ -22889,7 +22840,7 @@
       "total_frames": 466
     },
     "frame_number": 294,
-    "timestamp": 1781423630.901686,
+    "timestamp": 1781457976.7640953,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -22977,7 +22928,7 @@
         "confidence": 0.318
       }
     ],
-    "processing_time_ms": 58.17,
+    "processing_time_ms": 57.35,
     "detection_method": "YOLO"
   },
   {
@@ -22991,7 +22942,7 @@
       "total_frames": 466
     },
     "frame_number": 295,
-    "timestamp": 1781423630.9725962,
+    "timestamp": 1781457976.8421,
     "person_count": 13,
     "bounding_boxes": [
       {
@@ -23086,7 +23037,7 @@
         "confidence": 0.301
       }
     ],
-    "processing_time_ms": 59.37,
+    "processing_time_ms": 52.9,
     "detection_method": "YOLO"
   },
   {
@@ -23100,7 +23051,7 @@
       "total_frames": 466
     },
     "frame_number": 296,
-    "timestamp": 1781423631.0488591,
+    "timestamp": 1781457976.9051018,
     "person_count": 13,
     "bounding_boxes": [
       {
@@ -23195,7 +23146,7 @@
         "confidence": 0.31
       }
     ],
-    "processing_time_ms": 57.43,
+    "processing_time_ms": 55.32,
     "detection_method": "YOLO"
   },
   {
@@ -23209,7 +23160,7 @@
       "total_frames": 466
     },
     "frame_number": 297,
-    "timestamp": 1781423631.1241019,
+    "timestamp": 1781457976.9701014,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -23297,7 +23248,7 @@
         "confidence": 0.3
       }
     ],
-    "processing_time_ms": 56.93,
+    "processing_time_ms": 58.3,
     "detection_method": "YOLO"
   },
   {
@@ -23311,7 +23262,7 @@
       "total_frames": 466
     },
     "frame_number": 298,
-    "timestamp": 1781423631.1923556,
+    "timestamp": 1781457977.0332148,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -23399,7 +23350,7 @@
         "confidence": 0.318
       }
     ],
-    "processing_time_ms": 70.02,
+    "processing_time_ms": 51.49,
     "detection_method": "YOLO"
   },
   {
@@ -23413,7 +23364,7 @@
       "total_frames": 466
     },
     "frame_number": 299,
-    "timestamp": 1781423631.267158,
+    "timestamp": 1781457977.1011004,
     "person_count": 14,
     "bounding_boxes": [
       {
@@ -23515,7 +23466,7 @@
         "confidence": 0.304
       }
     ],
-    "processing_time_ms": 68.58,
+    "processing_time_ms": 59.63,
     "detection_method": "YOLO"
   },
   {
@@ -23529,7 +23480,7 @@
       "total_frames": 466
     },
     "frame_number": 300,
-    "timestamp": 1781423631.3354197,
+    "timestamp": 1781457977.1631012,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -23610,7 +23561,7 @@
         "confidence": 0.374
       }
     ],
-    "processing_time_ms": 60.11,
+    "processing_time_ms": 53.65,
     "detection_method": "YOLO"
   },
   {
@@ -23624,7 +23575,7 @@
       "total_frames": 466
     },
     "frame_number": 301,
-    "timestamp": 1781423631.4020905,
+    "timestamp": 1781457977.2301018,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -23698,7 +23649,7 @@
         "confidence": 0.319
       }
     ],
-    "processing_time_ms": 69.49,
+    "processing_time_ms": 53.03,
     "detection_method": "YOLO"
   },
   {
@@ -23712,7 +23663,7 @@
       "total_frames": 466
     },
     "frame_number": 302,
-    "timestamp": 1781423631.4779894,
+    "timestamp": 1781457977.2990987,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -23779,7 +23730,7 @@
         "confidence": 0.372
       }
     ],
-    "processing_time_ms": 76.59,
+    "processing_time_ms": 51.75,
     "detection_method": "YOLO"
   },
   {
@@ -23793,7 +23744,7 @@
       "total_frames": 466
     },
     "frame_number": 303,
-    "timestamp": 1781423631.5521405,
+    "timestamp": 1781457977.3601005,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -23860,7 +23811,7 @@
         "confidence": 0.373
       }
     ],
-    "processing_time_ms": 65.87,
+    "processing_time_ms": 50.34,
     "detection_method": "YOLO"
   },
   {
@@ -23874,7 +23825,7 @@
       "total_frames": 466
     },
     "frame_number": 304,
-    "timestamp": 1781423631.6374078,
+    "timestamp": 1781457977.4291012,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -23955,7 +23906,7 @@
         "confidence": 0.318
       }
     ],
-    "processing_time_ms": 70.39,
+    "processing_time_ms": 50.77,
     "detection_method": "YOLO"
   },
   {
@@ -23969,7 +23920,7 @@
       "total_frames": 466
     },
     "frame_number": 305,
-    "timestamp": 1781423631.74616,
+    "timestamp": 1781457977.5181155,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -24057,7 +24008,7 @@
         "confidence": 0.326
       }
     ],
-    "processing_time_ms": 57.33,
+    "processing_time_ms": 62.08,
     "detection_method": "YOLO"
   },
   {
@@ -24071,7 +24022,7 @@
       "total_frames": 466
     },
     "frame_number": 306,
-    "timestamp": 1781423631.8375854,
+    "timestamp": 1781457977.5811005,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -24152,7 +24103,7 @@
         "confidence": 0.301
       }
     ],
-    "processing_time_ms": 62.62,
+    "processing_time_ms": 51.38,
     "detection_method": "YOLO"
   },
   {
@@ -24166,7 +24117,7 @@
       "total_frames": 466
     },
     "frame_number": 307,
-    "timestamp": 1781423631.9221663,
+    "timestamp": 1781457977.6430986,
     "person_count": 13,
     "bounding_boxes": [
       {
@@ -24261,7 +24212,7 @@
         "confidence": 0.334
       }
     ],
-    "processing_time_ms": 58.27,
+    "processing_time_ms": 55.18,
     "detection_method": "YOLO"
   },
   {
@@ -24275,7 +24226,7 @@
       "total_frames": 466
     },
     "frame_number": 308,
-    "timestamp": 1781423631.9953656,
+    "timestamp": 1781457977.7030997,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -24363,7 +24314,7 @@
         "confidence": 0.329
       }
     ],
-    "processing_time_ms": 57.46,
+    "processing_time_ms": 52.38,
     "detection_method": "YOLO"
   },
   {
@@ -24377,7 +24328,7 @@
       "total_frames": 466
     },
     "frame_number": 309,
-    "timestamp": 1781423632.0772784,
+    "timestamp": 1781457977.7640991,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -24451,7 +24402,7 @@
         "confidence": 0.335
       }
     ],
-    "processing_time_ms": 65.49,
+    "processing_time_ms": 59.83,
     "detection_method": "YOLO"
   },
   {
@@ -24465,7 +24416,7 @@
       "total_frames": 466
     },
     "frame_number": 310,
-    "timestamp": 1781423632.1431227,
+    "timestamp": 1781457977.8331006,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -24553,7 +24504,7 @@
         "confidence": 0.32
       }
     ],
-    "processing_time_ms": 60.68,
+    "processing_time_ms": 53.51,
     "detection_method": "YOLO"
   },
   {
@@ -24567,7 +24518,7 @@
       "total_frames": 466
     },
     "frame_number": 311,
-    "timestamp": 1781423632.2147868,
+    "timestamp": 1781457977.8951,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -24648,7 +24599,7 @@
         "confidence": 0.403
       }
     ],
-    "processing_time_ms": 60.51,
+    "processing_time_ms": 52.43,
     "detection_method": "YOLO"
   },
   {
@@ -24662,7 +24613,7 @@
       "total_frames": 466
     },
     "frame_number": 312,
-    "timestamp": 1781423632.2853208,
+    "timestamp": 1781457977.9591017,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -24743,7 +24694,7 @@
         "confidence": 0.399
       }
     ],
-    "processing_time_ms": 58.64,
+    "processing_time_ms": 52.89,
     "detection_method": "YOLO"
   },
   {
@@ -24757,7 +24708,7 @@
       "total_frames": 466
     },
     "frame_number": 313,
-    "timestamp": 1781423632.350028,
+    "timestamp": 1781457978.0270996,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -24845,7 +24796,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 77.51,
+    "processing_time_ms": 50.75,
     "detection_method": "YOLO"
   },
   {
@@ -24859,7 +24810,7 @@
       "total_frames": 466
     },
     "frame_number": 314,
-    "timestamp": 1781423632.4254968,
+    "timestamp": 1781457978.0911021,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -24933,7 +24884,7 @@
         "confidence": 0.351
       }
     ],
-    "processing_time_ms": 64.52,
+    "processing_time_ms": 53.44,
     "detection_method": "YOLO"
   },
   {
@@ -24947,7 +24898,7 @@
       "total_frames": 466
     },
     "frame_number": 315,
-    "timestamp": 1781423632.4966478,
+    "timestamp": 1781457978.1561,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -25021,7 +24972,7 @@
         "confidence": 0.412
       }
     ],
-    "processing_time_ms": 64.54,
+    "processing_time_ms": 51.74,
     "detection_method": "YOLO"
   },
   {
@@ -25035,7 +24986,7 @@
       "total_frames": 466
     },
     "frame_number": 316,
-    "timestamp": 1781423632.5644045,
+    "timestamp": 1781457978.2151012,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -25116,7 +25067,7 @@
         "confidence": 0.366
       }
     ],
-    "processing_time_ms": 58.23,
+    "processing_time_ms": 52.63,
     "detection_method": "YOLO"
   },
   {
@@ -25130,7 +25081,7 @@
       "total_frames": 466
     },
     "frame_number": 317,
-    "timestamp": 1781423632.6480591,
+    "timestamp": 1781457978.2771013,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -25211,7 +25162,7 @@
         "confidence": 0.304
       }
     ],
-    "processing_time_ms": 56.65,
+    "processing_time_ms": 52.44,
     "detection_method": "YOLO"
   },
   {
@@ -25225,7 +25176,7 @@
       "total_frames": 466
     },
     "frame_number": 318,
-    "timestamp": 1781423632.725609,
+    "timestamp": 1781457978.3351004,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -25292,7 +25243,7 @@
         "confidence": 0.368
       }
     ],
-    "processing_time_ms": 63.2,
+    "processing_time_ms": 51.04,
     "detection_method": "YOLO"
   },
   {
@@ -25306,7 +25257,7 @@
       "total_frames": 466
     },
     "frame_number": 319,
-    "timestamp": 1781423632.803351,
+    "timestamp": 1781457978.4001,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -25380,7 +25331,7 @@
         "confidence": 0.326
       }
     ],
-    "processing_time_ms": 75.29,
+    "processing_time_ms": 56.42,
     "detection_method": "YOLO"
   },
   {
@@ -25394,7 +25345,7 @@
       "total_frames": 466
     },
     "frame_number": 320,
-    "timestamp": 1781423632.8739471,
+    "timestamp": 1781457978.461101,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -25461,7 +25412,7 @@
         "confidence": 0.313
       }
     ],
-    "processing_time_ms": 61.24,
+    "processing_time_ms": 50.6,
     "detection_method": "YOLO"
   },
   {
@@ -25475,7 +25426,7 @@
       "total_frames": 466
     },
     "frame_number": 321,
-    "timestamp": 1781423632.9414275,
+    "timestamp": 1781457978.5221,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -25556,7 +25507,7 @@
         "confidence": 0.304
       }
     ],
-    "processing_time_ms": 58.62,
+    "processing_time_ms": 50.03,
     "detection_method": "YOLO"
   },
   {
@@ -25570,7 +25521,7 @@
       "total_frames": 466
     },
     "frame_number": 322,
-    "timestamp": 1781423633.0068603,
+    "timestamp": 1781457978.5831006,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -25651,7 +25602,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 55.83,
+    "processing_time_ms": 51.88,
     "detection_method": "YOLO"
   },
   {
@@ -25665,7 +25616,7 @@
       "total_frames": 466
     },
     "frame_number": 323,
-    "timestamp": 1781423633.0810885,
+    "timestamp": 1781457978.6410997,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -25732,7 +25683,7 @@
         "confidence": 0.337
       }
     ],
-    "processing_time_ms": 61.57,
+    "processing_time_ms": 51.13,
     "detection_method": "YOLO"
   },
   {
@@ -25746,7 +25697,7 @@
       "total_frames": 466
     },
     "frame_number": 324,
-    "timestamp": 1781423633.160156,
+    "timestamp": 1781457978.7071006,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -25820,7 +25771,7 @@
         "confidence": 0.314
       }
     ],
-    "processing_time_ms": 55.18,
+    "processing_time_ms": 53.63,
     "detection_method": "YOLO"
   },
   {
@@ -25834,7 +25785,7 @@
       "total_frames": 466
     },
     "frame_number": 325,
-    "timestamp": 1781423633.2323,
+    "timestamp": 1781457978.7671013,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -25908,7 +25859,7 @@
         "confidence": 0.329
       }
     ],
-    "processing_time_ms": 57.46,
+    "processing_time_ms": 51.18,
     "detection_method": "YOLO"
   },
   {
@@ -25922,7 +25873,7 @@
       "total_frames": 466
     },
     "frame_number": 326,
-    "timestamp": 1781423633.2996979,
+    "timestamp": 1781457978.826103,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -25989,7 +25940,7 @@
         "confidence": 0.39
       }
     ],
-    "processing_time_ms": 59.53,
+    "processing_time_ms": 56.3,
     "detection_method": "YOLO"
   },
   {
@@ -26003,7 +25954,7 @@
       "total_frames": 466
     },
     "frame_number": 327,
-    "timestamp": 1781423633.3639386,
+    "timestamp": 1781457978.8851004,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -26077,7 +26028,7 @@
         "confidence": 0.3
       }
     ],
-    "processing_time_ms": 55.16,
+    "processing_time_ms": 51.99,
     "detection_method": "YOLO"
   },
   {
@@ -26091,7 +26042,7 @@
       "total_frames": 466
     },
     "frame_number": 328,
-    "timestamp": 1781423633.4333663,
+    "timestamp": 1781457978.9461002,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -26165,7 +26116,7 @@
         "confidence": 0.382
       }
     ],
-    "processing_time_ms": 54.23,
+    "processing_time_ms": 50.96,
     "detection_method": "YOLO"
   },
   {
@@ -26179,7 +26130,7 @@
       "total_frames": 466
     },
     "frame_number": 329,
-    "timestamp": 1781423633.496925,
+    "timestamp": 1781457979.0081012,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -26260,7 +26211,7 @@
         "confidence": 0.31
       }
     ],
-    "processing_time_ms": 63.28,
+    "processing_time_ms": 52.91,
     "detection_method": "YOLO"
   },
   {
@@ -26274,7 +26225,7 @@
       "total_frames": 466
     },
     "frame_number": 330,
-    "timestamp": 1781423633.5677195,
+    "timestamp": 1781457979.0691018,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -26362,7 +26313,7 @@
         "confidence": 0.314
       }
     ],
-    "processing_time_ms": 62.59,
+    "processing_time_ms": 51.07,
     "detection_method": "YOLO"
   },
   {
@@ -26376,7 +26327,7 @@
       "total_frames": 466
     },
     "frame_number": 331,
-    "timestamp": 1781423633.6338801,
+    "timestamp": 1781457979.1331,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -26443,7 +26394,7 @@
         "confidence": 0.358
       }
     ],
-    "processing_time_ms": 56.27,
+    "processing_time_ms": 56.52,
     "detection_method": "YOLO"
   },
   {
@@ -26457,7 +26408,7 @@
       "total_frames": 466
     },
     "frame_number": 332,
-    "timestamp": 1781423633.6963499,
+    "timestamp": 1781457979.194101,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -26524,7 +26475,7 @@
         "confidence": 0.372
       }
     ],
-    "processing_time_ms": 54.12,
+    "processing_time_ms": 51.99,
     "detection_method": "YOLO"
   },
   {
@@ -26538,7 +26489,7 @@
       "total_frames": 466
     },
     "frame_number": 333,
-    "timestamp": 1781423633.7622402,
+    "timestamp": 1781457979.2531013,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -26612,7 +26563,7 @@
         "confidence": 0.303
       }
     ],
-    "processing_time_ms": 56.05,
+    "processing_time_ms": 66.62,
     "detection_method": "YOLO"
   },
   {
@@ -26626,7 +26577,7 @@
       "total_frames": 466
     },
     "frame_number": 334,
-    "timestamp": 1781423633.8322535,
+    "timestamp": 1781457979.3121004,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -26700,7 +26651,7 @@
         "confidence": 0.364
       }
     ],
-    "processing_time_ms": 56.78,
+    "processing_time_ms": 53.74,
     "detection_method": "YOLO"
   },
   {
@@ -26714,7 +26665,7 @@
       "total_frames": 466
     },
     "frame_number": 335,
-    "timestamp": 1781423633.9071603,
+    "timestamp": 1781457979.3721006,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -26788,7 +26739,7 @@
         "confidence": 0.363
       }
     ],
-    "processing_time_ms": 57.58,
+    "processing_time_ms": 49.47,
     "detection_method": "YOLO"
   },
   {
@@ -26802,7 +26753,7 @@
       "total_frames": 466
     },
     "frame_number": 336,
-    "timestamp": 1781423633.9712808,
+    "timestamp": 1781457979.4410954,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -26890,7 +26841,7 @@
         "confidence": 0.364
       }
     ],
-    "processing_time_ms": 58.86,
+    "processing_time_ms": 50.28,
     "detection_method": "YOLO"
   },
   {
@@ -26904,7 +26855,7 @@
       "total_frames": 466
     },
     "frame_number": 337,
-    "timestamp": 1781423634.033839,
+    "timestamp": 1781457979.4960945,
     "person_count": 13,
     "bounding_boxes": [
       {
@@ -26999,7 +26950,7 @@
         "confidence": 0.315
       }
     ],
-    "processing_time_ms": 54.44,
+    "processing_time_ms": 54.56,
     "detection_method": "YOLO"
   },
   {
@@ -27013,7 +26964,7 @@
       "total_frames": 466
     },
     "frame_number": 338,
-    "timestamp": 1781423634.1037939,
+    "timestamp": 1781457979.572099,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -27101,7 +27052,7 @@
         "confidence": 0.34
       }
     ],
-    "processing_time_ms": 60.3,
+    "processing_time_ms": 50.16,
     "detection_method": "YOLO"
   },
   {
@@ -27115,7 +27066,7 @@
       "total_frames": 466
     },
     "frame_number": 339,
-    "timestamp": 1781423634.1661358,
+    "timestamp": 1781457979.6341,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -27196,7 +27147,7 @@
         "confidence": 0.379
       }
     ],
-    "processing_time_ms": 67.04,
+    "processing_time_ms": 54.73,
     "detection_method": "YOLO"
   },
   {
@@ -27210,7 +27161,7 @@
       "total_frames": 466
     },
     "frame_number": 340,
-    "timestamp": 1781423634.2333698,
+    "timestamp": 1781457979.692102,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -27298,7 +27249,7 @@
         "confidence": 0.335
       }
     ],
-    "processing_time_ms": 57.04,
+    "processing_time_ms": 57.2,
     "detection_method": "YOLO"
   },
   {
@@ -27312,7 +27263,7 @@
       "total_frames": 466
     },
     "frame_number": 341,
-    "timestamp": 1781423634.3021173,
+    "timestamp": 1781457979.7491012,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -27400,7 +27351,7 @@
         "confidence": 0.318
       }
     ],
-    "processing_time_ms": 54.17,
+    "processing_time_ms": 52.26,
     "detection_method": "YOLO"
   },
   {
@@ -27414,7 +27365,7 @@
       "total_frames": 466
     },
     "frame_number": 342,
-    "timestamp": 1781423634.3643782,
+    "timestamp": 1781457979.8151007,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -27502,7 +27453,7 @@
         "confidence": 0.366
       }
     ],
-    "processing_time_ms": 56.05,
+    "processing_time_ms": 52.08,
     "detection_method": "YOLO"
   },
   {
@@ -27516,7 +27467,7 @@
       "total_frames": 466
     },
     "frame_number": 343,
-    "timestamp": 1781423634.4325643,
+    "timestamp": 1781457979.8721,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -27604,7 +27555,7 @@
         "confidence": 0.342
       }
     ],
-    "processing_time_ms": 56.96,
+    "processing_time_ms": 49.37,
     "detection_method": "YOLO"
   },
   {
@@ -27618,7 +27569,7 @@
       "total_frames": 466
     },
     "frame_number": 344,
-    "timestamp": 1781423634.5082805,
+    "timestamp": 1781457979.9350991,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -27706,7 +27657,7 @@
         "confidence": 0.31
       }
     ],
-    "processing_time_ms": 57.23,
+    "processing_time_ms": 49.9,
     "detection_method": "YOLO"
   },
   {
@@ -27720,7 +27671,7 @@
       "total_frames": 466
     },
     "frame_number": 345,
-    "timestamp": 1781423634.5744164,
+    "timestamp": 1781457980.0001004,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -27801,7 +27752,7 @@
         "confidence": 0.354
       }
     ],
-    "processing_time_ms": 55.41,
+    "processing_time_ms": 51.95,
     "detection_method": "YOLO"
   },
   {
@@ -27815,7 +27766,7 @@
       "total_frames": 466
     },
     "frame_number": 346,
-    "timestamp": 1781423634.640226,
+    "timestamp": 1781457980.0630999,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -27896,7 +27847,7 @@
         "confidence": 0.376
       }
     ],
-    "processing_time_ms": 54.9,
+    "processing_time_ms": 55.63,
     "detection_method": "YOLO"
   },
   {
@@ -27910,7 +27861,7 @@
       "total_frames": 466
     },
     "frame_number": 347,
-    "timestamp": 1781423634.7054324,
+    "timestamp": 1781457980.1220994,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -27991,7 +27942,7 @@
         "confidence": 0.37
       }
     ],
-    "processing_time_ms": 58.75,
+    "processing_time_ms": 53.09,
     "detection_method": "YOLO"
   },
   {
@@ -28005,7 +27956,7 @@
       "total_frames": 466
     },
     "frame_number": 348,
-    "timestamp": 1781423634.7754319,
+    "timestamp": 1781457980.1801004,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -28086,7 +28037,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 56.51,
+    "processing_time_ms": 55.56,
     "detection_method": "YOLO"
   },
   {
@@ -28100,7 +28051,7 @@
       "total_frames": 466
     },
     "frame_number": 349,
-    "timestamp": 1781423634.841062,
+    "timestamp": 1781457980.2381008,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -28167,7 +28118,7 @@
         "confidence": 0.378
       }
     ],
-    "processing_time_ms": 70.64,
+    "processing_time_ms": 47.78,
     "detection_method": "YOLO"
   },
   {
@@ -28181,7 +28132,7 @@
       "total_frames": 466
     },
     "frame_number": 350,
-    "timestamp": 1781423634.9116576,
+    "timestamp": 1781457980.3001,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -28269,7 +28220,7 @@
         "confidence": 0.303
       }
     ],
-    "processing_time_ms": 59.86,
+    "processing_time_ms": 51.66,
     "detection_method": "YOLO"
   },
   {
@@ -28283,7 +28234,7 @@
       "total_frames": 466
     },
     "frame_number": 351,
-    "timestamp": 1781423634.9721577,
+    "timestamp": 1781457980.361101,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -28357,7 +28308,7 @@
         "confidence": 0.301
       }
     ],
-    "processing_time_ms": 56.06,
+    "processing_time_ms": 49.29,
     "detection_method": "YOLO"
   },
   {
@@ -28371,7 +28322,7 @@
       "total_frames": 466
     },
     "frame_number": 352,
-    "timestamp": 1781423635.0401056,
+    "timestamp": 1781457980.4250998,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -28445,7 +28396,7 @@
         "confidence": 0.328
       }
     ],
-    "processing_time_ms": 65.96,
+    "processing_time_ms": 52.13,
     "detection_method": "YOLO"
   },
   {
@@ -28459,7 +28410,7 @@
       "total_frames": 466
     },
     "frame_number": 353,
-    "timestamp": 1781423635.1059961,
+    "timestamp": 1781457980.4901001,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -28533,7 +28484,7 @@
         "confidence": 0.362
       }
     ],
-    "processing_time_ms": 63.42,
+    "processing_time_ms": 50.29,
     "detection_method": "YOLO"
   },
   {
@@ -28547,7 +28498,7 @@
       "total_frames": 466
     },
     "frame_number": 354,
-    "timestamp": 1781423635.1891823,
+    "timestamp": 1781457980.544099,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -28621,7 +28572,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 57.01,
+    "processing_time_ms": 49.83,
     "detection_method": "YOLO"
   },
   {
@@ -28635,7 +28586,7 @@
       "total_frames": 466
     },
     "frame_number": 355,
-    "timestamp": 1781423635.2891443,
+    "timestamp": 1781457980.6301055,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -28702,7 +28653,7 @@
         "confidence": 0.4
       }
     ],
-    "processing_time_ms": 65.1,
+    "processing_time_ms": 53.93,
     "detection_method": "YOLO"
   },
   {
@@ -28716,7 +28667,7 @@
       "total_frames": 466
     },
     "frame_number": 356,
-    "timestamp": 1781423635.355175,
+    "timestamp": 1781457980.6871014,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -28783,7 +28734,7 @@
         "confidence": 0.4
       }
     ],
-    "processing_time_ms": 85.05,
+    "processing_time_ms": 49.48,
     "detection_method": "YOLO"
   },
   {
@@ -28797,7 +28748,7 @@
       "total_frames": 466
     },
     "frame_number": 357,
-    "timestamp": 1781423635.4332836,
+    "timestamp": 1781457980.7501013,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -28871,7 +28822,7 @@
         "confidence": 0.315
       }
     ],
-    "processing_time_ms": 71.24,
+    "processing_time_ms": 50.74,
     "detection_method": "YOLO"
   },
   {
@@ -28885,7 +28836,7 @@
       "total_frames": 466
     },
     "frame_number": 358,
-    "timestamp": 1781423635.5027862,
+    "timestamp": 1781457980.8061001,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -28959,7 +28910,7 @@
         "confidence": 0.343
       }
     ],
-    "processing_time_ms": 57.75,
+    "processing_time_ms": 51.58,
     "detection_method": "YOLO"
   },
   {
@@ -28973,7 +28924,7 @@
       "total_frames": 466
     },
     "frame_number": 359,
-    "timestamp": 1781423635.576388,
+    "timestamp": 1781457980.8651028,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -29040,7 +28991,7 @@
         "confidence": 0.503
       }
     ],
-    "processing_time_ms": 66.79,
+    "processing_time_ms": 57.15,
     "detection_method": "YOLO"
   },
   {
@@ -29054,7 +29005,7 @@
       "total_frames": 466
     },
     "frame_number": 360,
-    "timestamp": 1781423635.6534054,
+    "timestamp": 1781457980.930101,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -29121,7 +29072,7 @@
         "confidence": 0.44
       }
     ],
-    "processing_time_ms": 57.16,
+    "processing_time_ms": 50.24,
     "detection_method": "YOLO"
   },
   {
@@ -29135,7 +29086,7 @@
       "total_frames": 466
     },
     "frame_number": 361,
-    "timestamp": 1781423635.7534173,
+    "timestamp": 1781457980.9871006,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -29209,7 +29160,7 @@
         "confidence": 0.343
       }
     ],
-    "processing_time_ms": 57.5,
+    "processing_time_ms": 52.18,
     "detection_method": "YOLO"
   },
   {
@@ -29223,7 +29174,7 @@
       "total_frames": 466
     },
     "frame_number": 362,
-    "timestamp": 1781423635.8342118,
+    "timestamp": 1781457981.046101,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -29311,7 +29262,7 @@
         "confidence": 0.305
       }
     ],
-    "processing_time_ms": 58.61,
+    "processing_time_ms": 51.11,
     "detection_method": "YOLO"
   },
   {
@@ -29325,7 +29276,7 @@
       "total_frames": 466
     },
     "frame_number": 363,
-    "timestamp": 1781423635.9038777,
+    "timestamp": 1781457981.1071012,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -29399,7 +29350,7 @@
         "confidence": 0.351
       }
     ],
-    "processing_time_ms": 58.49,
+    "processing_time_ms": 52.38,
     "detection_method": "YOLO"
   },
   {
@@ -29413,7 +29364,7 @@
       "total_frames": 466
     },
     "frame_number": 364,
-    "timestamp": 1781423635.9819484,
+    "timestamp": 1781457981.1751013,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -29487,7 +29438,7 @@
         "confidence": 0.327
       }
     ],
-    "processing_time_ms": 58.92,
+    "processing_time_ms": 55.55,
     "detection_method": "YOLO"
   },
   {
@@ -29501,7 +29452,7 @@
       "total_frames": 466
     },
     "frame_number": 365,
-    "timestamp": 1781423636.0497625,
+    "timestamp": 1781457981.2351007,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -29568,7 +29519,7 @@
         "confidence": 0.433
       }
     ],
-    "processing_time_ms": 61.01,
+    "processing_time_ms": 52.7,
     "detection_method": "YOLO"
   },
   {
@@ -29582,7 +29533,7 @@
       "total_frames": 466
     },
     "frame_number": 366,
-    "timestamp": 1781423636.1170745,
+    "timestamp": 1781457981.2941015,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -29656,7 +29607,7 @@
         "confidence": 0.349
       }
     ],
-    "processing_time_ms": 71.02,
+    "processing_time_ms": 54.83,
     "detection_method": "YOLO"
   },
   {
@@ -29670,7 +29621,7 @@
       "total_frames": 466
     },
     "frame_number": 367,
-    "timestamp": 1781423636.1875837,
+    "timestamp": 1781457981.357101,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -29744,7 +29695,7 @@
         "confidence": 0.334
       }
     ],
-    "processing_time_ms": 69.33,
+    "processing_time_ms": 49.04,
     "detection_method": "YOLO"
   },
   {
@@ -29758,7 +29709,7 @@
       "total_frames": 466
     },
     "frame_number": 368,
-    "timestamp": 1781423636.258452,
+    "timestamp": 1781457981.4191,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -29832,7 +29783,7 @@
         "confidence": 0.355
       }
     ],
-    "processing_time_ms": 63.34,
+    "processing_time_ms": 50.75,
     "detection_method": "YOLO"
   },
   {
@@ -29846,7 +29797,7 @@
       "total_frames": 466
     },
     "frame_number": 369,
-    "timestamp": 1781423636.3272064,
+    "timestamp": 1781457981.483101,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -29920,7 +29871,7 @@
         "confidence": 0.31
       }
     ],
-    "processing_time_ms": 71.73,
+    "processing_time_ms": 57.14,
     "detection_method": "YOLO"
   },
   {
@@ -29934,7 +29885,7 @@
       "total_frames": 466
     },
     "frame_number": 370,
-    "timestamp": 1781423636.3980932,
+    "timestamp": 1781457981.542103,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -30008,7 +29959,7 @@
         "confidence": 0.321
       }
     ],
-    "processing_time_ms": 61.01,
+    "processing_time_ms": 50.11,
     "detection_method": "YOLO"
   },
   {
@@ -30022,7 +29973,7 @@
       "total_frames": 466
     },
     "frame_number": 371,
-    "timestamp": 1781423636.4781272,
+    "timestamp": 1781457981.6071005,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -30089,7 +30040,7 @@
         "confidence": 0.363
       }
     ],
-    "processing_time_ms": 57.47,
+    "processing_time_ms": 54.82,
     "detection_method": "YOLO"
   },
   {
@@ -30103,8 +30054,8 @@
       "total_frames": 466
     },
     "frame_number": 372,
-    "timestamp": 1781423636.5626397,
-    "person_count": 10,
+    "timestamp": 1781457981.6651008,
+    "person_count": 9,
     "bounding_boxes": [
       {
         "x": 2723,
@@ -30168,16 +30119,9 @@
         "width": 206,
         "height": 528,
         "confidence": 0.412
-      },
-      {
-        "x": 2964,
-        "y": 1357,
-        "width": 257,
-        "height": 792,
-        "confidence": 0.351
       }
     ],
-    "processing_time_ms": 58.15,
+    "processing_time_ms": 50.65,
     "detection_method": "YOLO"
   },
   {
@@ -30191,7 +30135,7 @@
       "total_frames": 466
     },
     "frame_number": 373,
-    "timestamp": 1781423636.6364555,
+    "timestamp": 1781457981.7270994,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -30258,7 +30202,7 @@
         "confidence": 0.374
       }
     ],
-    "processing_time_ms": 57.28,
+    "processing_time_ms": 51.19,
     "detection_method": "YOLO"
   },
   {
@@ -30272,7 +30216,7 @@
       "total_frames": 466
     },
     "frame_number": 374,
-    "timestamp": 1781423636.7198923,
+    "timestamp": 1781457981.7901013,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -30339,7 +30283,7 @@
         "confidence": 0.359
       }
     ],
-    "processing_time_ms": 58.11,
+    "processing_time_ms": 49.17,
     "detection_method": "YOLO"
   },
   {
@@ -30353,7 +30297,7 @@
       "total_frames": 466
     },
     "frame_number": 375,
-    "timestamp": 1781423636.791715,
+    "timestamp": 1781457981.8510995,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -30420,7 +30364,7 @@
         "confidence": 0.349
       }
     ],
-    "processing_time_ms": 56.3,
+    "processing_time_ms": 56.15,
     "detection_method": "YOLO"
   },
   {
@@ -30434,7 +30378,7 @@
       "total_frames": 466
     },
     "frame_number": 376,
-    "timestamp": 1781423636.858478,
+    "timestamp": 1781457981.9121,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -30508,7 +30452,7 @@
         "confidence": 0.345
       }
     ],
-    "processing_time_ms": 57.7,
+    "processing_time_ms": 51.27,
     "detection_method": "YOLO"
   },
   {
@@ -30522,7 +30466,7 @@
       "total_frames": 466
     },
     "frame_number": 377,
-    "timestamp": 1781423636.9283226,
+    "timestamp": 1781457981.9731011,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -30582,7 +30526,7 @@
         "confidence": 0.448
       }
     ],
-    "processing_time_ms": 57.02,
+    "processing_time_ms": 53.11,
     "detection_method": "YOLO"
   },
   {
@@ -30596,7 +30540,7 @@
       "total_frames": 466
     },
     "frame_number": 378,
-    "timestamp": 1781423636.996115,
+    "timestamp": 1781457982.0331004,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -30656,7 +30600,7 @@
         "confidence": 0.373
       }
     ],
-    "processing_time_ms": 57.96,
+    "processing_time_ms": 51.37,
     "detection_method": "YOLO"
   },
   {
@@ -30670,7 +30614,7 @@
       "total_frames": 466
     },
     "frame_number": 379,
-    "timestamp": 1781423637.0634613,
+    "timestamp": 1781457982.0910995,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -30744,7 +30688,7 @@
         "confidence": 0.308
       }
     ],
-    "processing_time_ms": 75.09,
+    "processing_time_ms": 50.44,
     "detection_method": "YOLO"
   },
   {
@@ -30758,7 +30702,7 @@
       "total_frames": 466
     },
     "frame_number": 380,
-    "timestamp": 1781423637.1301847,
+    "timestamp": 1781457982.156109,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -30832,7 +30776,7 @@
         "confidence": 0.305
       }
     ],
-    "processing_time_ms": 68.75,
+    "processing_time_ms": 53.56,
     "detection_method": "YOLO"
   },
   {
@@ -30846,7 +30790,7 @@
       "total_frames": 466
     },
     "frame_number": 381,
-    "timestamp": 1781423637.2004075,
+    "timestamp": 1781457982.2191002,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -30934,7 +30878,7 @@
         "confidence": 0.305
       }
     ],
-    "processing_time_ms": 86.68,
+    "processing_time_ms": 53.17,
     "detection_method": "YOLO"
   },
   {
@@ -30948,7 +30892,7 @@
       "total_frames": 466
     },
     "frame_number": 382,
-    "timestamp": 1781423637.2668397,
+    "timestamp": 1781457982.2811477,
     "person_count": 13,
     "bounding_boxes": [
       {
@@ -31043,7 +30987,7 @@
         "confidence": 0.313
       }
     ],
-    "processing_time_ms": 60.45,
+    "processing_time_ms": 49.8,
     "detection_method": "YOLO"
   },
   {
@@ -31057,7 +31001,7 @@
       "total_frames": 466
     },
     "frame_number": 383,
-    "timestamp": 1781423637.3387284,
+    "timestamp": 1781457982.3421,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -31131,7 +31075,7 @@
         "confidence": 0.341
       }
     ],
-    "processing_time_ms": 61.16,
+    "processing_time_ms": 51.13,
     "detection_method": "YOLO"
   },
   {
@@ -31145,7 +31089,7 @@
       "total_frames": 466
     },
     "frame_number": 384,
-    "timestamp": 1781423637.4241867,
+    "timestamp": 1781457982.4041011,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -31219,7 +31163,7 @@
         "confidence": 0.356
       }
     ],
-    "processing_time_ms": 57.39,
+    "processing_time_ms": 60.77,
     "detection_method": "YOLO"
   },
   {
@@ -31233,7 +31177,7 @@
       "total_frames": 466
     },
     "frame_number": 385,
-    "timestamp": 1781423637.5213218,
+    "timestamp": 1781457982.4661012,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -31307,7 +31251,7 @@
         "confidence": 0.301
       }
     ],
-    "processing_time_ms": 60.47,
+    "processing_time_ms": 69.29,
     "detection_method": "YOLO"
   },
   {
@@ -31321,7 +31265,7 @@
       "total_frames": 466
     },
     "frame_number": 386,
-    "timestamp": 1781423637.6094408,
+    "timestamp": 1781457982.5261004,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -31395,7 +31339,7 @@
         "confidence": 0.309
       }
     ],
-    "processing_time_ms": 69.76,
+    "processing_time_ms": 56.49,
     "detection_method": "YOLO"
   },
   {
@@ -31409,7 +31353,7 @@
       "total_frames": 466
     },
     "frame_number": 387,
-    "timestamp": 1781423637.683175,
+    "timestamp": 1781457982.5871005,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -31476,7 +31420,7 @@
         "confidence": 0.308
       }
     ],
-    "processing_time_ms": 66.28,
+    "processing_time_ms": 48.16,
     "detection_method": "YOLO"
   },
   {
@@ -31490,7 +31434,7 @@
       "total_frames": 466
     },
     "frame_number": 388,
-    "timestamp": 1781423637.7536333,
+    "timestamp": 1781457982.6481001,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -31550,7 +31494,7 @@
         "confidence": 0.377
       }
     ],
-    "processing_time_ms": 57.31,
+    "processing_time_ms": 50.23,
     "detection_method": "YOLO"
   },
   {
@@ -31564,7 +31508,7 @@
       "total_frames": 466
     },
     "frame_number": 389,
-    "timestamp": 1781423637.8224225,
+    "timestamp": 1781457982.7211008,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -31631,7 +31575,7 @@
         "confidence": 0.35
       }
     ],
-    "processing_time_ms": 80.31,
+    "processing_time_ms": 64.15,
     "detection_method": "YOLO"
   },
   {
@@ -31645,7 +31589,7 @@
       "total_frames": 466
     },
     "frame_number": 390,
-    "timestamp": 1781423637.8953831,
+    "timestamp": 1781457982.8011003,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -31705,7 +31649,7 @@
         "confidence": 0.315
       }
     ],
-    "processing_time_ms": 67.79,
+    "processing_time_ms": 53.95,
     "detection_method": "YOLO"
   },
   {
@@ -31719,7 +31663,7 @@
       "total_frames": 466
     },
     "frame_number": 391,
-    "timestamp": 1781423637.978663,
+    "timestamp": 1781457982.8671,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -31779,7 +31723,7 @@
         "confidence": 0.33
       }
     ],
-    "processing_time_ms": 62.62,
+    "processing_time_ms": 49.78,
     "detection_method": "YOLO"
   },
   {
@@ -31793,7 +31737,7 @@
       "total_frames": 466
     },
     "frame_number": 392,
-    "timestamp": 1781423638.0540638,
+    "timestamp": 1781457982.9261003,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -31853,7 +31797,7 @@
         "confidence": 0.311
       }
     ],
-    "processing_time_ms": 62.94,
+    "processing_time_ms": 59.95,
     "detection_method": "YOLO"
   },
   {
@@ -31867,7 +31811,7 @@
       "total_frames": 466
     },
     "frame_number": 393,
-    "timestamp": 1781423638.1238244,
+    "timestamp": 1781457982.9851007,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -31934,7 +31878,7 @@
         "confidence": 0.302
       }
     ],
-    "processing_time_ms": 59.11,
+    "processing_time_ms": 50.47,
     "detection_method": "YOLO"
   },
   {
@@ -31948,7 +31892,7 @@
       "total_frames": 466
     },
     "frame_number": 394,
-    "timestamp": 1781423638.2163677,
+    "timestamp": 1781457983.0590997,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -32015,7 +31959,7 @@
         "confidence": 0.34
       }
     ],
-    "processing_time_ms": 58.47,
+    "processing_time_ms": 50.8,
     "detection_method": "YOLO"
   },
   {
@@ -32029,7 +31973,7 @@
       "total_frames": 466
     },
     "frame_number": 395,
-    "timestamp": 1781423638.2987967,
+    "timestamp": 1781457983.1330993,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -32089,7 +32033,7 @@
         "confidence": 0.32
       }
     ],
-    "processing_time_ms": 61.29,
+    "processing_time_ms": 50.37,
     "detection_method": "YOLO"
   },
   {
@@ -32103,7 +32047,7 @@
       "total_frames": 466
     },
     "frame_number": 396,
-    "timestamp": 1781423638.371686,
+    "timestamp": 1781457983.185101,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -32170,7 +32114,7 @@
         "confidence": 0.32
       }
     ],
-    "processing_time_ms": 79.25,
+    "processing_time_ms": 57.55,
     "detection_method": "YOLO"
   },
   {
@@ -32184,7 +32128,7 @@
       "total_frames": 466
     },
     "frame_number": 397,
-    "timestamp": 1781423638.4462163,
+    "timestamp": 1781457983.2541,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -32258,7 +32202,7 @@
         "confidence": 0.306
       }
     ],
-    "processing_time_ms": 59.24,
+    "processing_time_ms": 54.91,
     "detection_method": "YOLO"
   },
   {
@@ -32272,7 +32216,7 @@
       "total_frames": 466
     },
     "frame_number": 398,
-    "timestamp": 1781423638.5123246,
+    "timestamp": 1781457983.3131006,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -32332,7 +32276,7 @@
         "confidence": 0.353
       }
     ],
-    "processing_time_ms": 61.48,
+    "processing_time_ms": 50.34,
     "detection_method": "YOLO"
   },
   {
@@ -32346,7 +32290,7 @@
       "total_frames": 466
     },
     "frame_number": 399,
-    "timestamp": 1781423638.5852654,
+    "timestamp": 1781457983.3721006,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -32413,7 +32357,7 @@
         "confidence": 0.304
       }
     ],
-    "processing_time_ms": 63.31,
+    "processing_time_ms": 51.0,
     "detection_method": "YOLO"
   },
   {
@@ -32427,7 +32371,7 @@
       "total_frames": 466
     },
     "frame_number": 400,
-    "timestamp": 1781423638.6535318,
+    "timestamp": 1781457983.4331017,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -32501,7 +32445,7 @@
         "confidence": 0.321
       }
     ],
-    "processing_time_ms": 60.86,
+    "processing_time_ms": 51.19,
     "detection_method": "YOLO"
   },
   {
@@ -32515,7 +32459,7 @@
       "total_frames": 466
     },
     "frame_number": 401,
-    "timestamp": 1781423638.7470684,
+    "timestamp": 1781457983.5040998,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -32596,7 +32540,7 @@
         "confidence": 0.301
       }
     ],
-    "processing_time_ms": 58.13,
+    "processing_time_ms": 50.35,
     "detection_method": "YOLO"
   },
   {
@@ -32610,7 +32554,7 @@
       "total_frames": 466
     },
     "frame_number": 402,
-    "timestamp": 1781423638.8176804,
+    "timestamp": 1781457983.5670986,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -32684,7 +32628,7 @@
         "confidence": 0.333
       }
     ],
-    "processing_time_ms": 58.78,
+    "processing_time_ms": 51.25,
     "detection_method": "YOLO"
   },
   {
@@ -32698,7 +32642,7 @@
       "total_frames": 466
     },
     "frame_number": 403,
-    "timestamp": 1781423638.8962717,
+    "timestamp": 1781457983.627101,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -32772,7 +32716,7 @@
         "confidence": 0.308
       }
     ],
-    "processing_time_ms": 59.48,
+    "processing_time_ms": 49.7,
     "detection_method": "YOLO"
   },
   {
@@ -32786,7 +32730,7 @@
       "total_frames": 466
     },
     "frame_number": 404,
-    "timestamp": 1781423638.9652486,
+    "timestamp": 1781457983.6850996,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -32853,7 +32797,7 @@
         "confidence": 0.355
       }
     ],
-    "processing_time_ms": 60.91,
+    "processing_time_ms": 51.64,
     "detection_method": "YOLO"
   },
   {
@@ -32867,7 +32811,7 @@
       "total_frames": 466
     },
     "frame_number": 405,
-    "timestamp": 1781423639.0660896,
+    "timestamp": 1781457983.7731009,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -32941,7 +32885,7 @@
         "confidence": 0.315
       }
     ],
-    "processing_time_ms": 57.12,
+    "processing_time_ms": 54.16,
     "detection_method": "YOLO"
   },
   {
@@ -32955,7 +32899,7 @@
       "total_frames": 466
     },
     "frame_number": 406,
-    "timestamp": 1781423639.1362119,
+    "timestamp": 1781457983.8311007,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -33022,7 +32966,7 @@
         "confidence": 0.364
       }
     ],
-    "processing_time_ms": 57.93,
+    "processing_time_ms": 51.1,
     "detection_method": "YOLO"
   },
   {
@@ -33036,7 +32980,7 @@
       "total_frames": 466
     },
     "frame_number": 407,
-    "timestamp": 1781423639.2071834,
+    "timestamp": 1781457983.892114,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -33096,7 +33040,7 @@
         "confidence": 0.349
       }
     ],
-    "processing_time_ms": 60.66,
+    "processing_time_ms": 50.52,
     "detection_method": "YOLO"
   },
   {
@@ -33110,7 +33054,7 @@
       "total_frames": 466
     },
     "frame_number": 408,
-    "timestamp": 1781423639.279189,
+    "timestamp": 1781457983.9521012,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -33177,7 +33121,7 @@
         "confidence": 0.335
       }
     ],
-    "processing_time_ms": 60.41,
+    "processing_time_ms": 51.18,
     "detection_method": "YOLO"
   },
   {
@@ -33191,7 +33135,7 @@
       "total_frames": 466
     },
     "frame_number": 409,
-    "timestamp": 1781423639.350213,
+    "timestamp": 1781457984.0140986,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -33265,7 +33209,7 @@
         "confidence": 0.327
       }
     ],
-    "processing_time_ms": 67.26,
+    "processing_time_ms": 58.36,
     "detection_method": "YOLO"
   },
   {
@@ -33279,7 +33223,7 @@
       "total_frames": 466
     },
     "frame_number": 410,
-    "timestamp": 1781423639.416047,
+    "timestamp": 1781457984.076101,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -33353,7 +33297,7 @@
         "confidence": 0.312
       }
     ],
-    "processing_time_ms": 59.53,
+    "processing_time_ms": 50.77,
     "detection_method": "YOLO"
   },
   {
@@ -33367,7 +33311,7 @@
       "total_frames": 466
     },
     "frame_number": 411,
-    "timestamp": 1781423639.4870205,
+    "timestamp": 1781457984.1390996,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -33448,7 +33392,7 @@
         "confidence": 0.324
       }
     ],
-    "processing_time_ms": 62.41,
+    "processing_time_ms": 52.53,
     "detection_method": "YOLO"
   },
   {
@@ -33462,7 +33406,7 @@
       "total_frames": 466
     },
     "frame_number": 412,
-    "timestamp": 1781423639.5618317,
+    "timestamp": 1781457984.199102,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -33529,7 +33473,7 @@
         "confidence": 0.363
       }
     ],
-    "processing_time_ms": 61.86,
+    "processing_time_ms": 53.64,
     "detection_method": "YOLO"
   },
   {
@@ -33543,8 +33487,8 @@
       "total_frames": 466
     },
     "frame_number": 413,
-    "timestamp": 1781423639.634118,
-    "person_count": 10,
+    "timestamp": 1781457984.261133,
+    "person_count": 9,
     "bounding_boxes": [
       {
         "x": 2832,
@@ -33582,13 +33526,6 @@
         "confidence": 0.587
       },
       {
-        "x": 262,
-        "y": 1391,
-        "width": 264,
-        "height": 689,
-        "confidence": 0.584
-      },
-      {
         "x": 2107,
         "y": 1366,
         "width": 92,
@@ -33617,7 +33554,7 @@
         "confidence": 0.336
       }
     ],
-    "processing_time_ms": 60.86,
+    "processing_time_ms": 51.25,
     "detection_method": "YOLO"
   },
   {
@@ -33631,7 +33568,7 @@
       "total_frames": 466
     },
     "frame_number": 414,
-    "timestamp": 1781423639.7153254,
+    "timestamp": 1781457984.3331,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -33698,7 +33635,7 @@
         "confidence": 0.373
       }
     ],
-    "processing_time_ms": 67.46,
+    "processing_time_ms": 51.31,
     "detection_method": "YOLO"
   },
   {
@@ -33712,7 +33649,7 @@
       "total_frames": 466
     },
     "frame_number": 415,
-    "timestamp": 1781423639.7833765,
+    "timestamp": 1781457984.3920991,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -33786,7 +33723,7 @@
         "confidence": 0.303
       }
     ],
-    "processing_time_ms": 65.15,
+    "processing_time_ms": 51.77,
     "detection_method": "YOLO"
   },
   {
@@ -33800,7 +33737,7 @@
       "total_frames": 466
     },
     "frame_number": 416,
-    "timestamp": 1781423639.8592062,
+    "timestamp": 1781457984.4531016,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -33860,7 +33797,7 @@
         "confidence": 0.388
       }
     ],
-    "processing_time_ms": 58.47,
+    "processing_time_ms": 53.9,
     "detection_method": "YOLO"
   },
   {
@@ -33874,7 +33811,7 @@
       "total_frames": 466
     },
     "frame_number": 417,
-    "timestamp": 1781423639.9280317,
+    "timestamp": 1781457984.5161004,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -33948,7 +33885,7 @@
         "confidence": 0.304
       }
     ],
-    "processing_time_ms": 59.84,
+    "processing_time_ms": 50.89,
     "detection_method": "YOLO"
   },
   {
@@ -33962,7 +33899,7 @@
       "total_frames": 466
     },
     "frame_number": 418,
-    "timestamp": 1781423640.000246,
+    "timestamp": 1781457984.577098,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -34022,7 +33959,7 @@
         "confidence": 0.319
       }
     ],
-    "processing_time_ms": 59.5,
+    "processing_time_ms": 53.89,
     "detection_method": "YOLO"
   },
   {
@@ -34036,7 +33973,7 @@
       "total_frames": 466
     },
     "frame_number": 419,
-    "timestamp": 1781423640.0908382,
+    "timestamp": 1781457984.6420982,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -34103,7 +34040,7 @@
         "confidence": 0.333
       }
     ],
-    "processing_time_ms": 66.92,
+    "processing_time_ms": 54.26,
     "detection_method": "YOLO"
   },
   {
@@ -34117,7 +34054,7 @@
       "total_frames": 466
     },
     "frame_number": 420,
-    "timestamp": 1781423640.1627946,
+    "timestamp": 1781457984.7031002,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -34184,7 +34121,7 @@
         "confidence": 0.339
       }
     ],
-    "processing_time_ms": 61.04,
+    "processing_time_ms": 51.34,
     "detection_method": "YOLO"
   },
   {
@@ -34198,8 +34135,8 @@
       "total_frames": 466
     },
     "frame_number": 421,
-    "timestamp": 1781423640.2312334,
-    "person_count": 8,
+    "timestamp": 1781457984.7660987,
+    "person_count": 7,
     "bounding_boxes": [
       {
         "x": 2825,
@@ -34237,13 +34174,6 @@
         "confidence": 0.63
       },
       {
-        "x": 100,
-        "y": 1379,
-        "width": 326,
-        "height": 767,
-        "confidence": 0.481
-      },
-      {
         "x": 1197,
         "y": 1376,
         "width": 92,
@@ -34258,7 +34188,7 @@
         "confidence": 0.411
       }
     ],
-    "processing_time_ms": 61.23,
+    "processing_time_ms": 57.29,
     "detection_method": "YOLO"
   },
   {
@@ -34272,8 +34202,8 @@
       "total_frames": 466
     },
     "frame_number": 422,
-    "timestamp": 1781423640.3031058,
-    "person_count": 9,
+    "timestamp": 1781457984.8281004,
+    "person_count": 8,
     "bounding_boxes": [
       {
         "x": 559,
@@ -34311,13 +34241,6 @@
         "confidence": 0.626
       },
       {
-        "x": 212,
-        "y": 1651,
-        "width": 329,
-        "height": 505,
-        "confidence": 0.53
-      },
-      {
         "x": 2100,
         "y": 1376,
         "width": 85,
@@ -34339,7 +34262,7 @@
         "confidence": 0.308
       }
     ],
-    "processing_time_ms": 65.32,
+    "processing_time_ms": 57.02,
     "detection_method": "YOLO"
   },
   {
@@ -34353,7 +34276,7 @@
       "total_frames": 466
     },
     "frame_number": 423,
-    "timestamp": 1781423640.3765285,
+    "timestamp": 1781457984.8931007,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -34413,7 +34336,7 @@
         "confidence": 0.334
       }
     ],
-    "processing_time_ms": 61.97,
+    "processing_time_ms": 52.91,
     "detection_method": "YOLO"
   },
   {
@@ -34427,7 +34350,7 @@
       "total_frames": 466
     },
     "frame_number": 424,
-    "timestamp": 1781423640.4512646,
+    "timestamp": 1781457984.9561014,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -34487,7 +34410,7 @@
         "confidence": 0.305
       }
     ],
-    "processing_time_ms": 59.16,
+    "processing_time_ms": 53.56,
     "detection_method": "YOLO"
   },
   {
@@ -34501,7 +34424,7 @@
       "total_frames": 466
     },
     "frame_number": 425,
-    "timestamp": 1781423640.5271785,
+    "timestamp": 1781457985.0201004,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -34568,7 +34491,7 @@
         "confidence": 0.303
       }
     ],
-    "processing_time_ms": 58.82,
+    "processing_time_ms": 51.39,
     "detection_method": "YOLO"
   },
   {
@@ -34582,7 +34505,7 @@
       "total_frames": 466
     },
     "frame_number": 426,
-    "timestamp": 1781423640.602738,
+    "timestamp": 1781457985.0870981,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -34656,7 +34579,7 @@
         "confidence": 0.341
       }
     ],
-    "processing_time_ms": 62.12,
+    "processing_time_ms": 60.84,
     "detection_method": "YOLO"
   },
   {
@@ -34670,7 +34593,7 @@
       "total_frames": 466
     },
     "frame_number": 427,
-    "timestamp": 1781423640.6780045,
+    "timestamp": 1781457985.1530995,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -34744,7 +34667,7 @@
         "confidence": 0.337
       }
     ],
-    "processing_time_ms": 59.77,
+    "processing_time_ms": 51.9,
     "detection_method": "YOLO"
   },
   {
@@ -34758,7 +34681,7 @@
       "total_frames": 466
     },
     "frame_number": 428,
-    "timestamp": 1781423640.7489777,
+    "timestamp": 1781457985.2161007,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -34839,7 +34762,7 @@
         "confidence": 0.317
       }
     ],
-    "processing_time_ms": 61.88,
+    "processing_time_ms": 52.66,
     "detection_method": "YOLO"
   },
   {
@@ -34853,7 +34776,7 @@
       "total_frames": 466
     },
     "frame_number": 429,
-    "timestamp": 1781423640.823352,
+    "timestamp": 1781457985.2831004,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -34927,7 +34850,7 @@
         "confidence": 0.381
       }
     ],
-    "processing_time_ms": 65.8,
+    "processing_time_ms": 51.25,
     "detection_method": "YOLO"
   },
   {
@@ -34941,7 +34864,7 @@
       "total_frames": 466
     },
     "frame_number": 430,
-    "timestamp": 1781423640.891209,
+    "timestamp": 1781457985.3430998,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -35015,7 +34938,7 @@
         "confidence": 0.345
       }
     ],
-    "processing_time_ms": 59.86,
+    "processing_time_ms": 50.18,
     "detection_method": "YOLO"
   },
   {
@@ -35029,7 +34952,7 @@
       "total_frames": 466
     },
     "frame_number": 431,
-    "timestamp": 1781423640.9641361,
+    "timestamp": 1781457985.4140997,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -35103,7 +35026,7 @@
         "confidence": 0.389
       }
     ],
-    "processing_time_ms": 59.24,
+    "processing_time_ms": 50.98,
     "detection_method": "YOLO"
   },
   {
@@ -35117,8 +35040,8 @@
       "total_frames": 466
     },
     "frame_number": 432,
-    "timestamp": 1781423641.0392694,
-    "person_count": 9,
+    "timestamp": 1781457985.4781008,
+    "person_count": 8,
     "bounding_boxes": [
       {
         "x": 2858,
@@ -35170,13 +35093,6 @@
         "confidence": 0.44
       },
       {
-        "x": 443,
-        "y": 1385,
-        "width": 248,
-        "height": 608,
-        "confidence": 0.424
-      },
-      {
         "x": 1863,
         "y": 1379,
         "width": 83,
@@ -35184,7 +35100,7 @@
         "confidence": 0.358
       }
     ],
-    "processing_time_ms": 58.96,
+    "processing_time_ms": 54.36,
     "detection_method": "YOLO"
   },
   {
@@ -35198,8 +35114,8 @@
       "total_frames": 466
     },
     "frame_number": 433,
-    "timestamp": 1781423641.1156557,
-    "person_count": 9,
+    "timestamp": 1781457985.5381007,
+    "person_count": 8,
     "bounding_boxes": [
       {
         "x": 2,
@@ -35256,16 +35172,9 @@
         "width": 305,
         "height": 766,
         "confidence": 0.374
-      },
-      {
-        "x": 457,
-        "y": 1398,
-        "width": 206,
-        "height": 425,
-        "confidence": 0.315
       }
     ],
-    "processing_time_ms": 63.43,
+    "processing_time_ms": 52.16,
     "detection_method": "YOLO"
   },
   {
@@ -35279,7 +35188,7 @@
       "total_frames": 466
     },
     "frame_number": 434,
-    "timestamp": 1781423641.1868842,
+    "timestamp": 1781457985.598101,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -35346,7 +35255,7 @@
         "confidence": 0.309
       }
     ],
-    "processing_time_ms": 59.0,
+    "processing_time_ms": 51.91,
     "detection_method": "YOLO"
   },
   {
@@ -35360,7 +35269,7 @@
       "total_frames": 466
     },
     "frame_number": 435,
-    "timestamp": 1781423641.2611241,
+    "timestamp": 1781457985.6611009,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -35420,7 +35329,7 @@
         "confidence": 0.433
       }
     ],
-    "processing_time_ms": 60.14,
+    "processing_time_ms": 55.5,
     "detection_method": "YOLO"
   },
   {
@@ -35434,7 +35343,7 @@
       "total_frames": 466
     },
     "frame_number": 436,
-    "timestamp": 1781423641.3301961,
+    "timestamp": 1781457985.7231007,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -35508,7 +35417,7 @@
         "confidence": 0.33
       }
     ],
-    "processing_time_ms": 58.99,
+    "processing_time_ms": 52.87,
     "detection_method": "YOLO"
   },
   {
@@ -35522,7 +35431,7 @@
       "total_frames": 466
     },
     "frame_number": 437,
-    "timestamp": 1781423641.4011114,
+    "timestamp": 1781457985.7861001,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -35596,7 +35505,7 @@
         "confidence": 0.348
       }
     ],
-    "processing_time_ms": 59.26,
+    "processing_time_ms": 52.85,
     "detection_method": "YOLO"
   },
   {
@@ -35610,7 +35519,7 @@
       "total_frames": 466
     },
     "frame_number": 438,
-    "timestamp": 1781423641.4760542,
+    "timestamp": 1781457985.8470979,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -35684,7 +35593,7 @@
         "confidence": 0.332
       }
     ],
-    "processing_time_ms": 59.27,
+    "processing_time_ms": 54.49,
     "detection_method": "YOLO"
   },
   {
@@ -35698,7 +35607,7 @@
       "total_frames": 466
     },
     "frame_number": 439,
-    "timestamp": 1781423641.5472035,
+    "timestamp": 1781457985.9121,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -35772,7 +35681,7 @@
         "confidence": 0.383
       }
     ],
-    "processing_time_ms": 67.75,
+    "processing_time_ms": 51.74,
     "detection_method": "YOLO"
   },
   {
@@ -35786,7 +35695,7 @@
       "total_frames": 466
     },
     "frame_number": 440,
-    "timestamp": 1781423641.6180065,
+    "timestamp": 1781457985.975101,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -35874,7 +35783,7 @@
         "confidence": 0.311
       }
     ],
-    "processing_time_ms": 60.1,
+    "processing_time_ms": 53.44,
     "detection_method": "YOLO"
   },
   {
@@ -35888,7 +35797,7 @@
       "total_frames": 466
     },
     "frame_number": 441,
-    "timestamp": 1781423641.6881804,
+    "timestamp": 1781457986.0381005,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -35962,7 +35871,7 @@
         "confidence": 0.318
       }
     ],
-    "processing_time_ms": 58.07,
+    "processing_time_ms": 51.59,
     "detection_method": "YOLO"
   },
   {
@@ -35976,7 +35885,7 @@
       "total_frames": 466
     },
     "frame_number": 442,
-    "timestamp": 1781423641.7588434,
+    "timestamp": 1781457986.1001163,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -36043,7 +35952,7 @@
         "confidence": 0.333
       }
     ],
-    "processing_time_ms": 60.23,
+    "processing_time_ms": 55.53,
     "detection_method": "YOLO"
   },
   {
@@ -36057,7 +35966,7 @@
       "total_frames": 466
     },
     "frame_number": 443,
-    "timestamp": 1781423641.8302445,
+    "timestamp": 1781457986.1650996,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -36131,7 +36040,7 @@
         "confidence": 0.319
       }
     ],
-    "processing_time_ms": 59.46,
+    "processing_time_ms": 64.92,
     "detection_method": "YOLO"
   },
   {
@@ -36145,7 +36054,7 @@
       "total_frames": 466
     },
     "frame_number": 444,
-    "timestamp": 1781423641.9154978,
+    "timestamp": 1781457986.2291,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -36212,7 +36121,7 @@
         "confidence": 0.305
       }
     ],
-    "processing_time_ms": 60.1,
+    "processing_time_ms": 50.11,
     "detection_method": "YOLO"
   },
   {
@@ -36226,7 +36135,7 @@
       "total_frames": 466
     },
     "frame_number": 445,
-    "timestamp": 1781423641.9864256,
+    "timestamp": 1781457986.2940986,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -36293,7 +36202,7 @@
         "confidence": 0.312
       }
     ],
-    "processing_time_ms": 59.56,
+    "processing_time_ms": 52.13,
     "detection_method": "YOLO"
   },
   {
@@ -36307,7 +36216,7 @@
       "total_frames": 466
     },
     "frame_number": 446,
-    "timestamp": 1781423642.0572789,
+    "timestamp": 1781457986.3541002,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -36367,7 +36276,7 @@
         "confidence": 0.371
       }
     ],
-    "processing_time_ms": 58.18,
+    "processing_time_ms": 51.28,
     "detection_method": "YOLO"
   },
   {
@@ -36381,7 +36290,7 @@
       "total_frames": 466
     },
     "frame_number": 447,
-    "timestamp": 1781423642.129148,
+    "timestamp": 1781457986.4191005,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -36455,7 +36364,7 @@
         "confidence": 0.335
       }
     ],
-    "processing_time_ms": 59.99,
+    "processing_time_ms": 51.83,
     "detection_method": "YOLO"
   },
   {
@@ -36469,7 +36378,7 @@
       "total_frames": 466
     },
     "frame_number": 448,
-    "timestamp": 1781423642.1990309,
+    "timestamp": 1781457986.4911015,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -36536,7 +36445,7 @@
         "confidence": 0.33
       }
     ],
-    "processing_time_ms": 60.44,
+    "processing_time_ms": 52.07,
     "detection_method": "YOLO"
   },
   {
@@ -36550,7 +36459,7 @@
       "total_frames": 466
     },
     "frame_number": 449,
-    "timestamp": 1781423642.270123,
+    "timestamp": 1781457986.5521455,
     "person_count": 9,
     "bounding_boxes": [
       {
@@ -36617,7 +36526,7 @@
         "confidence": 0.378
       }
     ],
-    "processing_time_ms": 62.81,
+    "processing_time_ms": 62.67,
     "detection_method": "YOLO"
   },
   {
@@ -36631,8 +36540,8 @@
       "total_frames": 466
     },
     "frame_number": 450,
-    "timestamp": 1781423642.3391738,
-    "person_count": 11,
+    "timestamp": 1781457986.6131015,
+    "person_count": 10,
     "bounding_boxes": [
       {
         "x": 3466,
@@ -36691,13 +36600,6 @@
         "confidence": 0.468
       },
       {
-        "x": 145,
-        "y": 1389,
-        "width": 206,
-        "height": 415,
-        "confidence": 0.373
-      },
-      {
         "x": 2412,
         "y": 1392,
         "width": 90,
@@ -36712,7 +36614,7 @@
         "confidence": 0.326
       }
     ],
-    "processing_time_ms": 60.35,
+    "processing_time_ms": 50.02,
     "detection_method": "YOLO"
   },
   {
@@ -36726,7 +36628,7 @@
       "total_frames": 466
     },
     "frame_number": 451,
-    "timestamp": 1781423642.4080973,
+    "timestamp": 1781457986.6751099,
     "person_count": 8,
     "bounding_boxes": [
       {
@@ -36786,7 +36688,7 @@
         "confidence": 0.415
       }
     ],
-    "processing_time_ms": 61.87,
+    "processing_time_ms": 57.47,
     "detection_method": "YOLO"
   },
   {
@@ -36800,7 +36702,7 @@
       "total_frames": 466
     },
     "frame_number": 452,
-    "timestamp": 1781423642.4792812,
+    "timestamp": 1781457986.736101,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -36874,7 +36776,7 @@
         "confidence": 0.333
       }
     ],
-    "processing_time_ms": 57.76,
+    "processing_time_ms": 50.29,
     "detection_method": "YOLO"
   },
   {
@@ -36888,7 +36790,7 @@
       "total_frames": 466
     },
     "frame_number": 453,
-    "timestamp": 1781423642.5531821,
+    "timestamp": 1781457986.7991002,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -36969,7 +36871,7 @@
         "confidence": 0.305
       }
     ],
-    "processing_time_ms": 61.63,
+    "processing_time_ms": 50.84,
     "detection_method": "YOLO"
   },
   {
@@ -36983,7 +36885,7 @@
       "total_frames": 466
     },
     "frame_number": 454,
-    "timestamp": 1781423642.6274495,
+    "timestamp": 1781457986.8700998,
     "person_count": 10,
     "bounding_boxes": [
       {
@@ -37057,7 +36959,7 @@
         "confidence": 0.327
       }
     ],
-    "processing_time_ms": 54.44,
+    "processing_time_ms": 51.28,
     "detection_method": "YOLO"
   },
   {
@@ -37071,7 +36973,7 @@
       "total_frames": 466
     },
     "frame_number": 455,
-    "timestamp": 1781423642.735274,
+    "timestamp": 1781457986.9591005,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -37152,7 +37054,7 @@
         "confidence": 0.331
       }
     ],
-    "processing_time_ms": 57.62,
+    "processing_time_ms": 50.2,
     "detection_method": "YOLO"
   },
   {
@@ -37166,7 +37068,7 @@
       "total_frames": 466
     },
     "frame_number": 456,
-    "timestamp": 1781423642.8055425,
+    "timestamp": 1781457987.0261004,
     "person_count": 12,
     "bounding_boxes": [
       {
@@ -37254,7 +37156,7 @@
         "confidence": 0.303
       }
     ],
-    "processing_time_ms": 56.78,
+    "processing_time_ms": 48.93,
     "detection_method": "YOLO"
   },
   {
@@ -37268,7 +37170,7 @@
       "total_frames": 466
     },
     "frame_number": 457,
-    "timestamp": 1781423642.871551,
+    "timestamp": 1781457987.0870974,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -37349,7 +37251,7 @@
         "confidence": 0.326
       }
     ],
-    "processing_time_ms": 63.29,
+    "processing_time_ms": 51.83,
     "detection_method": "YOLO"
   },
   {
@@ -37363,7 +37265,7 @@
       "total_frames": 466
     },
     "frame_number": 458,
-    "timestamp": 1781423642.9439354,
+    "timestamp": 1781457987.1461005,
     "person_count": 11,
     "bounding_boxes": [
       {
@@ -37444,7 +37346,7 @@
         "confidence": 0.334
       }
     ],
-    "processing_time_ms": 55.83,
+    "processing_time_ms": 53.85,
     "detection_method": "YOLO"
   }
 ]

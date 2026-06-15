@@ -1,0 +1,23 @@
+{
+  "processing_info": {
+    "total_videos": 2,
+    "total_frames": 750,
+    "total_persons": 6389,
+    "avg_persons_per_frame_overall": 8.52,
+    "timestamp": "2026-06-15T00:26:27.464100"
+  },
+  "videos": {
+    "Nguoi1": {
+      "frames": 292,
+      "total_persons": 2231,
+      "avg_persons_per_frame": 7.64,
+      "result_dir": "results\\Nguoi1"
+    },
+    "Nguoi2": {
+      "frames": 458,
+      "total_persons": 4158,
+      "avg_persons_per_frame": 9.08,
+      "result_dir": "results\\Nguoi2"
+    }
+  }
+}

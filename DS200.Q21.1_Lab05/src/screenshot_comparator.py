@@ -64,11 +64,12 @@ class ComparisonGenerator:
                 img_yolo = frame.copy()
                 img_sahi = frame.copy()
                 
+                # ---------------------------------------------------------
                 # 1. Vẽ đồ họa nhận diện YOLO tiêu chuẩn
+                # ---------------------------------------------------------
                 yolo_results = self.standard_yolo(img_yolo, verbose=False)[0]
                 yolo_count = 0
                 
-                # ✅ FIX: Kiểm tra boxes không None/rỗng
                 boxes = yolo_results.boxes if yolo_results.boxes else []
                 for box in boxes:
                     try:
@@ -84,13 +85,33 @@ class ComparisonGenerator:
                 cv2.putText(img_yolo, f"Frame: {f_idx} | Total: {yolo_count}", (20, 40), 
                             cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
                             
-                # 2. Vẽ đồ họa nhận diện SAHI thông minh
+                # ---------------------------------------------------------
+                # 2. Vẽ đồ họa nhận diện SAHI thông minh (ĐÃ FIX LỖI)
+                # ---------------------------------------------------------
                 sahi_count = 0
                 if self.sahi_wrapper and SAHI_AVAILABLE:
                     try:
-                        sahi_res = get_sliced_prediction(img_sahi, self.sahi_wrapper, slice_height=256, slice_width=256, verbose=0)
+                        # 👉 ĐÃ FIX: Chuyển kích thước lát cắt thành 512x512 đồng bộ và kích hoạt thuật toán gộp box NMS chống trùng
+                        sahi_res = get_sliced_prediction(
+                            img_sahi, 
+                            self.sahi_wrapper, 
+                            slice_height=512, 
+                            slice_width=512, 
+                            overlap_height_ratio=0.2,
+                            overlap_width_ratio=0.2,
+                            postprocess_type="NMS",          # Bật NMS xóa trùng lặp box ở rìa mảnh cắt
+                            postprocess_match_metric="IOU",
+                            postprocess_match_threshold=0.4, # Ngưỡng gộp box trùng nhau > 40%
+                            verbose=0
+                        )
+                        
                         for obj in sahi_res.object_prediction_list:
+                            # 👉 ĐÃ FIX: Chỉ nhận diện 'person' (Class 0)
                             if obj.category.id == 0 or obj.category.name == 'person':
+                                # 👉 ĐÃ FIX: Ép điều kiện lọc ngưỡng tự tin để loại bỏ cây cối, cột đèn nhận diện sai tỉ lệ thấp
+                                if float(obj.score.value) < self.conf_level:
+                                    continue
+                                    
                                 sahi_count += 1
                                 b = obj.bbox
 

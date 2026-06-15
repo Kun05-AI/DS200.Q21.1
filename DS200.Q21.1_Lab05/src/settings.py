@@ -29,7 +29,7 @@ class Config:
     SPARK_BATCH_INTERVAL = 1
 
     # Nhận diện đối tượng
-    CONFIDENCE_THRESHOLD = 0.3
+    CONFIDENCE_THRESHOLD = 0.45  # Tăng từ 0.3 lên 0.45 hoặc 0.5
     YOLO_MODEL_PATH = os.path.join(ROOT_DIRECTORY, "models", "yolo", "yolo12n.pt")
 
     # Thư mục output chuẩn mới
